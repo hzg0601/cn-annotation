@@ -1,0 +1,2053 @@
+2021-04-12 20:14:02,561 - ReadData.py[line:15] - INFO: 读取数据开始。。。
+2021-04-12 20:14:55,494 - ReadData.py[line:17] - INFO: 读取数据完毕。
+2021-04-12 20:15:08,512 - ReadData.py[line:71] - INFO: 数据类型 train 共 148566 个节点
+2021-04-12 20:15:08,547 - ReadData.py[line:71] - INFO: 数据类型 val 共 33744 个节点
+2021-04-12 20:15:12,718 - ReadData.py[line:71] - INFO: 数据类型 test 共 46794 个节点
+2021-04-12 20:15:25,673 - SubgraphToTorch.py[line:94] - INFO: 【进程 163852】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:25,678 - SubgraphToTorch.py[line:94] - INFO: 【进程 163853】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:25,684 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:25,685 - SubgraphToTorch.py[line:94] - INFO: 【进程 163865】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:25,685 - SubgraphToTorch.py[line:94] - INFO: 【进程 163866】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:25,685 - SubgraphToTorch.py[line:94] - INFO: 【进程 163876】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:25,686 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:25,686 - SubgraphToTorch.py[line:94] - INFO: 【进程 163879】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:25,686 - SubgraphToTorch.py[line:94] - INFO: 【进程 163881】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:25,686 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:25,686 - SubgraphToTorch.py[line:94] - INFO: 【进程 163884】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:25,687 - SubgraphToTorch.py[line:94] - INFO: 【进程 163886】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:25,687 - SubgraphToTorch.py[line:94] - INFO: 【进程 163888】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:25,687 - SubgraphToTorch.py[line:94] - INFO: 【进程 163889】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:25,687 - SubgraphToTorch.py[line:94] - INFO: 【进程 163891】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:25,687 - SubgraphToTorch.py[line:94] - INFO: 【进程 163898】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:25,687 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:25,688 - SubgraphToTorch.py[line:94] - INFO: 【进程 163919】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:25,688 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:25,689 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:25,689 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:25,689 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:25,690 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:25,689 - SubgraphToTorch.py[line:94] - INFO: 【进程 163932】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:25,690 - SubgraphToTorch.py[line:94] - INFO: 【进程 163934】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:25,691 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:25,691 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:25,692 - SubgraphToTorch.py[line:94] - INFO: 【进程 163942】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:25,692 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:25,693 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:25,693 - SubgraphToTorch.py[line:94] - INFO: 【进程 163953】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:25,694 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:43,413 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:15:44,254 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:15:44,870 - SubgraphToTorch.py[line:428] - INFO: 【进程 163932】 上一个节点的全部数据生成完毕.
+2021-04-12 20:15:44,960 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:44,961 - SubgraphToTorch.py[line:428] - INFO: 【进程 163919】 上一个节点的全部数据生成完毕.
+2021-04-12 20:15:45,690 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:15:45,738 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:46,156 - SubgraphToTorch.py[line:428] - INFO: 【进程 163866】 上一个节点的全部数据生成完毕.
+2021-04-12 20:15:46,451 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:15:46,941 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:15:47,515 - SubgraphToTorch.py[line:428] - INFO: 【进程 163876】 上一个节点的全部数据生成完毕.
+2021-04-12 20:15:47,559 - SubgraphToTorch.py[line:94] - INFO: 【进程 163932】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:47,866 - SubgraphToTorch.py[line:428] - INFO: 【进程 163891】 上一个节点的全部数据生成完毕.
+2021-04-12 20:15:47,868 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:15:48,227 - SubgraphToTorch.py[line:428] - INFO: 【进程 163942】 上一个节点的全部数据生成完毕.
+2021-04-12 20:15:48,292 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:15:48,305 - SubgraphToTorch.py[line:428] - INFO: 【进程 163888】 上一个节点的全部数据生成完毕.
+2021-04-12 20:15:48,326 - SubgraphToTorch.py[line:94] - INFO: 【进程 163919】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:48,326 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:15:48,823 - SubgraphToTorch.py[line:428] - INFO: 【进程 163934】 上一个节点的全部数据生成完毕.
+2021-04-12 20:15:48,826 - SubgraphToTorch.py[line:428] - INFO: 【进程 163953】 上一个节点的全部数据生成完毕.
+2021-04-12 20:15:48,839 - SubgraphToTorch.py[line:428] - INFO: 【进程 163853】 上一个节点的全部数据生成完毕.
+2021-04-12 20:15:48,845 - SubgraphToTorch.py[line:428] - INFO: 【进程 163889】 上一个节点的全部数据生成完毕.
+2021-04-12 20:15:48,845 - SubgraphToTorch.py[line:428] - INFO: 【进程 163881】 上一个节点的全部数据生成完毕.
+2021-04-12 20:15:48,860 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:15:49,381 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:49,384 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:15:49,390 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:15:49,397 - SubgraphToTorch.py[line:428] - INFO: 【进程 163884】 上一个节点的全部数据生成完毕.
+2021-04-12 20:15:49,451 - SubgraphToTorch.py[line:428] - INFO: 【进程 163898】 上一个节点的全部数据生成完毕.
+2021-04-12 20:15:49,463 - SubgraphToTorch.py[line:428] - INFO: 【进程 163852】 上一个节点的全部数据生成完毕.
+2021-04-12 20:15:49,465 - SubgraphToTorch.py[line:428] - INFO: 【进程 163879】 上一个节点的全部数据生成完毕.
+2021-04-12 20:15:49,470 - SubgraphToTorch.py[line:94] - INFO: 【进程 163866】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:49,480 - SubgraphToTorch.py[line:428] - INFO: 【进程 163865】 上一个节点的全部数据生成完毕.
+2021-04-12 20:15:49,546 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:49,613 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:15:51,819 - SubgraphToTorch.py[line:428] - INFO: 【进程 163886】 上一个节点的全部数据生成完毕.
+2021-04-12 20:15:57,059 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:16:00,444 - SubgraphToTorch.py[line:94] - INFO: 【进程 163876】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:00,454 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:16:00,561 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:00,591 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:16:00,635 - SubgraphToTorch.py[line:94] - INFO: 【进程 163942】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:00,711 - SubgraphToTorch.py[line:94] - INFO: 【进程 163891】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:00,791 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:00,861 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:00,932 - SubgraphToTorch.py[line:94] - INFO: 【进程 163888】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:01,009 - SubgraphToTorch.py[line:94] - INFO: 【进程 163934】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:01,064 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:01,132 - SubgraphToTorch.py[line:94] - INFO: 【进程 163953】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:01,209 - SubgraphToTorch.py[line:94] - INFO: 【进程 163853】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:01,274 - SubgraphToTorch.py[line:94] - INFO: 【进程 163881】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:01,335 - SubgraphToTorch.py[line:94] - INFO: 【进程 163884】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:01,396 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:13,899 - SubgraphToTorch.py[line:428] - INFO: 【进程 163932】 上一个节点的全部数据生成完毕.
+2021-04-12 20:16:14,773 - SubgraphToTorch.py[line:94] - INFO: 【进程 163889】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:14,857 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:14,861 - SubgraphToTorch.py[line:428] - INFO: 【进程 163919】 上一个节点的全部数据生成完毕.
+2021-04-12 20:16:14,925 - SubgraphToTorch.py[line:94] - INFO: 【进程 163898】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:14,978 - SubgraphToTorch.py[line:94] - INFO: 【进程 163879】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:15,051 - SubgraphToTorch.py[line:94] - INFO: 【进程 163865】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:16,791 - SubgraphToTorch.py[line:94] - INFO: 【进程 163852】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:17,215 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:16:17,227 - SubgraphToTorch.py[line:94] - INFO: 【进程 163886】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:17,269 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:16:17,848 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:17,963 - SubgraphToTorch.py[line:428] - INFO: 【进程 163866】 上一个节点的全部数据生成完毕.
+2021-04-12 20:16:17,992 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:18,033 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:16:18,725 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:16:18,757 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:18,853 - SubgraphToTorch.py[line:94] - INFO: 【进程 163932】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:18,887 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:16:18,925 - SubgraphToTorch.py[line:94] - INFO: 【进程 163919】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:18,992 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:19,058 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:19,151 - SubgraphToTorch.py[line:94] - INFO: 【进程 163866】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:19,226 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:19,264 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:19,329 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:26,545 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:16:36,120 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:38,596 - SubgraphToTorch.py[line:428] - INFO: 【进程 163886】 上一个节点的全部数据生成完毕.
+2021-04-12 20:16:38,760 - SubgraphToTorch.py[line:94] - INFO: 【进程 163886】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:39,023 - SubgraphToTorch.py[line:428] - INFO: 【进程 163853】 上一个节点的全部数据生成完毕.
+2021-04-12 20:16:39,158 - SubgraphToTorch.py[line:94] - INFO: 【进程 163853】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:40,846 - SubgraphToTorch.py[line:428] - INFO: 【进程 163884】 上一个节点的全部数据生成完毕.
+2021-04-12 20:16:40,933 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:16:40,954 - SubgraphToTorch.py[line:94] - INFO: 【进程 163884】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:42,898 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:43,940 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:16:44,137 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:44,365 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:16:44,455 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:44,984 - SubgraphToTorch.py[line:428] - INFO: 【进程 163891】 上一个节点的全部数据生成完毕.
+2021-04-12 20:16:45,142 - SubgraphToTorch.py[line:94] - INFO: 【进程 163891】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:45,484 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:16:45,580 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:16:45,639 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:46,432 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:16:46,445 - SubgraphToTorch.py[line:428] - INFO: 【进程 163953】 上一个节点的全部数据生成完毕.
+2021-04-12 20:16:47,131 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:47,489 - SubgraphToTorch.py[line:428] - INFO: 【进程 163888】 上一个节点的全部数据生成完毕.
+2021-04-12 20:16:47,562 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:16:47,575 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:47,749 - SubgraphToTorch.py[line:94] - INFO: 【进程 163953】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:48,572 - SubgraphToTorch.py[line:94] - INFO: 【进程 163888】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:48,591 - SubgraphToTorch.py[line:428] - INFO: 【进程 163881】 上一个节点的全部数据生成完毕.
+2021-04-12 20:16:48,640 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:48,736 - SubgraphToTorch.py[line:94] - INFO: 【进程 163881】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:52,739 - SubgraphToTorch.py[line:428] - INFO: 【进程 163934】 上一个节点的全部数据生成完毕.
+2021-04-12 20:16:53,425 - SubgraphToTorch.py[line:428] - INFO: 【进程 163853】 上一个节点的全部数据生成完毕.
+2021-04-12 20:16:53,468 - SubgraphToTorch.py[line:94] - INFO: 【进程 163934】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:53,549 - SubgraphToTorch.py[line:94] - INFO: 【进程 163853】开始子图抽取与组装模块处理。。。
+2021-04-12 20:16:54,464 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:16:54,528 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:17:01,567 - SubgraphToTorch.py[line:428] - INFO: 【进程 163942】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:02,235 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:02,254 - SubgraphToTorch.py[line:94] - INFO: 【进程 163942】开始子图抽取与组装模块处理。。。
+2021-04-12 20:17:02,874 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:17:05,571 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:05,703 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:17:08,019 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:08,015 - SubgraphToTorch.py[line:428] - INFO: 【进程 163879】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:08,652 - SubgraphToTorch.py[line:94] - INFO: 【进程 163879】开始子图抽取与组装模块处理。。。
+2021-04-12 20:17:08,664 - SubgraphToTorch.py[line:428] - INFO: 【进程 163876】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:10,314 - SubgraphToTorch.py[line:428] - INFO: 【进程 163889】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:10,497 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:12,523 - SubgraphToTorch.py[line:428] - INFO: 【进程 163866】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:13,159 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:13,185 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:15,023 - SubgraphToTorch.py[line:428] - INFO: 【进程 163898】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:15,076 - SubgraphToTorch.py[line:428] - INFO: 【进程 163865】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:18,840 - SubgraphToTorch.py[line:428] - INFO: 【进程 163932】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:24,524 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:27,600 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:28,457 - SubgraphToTorch.py[line:428] - INFO: 【进程 163919】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:28,500 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:29,827 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:17:30,068 - SubgraphToTorch.py[line:94] - INFO: 【进程 163876】开始子图抽取与组装模块处理。。。
+2021-04-12 20:17:30,372 - SubgraphToTorch.py[line:428] - INFO: 【进程 163884】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:30,420 - SubgraphToTorch.py[line:428] - INFO: 【进程 163879】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:32,131 - SubgraphToTorch.py[line:94] - INFO: 【进程 163889】开始子图抽取与组装模块处理。。。
+2021-04-12 20:17:32,505 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:32,541 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:17:32,606 - SubgraphToTorch.py[line:428] - INFO: 【进程 163886】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:32,702 - SubgraphToTorch.py[line:94] - INFO: 【进程 163866】开始子图抽取与组装模块处理。。。
+2021-04-12 20:17:32,864 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:17:32,939 - SubgraphToTorch.py[line:428] - INFO: 【进程 163891】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:32,995 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:17:33,158 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:33,166 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:33,176 - SubgraphToTorch.py[line:428] - INFO: 【进程 163852】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:33,176 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:33,689 - SubgraphToTorch.py[line:94] - INFO: 【进程 163898】开始子图抽取与组装模块处理。。。
+2021-04-12 20:17:34,063 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:34,081 - SubgraphToTorch.py[line:428] - INFO: 【进程 163881】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:34,098 - SubgraphToTorch.py[line:428] - INFO: 【进程 163953】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:34,133 - SubgraphToTorch.py[line:94] - INFO: 【进程 163865】开始子图抽取与组装模块处理。。。
+2021-04-12 20:17:34,353 - SubgraphToTorch.py[line:428] - INFO: 【进程 163934】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:34,433 - SubgraphToTorch.py[line:94] - INFO: 【进程 163932】开始子图抽取与组装模块处理。。。
+2021-04-12 20:17:34,592 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:34,619 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:17:34,705 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:17:34,824 - SubgraphToTorch.py[line:94] - INFO: 【进程 163919】开始子图抽取与组装模块处理。。。
+2021-04-12 20:17:35,579 - SubgraphToTorch.py[line:428] - INFO: 【进程 163888】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:35,594 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:17:35,787 - SubgraphToTorch.py[line:94] - INFO: 【进程 163884】开始子图抽取与组装模块处理。。。
+2021-04-12 20:17:35,914 - SubgraphToTorch.py[line:428] - INFO: 【进程 163853】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:36,189 - SubgraphToTorch.py[line:94] - INFO: 【进程 163879】开始子图抽取与组装模块处理。。。
+2021-04-12 20:17:36,773 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:17:36,829 - SubgraphToTorch.py[line:94] - INFO: 【进程 163886】开始子图抽取与组装模块处理。。。
+2021-04-12 20:17:36,936 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:36,975 - SubgraphToTorch.py[line:94] - INFO: 【进程 163891】开始子图抽取与组装模块处理。。。
+2021-04-12 20:17:38,085 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:17:38,193 - SubgraphToTorch.py[line:94] - INFO: 【进程 163852】开始子图抽取与组装模块处理。。。
+2021-04-12 20:17:38,303 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:17:38,408 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:17:38,417 - SubgraphToTorch.py[line:428] - INFO: 【进程 163942】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:38,500 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:17:38,961 - SubgraphToTorch.py[line:94] - INFO: 【进程 163881】开始子图抽取与组装模块处理。。。
+2021-04-12 20:17:39,043 - SubgraphToTorch.py[line:94] - INFO: 【进程 163953】开始子图抽取与组装模块处理。。。
+2021-04-12 20:17:39,286 - SubgraphToTorch.py[line:94] - INFO: 【进程 163934】开始子图抽取与组装模块处理。。。
+2021-04-12 20:17:40,939 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:41,415 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:42,322 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:47,629 - SubgraphToTorch.py[line:428] - INFO: 【进程 163866】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:48,501 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:49,288 - SubgraphToTorch.py[line:428] - INFO: 【进程 163919】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:50,481 - SubgraphToTorch.py[line:428] - INFO: 【进程 163932】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:50,488 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:50,502 - SubgraphToTorch.py[line:428] - INFO: 【进程 163934】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:52,520 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:53,359 - SubgraphToTorch.py[line:428] - INFO: 【进程 163852】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:53,771 - SubgraphToTorch.py[line:428] - INFO: 【进程 163884】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:57,591 - SubgraphToTorch.py[line:428] - INFO: 【进程 163881】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:57,611 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:58,183 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:58,695 - SubgraphToTorch.py[line:428] - INFO: 【进程 163891】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:59,017 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:59,022 - SubgraphToTorch.py[line:428] - INFO: 【进程 163886】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:59,328 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:17:59,992 - SubgraphToTorch.py[line:428] - INFO: 【进程 163953】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:00,762 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:00,854 - SubgraphToTorch.py[line:94] - INFO: 【进程 163888】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:00,940 - SubgraphToTorch.py[line:94] - INFO: 【进程 163853】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:01,051 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:01,083 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:01,111 - SubgraphToTorch.py[line:94] - INFO: 【进程 163942】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:01,203 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:01,236 - SubgraphToTorch.py[line:428] - INFO: 【进程 163876】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:01,256 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:01,352 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:03,203 - SubgraphToTorch.py[line:94] - INFO: 【进程 163866】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:03,811 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:03,886 - SubgraphToTorch.py[line:94] - INFO: 【进程 163919】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:07,218 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:08,726 - SubgraphToTorch.py[line:94] - INFO: 【进程 163932】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:11,244 - SubgraphToTorch.py[line:428] - INFO: 【进程 163879】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:11,342 - SubgraphToTorch.py[line:94] - INFO: 【进程 163934】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:11,611 - SubgraphToTorch.py[line:428] - INFO: 【进程 163865】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:12,176 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:12,607 - SubgraphToTorch.py[line:94] - INFO: 【进程 163852】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:12,688 - SubgraphToTorch.py[line:94] - INFO: 【进程 163884】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:12,891 - SubgraphToTorch.py[line:94] - INFO: 【进程 163881】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:12,966 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:15,542 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:16,585 - SubgraphToTorch.py[line:94] - INFO: 【进程 163891】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:17,397 - SubgraphToTorch.py[line:428] - INFO: 【进程 163853】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:18,247 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:18,589 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:19,325 - SubgraphToTorch.py[line:94] - INFO: 【进程 163886】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:19,825 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:19,875 - SubgraphToTorch.py[line:428] - INFO: 【进程 163888】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:20,932 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:21,000 - SubgraphToTorch.py[line:94] - INFO: 【进程 163953】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:21,590 - SubgraphToTorch.py[line:428] - INFO: 【进程 163889】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:22,003 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:22,489 - SubgraphToTorch.py[line:428] - INFO: 【进程 163942】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:22,530 - SubgraphToTorch.py[line:94] - INFO: 【进程 163876】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:23,129 - SubgraphToTorch.py[line:428] - INFO: 【进程 163898】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:23,184 - SubgraphToTorch.py[line:94] - INFO: 【进程 163879】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:23,295 - SubgraphToTorch.py[line:94] - INFO: 【进程 163865】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:23,374 - SubgraphToTorch.py[line:94] - INFO: 【进程 163853】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:23,469 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:24,093 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:24,166 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:24,219 - SubgraphToTorch.py[line:94] - INFO: 【进程 163888】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:24,290 - SubgraphToTorch.py[line:94] - INFO: 【进程 163889】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:24,375 - SubgraphToTorch.py[line:94] - INFO: 【进程 163942】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:26,160 - SubgraphToTorch.py[line:428] - INFO: 【进程 163881】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:40,523 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:42,050 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:44,810 - SubgraphToTorch.py[line:428] - INFO: 【进程 163889】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:45,303 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:46,444 - SubgraphToTorch.py[line:428] - INFO: 【进程 163865】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:47,295 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:47,435 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:51,749 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:51,872 - SubgraphToTorch.py[line:428] - INFO: 【进程 163884】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:51,934 - SubgraphToTorch.py[line:428] - INFO: 【进程 163866】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:52,659 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:53,042 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:53,604 - SubgraphToTorch.py[line:428] - INFO: 【进程 163886】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:55,571 - SubgraphToTorch.py[line:428] - INFO: 【进程 163919】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:55,581 - SubgraphToTorch.py[line:428] - INFO: 【进程 163934】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:55,966 - SubgraphToTorch.py[line:428] - INFO: 【进程 163852】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:56,370 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:56,923 - SubgraphToTorch.py[line:428] - INFO: 【进程 163876】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:57,058 - SubgraphToTorch.py[line:428] - INFO: 【进程 163932】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:57,662 - SubgraphToTorch.py[line:94] - INFO: 【进程 163898】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:57,722 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:57,810 - SubgraphToTorch.py[line:94] - INFO: 【进程 163881】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:57,882 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:58,461 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:58,552 - SubgraphToTorch.py[line:94] - INFO: 【进程 163889】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:58,627 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:58,713 - SubgraphToTorch.py[line:94] - INFO: 【进程 163865】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:58,790 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:58,887 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:58,974 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:18:59,307 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:18:59,423 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:02,918 - SubgraphToTorch.py[line:428] - INFO: 【进程 163953】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:03,595 - SubgraphToTorch.py[line:94] - INFO: 【进程 163884】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:03,837 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:03,980 - SubgraphToTorch.py[line:94] - INFO: 【进程 163866】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:04,427 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:04,546 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:05,744 - SubgraphToTorch.py[line:94] - INFO: 【进程 163886】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:06,588 - SubgraphToTorch.py[line:94] - INFO: 【进程 163919】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:06,695 - SubgraphToTorch.py[line:94] - INFO: 【进程 163934】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:06,753 - SubgraphToTorch.py[line:94] - INFO: 【进程 163852】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:07,818 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:08,448 - SubgraphToTorch.py[line:428] - INFO: 【进程 163942】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:08,919 - SubgraphToTorch.py[line:94] - INFO: 【进程 163876】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:09,567 - SubgraphToTorch.py[line:428] - INFO: 【进程 163888】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:09,578 - SubgraphToTorch.py[line:428] - INFO: 【进程 163879】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:10,183 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:10,537 - SubgraphToTorch.py[line:428] - INFO: 【进程 163853】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:10,602 - SubgraphToTorch.py[line:94] - INFO: 【进程 163932】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:10,689 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:11,054 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:11,163 - SubgraphToTorch.py[line:94] - INFO: 【进程 163953】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:11,260 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:11,327 - SubgraphToTorch.py[line:94] - INFO: 【进程 163942】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:11,845 - SubgraphToTorch.py[line:94] - INFO: 【进程 163888】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:11,923 - SubgraphToTorch.py[line:94] - INFO: 【进程 163879】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:12,304 - SubgraphToTorch.py[line:428] - INFO: 【进程 163891】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:12,513 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:12,620 - SubgraphToTorch.py[line:94] - INFO: 【进程 163853】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:12,881 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:13,011 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:13,112 - SubgraphToTorch.py[line:94] - INFO: 【进程 163891】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:13,815 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:14,917 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:14,927 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:14,930 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:15,018 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:15,927 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:15,963 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:16,054 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:16,713 - SubgraphToTorch.py[line:428] - INFO: 【进程 163898】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:17,242 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:17,521 - SubgraphToTorch.py[line:94] - INFO: 【进程 163898】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:18,433 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:22,056 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:23,084 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:24,105 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:25,185 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:25,528 - SubgraphToTorch.py[line:428] - INFO: 【进程 163884】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:27,475 - SubgraphToTorch.py[line:428] - INFO: 【进程 163879】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:27,564 - SubgraphToTorch.py[line:428] - INFO: 【进程 163866】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:27,589 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:27,624 - SubgraphToTorch.py[line:94] - INFO: 【进程 163884】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:27,768 - SubgraphToTorch.py[line:94] - INFO: 【进程 163879】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:30,307 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:30,337 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:31,042 - SubgraphToTorch.py[line:428] - INFO: 【进程 163886】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:31,065 - SubgraphToTorch.py[line:428] - INFO: 【进程 163934】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:32,392 - SubgraphToTorch.py[line:428] - INFO: 【进程 163888】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:32,398 - SubgraphToTorch.py[line:428] - INFO: 【进程 163891】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:33,083 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:33,270 - SubgraphToTorch.py[line:428] - INFO: 【进程 163919】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:33,400 - SubgraphToTorch.py[line:428] - INFO: 【进程 163932】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:33,414 - SubgraphToTorch.py[line:428] - INFO: 【进程 163953】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:33,538 - SubgraphToTorch.py[line:428] - INFO: 【进程 163942】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:34,092 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:34,642 - SubgraphToTorch.py[line:428] - INFO: 【进程 163881】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:34,896 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:39,012 - SubgraphToTorch.py[line:428] - INFO: 【进程 163865】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:42,348 - SubgraphToTorch.py[line:428] - INFO: 【进程 163852】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:43,285 - SubgraphToTorch.py[line:428] - INFO: 【进程 163889】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:43,699 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:44,742 - SubgraphToTorch.py[line:428] - INFO: 【进程 163853】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:45,317 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:45,423 - SubgraphToTorch.py[line:428] - INFO: 【进程 163876】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:45,529 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:45,588 - SubgraphToTorch.py[line:94] - INFO: 【进程 163866】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:45,671 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:45,758 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:45,870 - SubgraphToTorch.py[line:94] - INFO: 【进程 163886】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:46,011 - SubgraphToTorch.py[line:94] - INFO: 【进程 163934】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:46,783 - SubgraphToTorch.py[line:94] - INFO: 【进程 163891】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:46,940 - SubgraphToTorch.py[line:94] - INFO: 【进程 163888】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:47,012 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:47,143 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:47,608 - SubgraphToTorch.py[line:94] - INFO: 【进程 163919】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:47,705 - SubgraphToTorch.py[line:94] - INFO: 【进程 163932】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:48,511 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:49,120 - SubgraphToTorch.py[line:94] - INFO: 【进程 163953】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:50,342 - SubgraphToTorch.py[line:94] - INFO: 【进程 163942】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:50,424 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:50,487 - SubgraphToTorch.py[line:94] - INFO: 【进程 163881】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:50,545 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:50,600 - SubgraphToTorch.py[line:94] - INFO: 【进程 163865】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:50,673 - SubgraphToTorch.py[line:94] - INFO: 【进程 163852】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:51,732 - SubgraphToTorch.py[line:94] - INFO: 【进程 163889】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:51,796 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:52,284 - SubgraphToTorch.py[line:94] - INFO: 【进程 163853】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:52,327 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:53,363 - SubgraphToTorch.py[line:94] - INFO: 【进程 163876】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:53,473 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:53,531 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:53,989 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:54,406 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:54,811 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:54,877 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:55,215 - SubgraphToTorch.py[line:428] - INFO: 【进程 163898】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:55,245 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:56,358 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:57,078 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:57,138 - SubgraphToTorch.py[line:94] - INFO: 【进程 163898】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:57,596 - SubgraphToTorch.py[line:428] - INFO: 【进程 163884】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:57,609 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:57,734 - SubgraphToTorch.py[line:94] - INFO: 【进程 163884】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:58,538 - SubgraphToTorch.py[line:428] - INFO: 【进程 163879】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:59,402 - SubgraphToTorch.py[line:94] - INFO: 【进程 163879】开始子图抽取与组装模块处理。。。
+2021-04-12 20:19:59,502 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:19:59,602 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:20:03,913 - SubgraphToTorch.py[line:428] - INFO: 【进程 163865】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:04,007 - SubgraphToTorch.py[line:94] - INFO: 【进程 163865】开始子图抽取与组装模块处理。。。
+2021-04-12 20:20:07,347 - SubgraphToTorch.py[line:428] - INFO: 【进程 163889】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:08,519 - SubgraphToTorch.py[line:94] - INFO: 【进程 163889】开始子图抽取与组装模块处理。。。
+2021-04-12 20:20:12,827 - SubgraphToTorch.py[line:428] - INFO: 【进程 163852】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:12,835 - SubgraphToTorch.py[line:428] - INFO: 【进程 163853】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:12,914 - SubgraphToTorch.py[line:94] - INFO: 【进程 163852】开始子图抽取与组装模块处理。。。
+2021-04-12 20:20:12,995 - SubgraphToTorch.py[line:94] - INFO: 【进程 163853】开始子图抽取与组装模块处理。。。
+2021-04-12 20:20:15,056 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:15,148 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:20:15,786 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:16,270 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:16,279 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:16,928 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:20:18,056 - SubgraphToTorch.py[line:428] - INFO: 【进程 163879】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:18,328 - SubgraphToTorch.py[line:428] - INFO: 【进程 163876】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:19,367 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:20:20,037 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:20:20,534 - SubgraphToTorch.py[line:94] - INFO: 【进程 163879】开始子图抽取与组装模块处理。。。
+2021-04-12 20:20:21,463 - SubgraphToTorch.py[line:94] - INFO: 【进程 163876】开始子图抽取与组装模块处理。。。
+2021-04-12 20:20:23,062 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:23,147 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:20:23,416 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:23,530 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:20:23,576 - SubgraphToTorch.py[line:428] - INFO: 【进程 163898】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:24,993 - SubgraphToTorch.py[line:428] - INFO: 【进程 163886】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:25,286 - SubgraphToTorch.py[line:94] - INFO: 【进程 163898】开始子图抽取与组装模块处理。。。
+2021-04-12 20:20:25,358 - SubgraphToTorch.py[line:94] - INFO: 【进程 163886】开始子图抽取与组装模块处理。。。
+2021-04-12 20:20:27,289 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:27,316 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:27,363 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:20:30,277 - SubgraphToTorch.py[line:428] - INFO: 【进程 163884】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:30,397 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:20:30,534 - SubgraphToTorch.py[line:94] - INFO: 【进程 163884】开始子图抽取与组装模块处理。。。
+2021-04-12 20:20:31,416 - SubgraphToTorch.py[line:428] - INFO: 【进程 163932】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:31,801 - SubgraphToTorch.py[line:94] - INFO: 【进程 163932】开始子图抽取与组装模块处理。。。
+2021-04-12 20:20:34,187 - SubgraphToTorch.py[line:428] - INFO: 【进程 163888】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:34,383 - SubgraphToTorch.py[line:94] - INFO: 【进程 163888】开始子图抽取与组装模块处理。。。
+2021-04-12 20:20:34,748 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:35,650 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:20:36,203 - SubgraphToTorch.py[line:428] - INFO: 【进程 163942】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:38,086 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:38,155 - SubgraphToTorch.py[line:94] - INFO: 【进程 163942】开始子图抽取与组装模块处理。。。
+2021-04-12 20:20:38,403 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:39,194 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:20:39,278 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:20:41,015 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:42,037 - SubgraphToTorch.py[line:428] - INFO: 【进程 163919】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:43,679 - SubgraphToTorch.py[line:428] - INFO: 【进程 163886】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:44,121 - SubgraphToTorch.py[line:428] - INFO: 【进程 163891】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:46,738 - SubgraphToTorch.py[line:428] - INFO: 【进程 163866】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:49,495 - SubgraphToTorch.py[line:428] - INFO: 【进程 163932】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:50,450 - SubgraphToTorch.py[line:428] - INFO: 【进程 163934】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:50,809 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:53,158 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:53,220 - SubgraphToTorch.py[line:428] - INFO: 【进程 163953】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:53,644 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:53,718 - SubgraphToTorch.py[line:428] - INFO: 【进程 163888】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:54,673 - SubgraphToTorch.py[line:428] - INFO: 【进程 163865】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:54,995 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:56,466 - SubgraphToTorch.py[line:428] - INFO: 【进程 163942】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:56,501 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:20:58,537 - SubgraphToTorch.py[line:428] - INFO: 【进程 163852】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:01,017 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:02,130 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:02,146 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:02,149 - SubgraphToTorch.py[line:428] - INFO: 【进程 163889】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:02,174 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:02,800 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:03,386 - SubgraphToTorch.py[line:94] - INFO: 【进程 163919】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:03,599 - SubgraphToTorch.py[line:94] - INFO: 【进程 163886】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:03,967 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:04,768 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:04,777 - SubgraphToTorch.py[line:428] - INFO: 【进程 163853】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:04,825 - SubgraphToTorch.py[line:94] - INFO: 【进程 163891】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:05,377 - SubgraphToTorch.py[line:428] - INFO: 【进程 163881】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:05,894 - SubgraphToTorch.py[line:428] - INFO: 【进程 163876】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:05,920 - SubgraphToTorch.py[line:94] - INFO: 【进程 163866】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:06,003 - SubgraphToTorch.py[line:94] - INFO: 【进程 163932】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:06,110 - SubgraphToTorch.py[line:94] - INFO: 【进程 163934】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:06,198 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:06,635 - SubgraphToTorch.py[line:428] - INFO: 【进程 163884】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:06,833 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:06,923 - SubgraphToTorch.py[line:94] - INFO: 【进程 163953】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:07,001 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:07,059 - SubgraphToTorch.py[line:94] - INFO: 【进程 163888】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:07,156 - SubgraphToTorch.py[line:94] - INFO: 【进程 163865】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:07,291 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:07,426 - SubgraphToTorch.py[line:94] - INFO: 【进程 163942】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:08,995 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:09,119 - SubgraphToTorch.py[line:94] - INFO: 【进程 163852】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:09,624 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:09,699 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:11,340 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:11,374 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:11,473 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:12,158 - SubgraphToTorch.py[line:94] - INFO: 【进程 163889】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:12,255 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:12,927 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:13,443 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:13,826 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:13,905 - SubgraphToTorch.py[line:94] - INFO: 【进程 163853】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:14,526 - SubgraphToTorch.py[line:428] - INFO: 【进程 163919】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:15,621 - SubgraphToTorch.py[line:94] - INFO: 【进程 163881】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:16,644 - SubgraphToTorch.py[line:94] - INFO: 【进程 163876】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:16,993 - SubgraphToTorch.py[line:94] - INFO: 【进程 163884】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:17,053 - SubgraphToTorch.py[line:428] - INFO: 【进程 163866】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:17,064 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:17,757 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:18,303 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:18,416 - SubgraphToTorch.py[line:94] - INFO: 【进程 163919】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:19,561 - SubgraphToTorch.py[line:428] - INFO: 【进程 163934】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:19,658 - SubgraphToTorch.py[line:94] - INFO: 【进程 163866】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:21,091 - SubgraphToTorch.py[line:428] - INFO: 【进程 163898】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:21,117 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:21,716 - SubgraphToTorch.py[line:94] - INFO: 【进程 163934】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:21,866 - SubgraphToTorch.py[line:94] - INFO: 【进程 163898】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:22,347 - SubgraphToTorch.py[line:428] - INFO: 【进程 163879】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:24,618 - SubgraphToTorch.py[line:428] - INFO: 【进程 163953】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:24,694 - SubgraphToTorch.py[line:428] - INFO: 【进程 163891】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:24,710 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:24,856 - SubgraphToTorch.py[line:94] - INFO: 【进程 163879】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:26,032 - SubgraphToTorch.py[line:428] - INFO: 【进程 163852】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:26,053 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:26,154 - SubgraphToTorch.py[line:94] - INFO: 【进程 163953】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:26,595 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:26,684 - SubgraphToTorch.py[line:94] - INFO: 【进程 163891】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:27,536 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:27,680 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:29,442 - SubgraphToTorch.py[line:428] - INFO: 【进程 163865】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:29,705 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:30,329 - SubgraphToTorch.py[line:428] - INFO: 【进程 163889】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:30,422 - SubgraphToTorch.py[line:94] - INFO: 【进程 163852】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:30,865 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:31,360 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:31,388 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:31,438 - SubgraphToTorch.py[line:94] - INFO: 【进程 163865】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:31,558 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:32,016 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:32,819 - SubgraphToTorch.py[line:428] - INFO: 【进程 163876】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:32,968 - SubgraphToTorch.py[line:94] - INFO: 【进程 163889】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:33,013 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:33,124 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:33,170 - SubgraphToTorch.py[line:94] - INFO: 【进程 163876】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:33,960 - SubgraphToTorch.py[line:428] - INFO: 【进程 163853】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:34,063 - SubgraphToTorch.py[line:94] - INFO: 【进程 163853】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:37,593 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:38,008 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:39,576 - SubgraphToTorch.py[line:428] - INFO: 【进程 163881】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:39,593 - SubgraphToTorch.py[line:428] - INFO: 【进程 163898】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:39,727 - SubgraphToTorch.py[line:94] - INFO: 【进程 163881】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:40,779 - SubgraphToTorch.py[line:94] - INFO: 【进程 163898】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:44,083 - SubgraphToTorch.py[line:428] - INFO: 【进程 163932】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:44,751 - SubgraphToTorch.py[line:428] - INFO: 【进程 163879】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:45,025 - SubgraphToTorch.py[line:94] - INFO: 【进程 163932】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:45,632 - SubgraphToTorch.py[line:94] - INFO: 【进程 163879】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:48,197 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:48,318 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:48,390 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:48,493 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:50,362 - SubgraphToTorch.py[line:428] - INFO: 【进程 163888】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:51,062 - SubgraphToTorch.py[line:94] - INFO: 【进程 163888】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:51,967 - SubgraphToTorch.py[line:428] - INFO: 【进程 163886】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:52,452 - SubgraphToTorch.py[line:94] - INFO: 【进程 163886】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:53,558 - SubgraphToTorch.py[line:428] - INFO: 【进程 163942】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:53,655 - SubgraphToTorch.py[line:94] - INFO: 【进程 163942】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:55,223 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:55,239 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:55,333 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:55,416 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:21:56,590 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:21:57,129 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:06,598 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:06,892 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:07,375 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:07,454 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:09,256 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:10,637 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:10,761 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:12,815 - SubgraphToTorch.py[line:428] - INFO: 【进程 163934】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:12,837 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:14,299 - SubgraphToTorch.py[line:94] - INFO: 【进程 163934】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:14,715 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:15,246 - SubgraphToTorch.py[line:428] - INFO: 【进程 163866】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:16,023 - SubgraphToTorch.py[line:428] - INFO: 【进程 163942】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:16,616 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:16,661 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:18,075 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:18,094 - SubgraphToTorch.py[line:428] - INFO: 【进程 163919】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:18,320 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:18,490 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:18,711 - SubgraphToTorch.py[line:428] - INFO: 【进程 163865】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:19,893 - SubgraphToTorch.py[line:428] - INFO: 【进程 163886】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:21,290 - SubgraphToTorch.py[line:428] - INFO: 【进程 163889】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:21,320 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:21,800 - SubgraphToTorch.py[line:428] - INFO: 【进程 163884】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:22,976 - SubgraphToTorch.py[line:428] - INFO: 【进程 163932】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:23,397 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:23,406 - SubgraphToTorch.py[line:428] - INFO: 【进程 163853】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:23,611 - SubgraphToTorch.py[line:428] - INFO: 【进程 163852】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:23,616 - SubgraphToTorch.py[line:428] - INFO: 【进程 163953】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:23,885 - SubgraphToTorch.py[line:428] - INFO: 【进程 163881】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:24,040 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:24,053 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:25,817 - SubgraphToTorch.py[line:428] - INFO: 【进程 163934】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:25,948 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:26,285 - SubgraphToTorch.py[line:428] - INFO: 【进程 163879】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:26,790 - SubgraphToTorch.py[line:428] - INFO: 【进程 163891】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:28,807 - SubgraphToTorch.py[line:428] - INFO: 【进程 163876】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:29,251 - SubgraphToTorch.py[line:428] - INFO: 【进程 163898】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:32,246 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:32,590 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:32,692 - SubgraphToTorch.py[line:94] - INFO: 【进程 163866】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:32,702 - SubgraphToTorch.py[line:428] - INFO: 【进程 163888】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:32,816 - SubgraphToTorch.py[line:94] - INFO: 【进程 163942】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:32,904 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:32,985 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:33,092 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:33,159 - SubgraphToTorch.py[line:94] - INFO: 【进程 163919】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:33,574 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:35,645 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:36,020 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:36,102 - SubgraphToTorch.py[line:94] - INFO: 【进程 163865】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:36,164 - SubgraphToTorch.py[line:94] - INFO: 【进程 163886】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:36,247 - SubgraphToTorch.py[line:94] - INFO: 【进程 163889】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:36,328 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:37,695 - SubgraphToTorch.py[line:94] - INFO: 【进程 163884】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:37,801 - SubgraphToTorch.py[line:94] - INFO: 【进程 163932】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:38,040 - SubgraphToTorch.py[line:94] - INFO: 【进程 163853】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:38,162 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:38,222 - SubgraphToTorch.py[line:94] - INFO: 【进程 163852】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:38,238 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:38,344 - SubgraphToTorch.py[line:94] - INFO: 【进程 163953】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:38,411 - SubgraphToTorch.py[line:94] - INFO: 【进程 163881】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:38,506 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:38,569 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:39,681 - SubgraphToTorch.py[line:94] - INFO: 【进程 163934】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:39,782 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:39,853 - SubgraphToTorch.py[line:94] - INFO: 【进程 163879】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:39,911 - SubgraphToTorch.py[line:94] - INFO: 【进程 163891】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:41,072 - SubgraphToTorch.py[line:94] - INFO: 【进程 163876】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:41,159 - SubgraphToTorch.py[line:94] - INFO: 【进程 163898】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:41,580 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:41,680 - SubgraphToTorch.py[line:94] - INFO: 【进程 163888】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:41,763 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:41,858 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:42,510 - SubgraphToTorch.py[line:428] - INFO: 【进程 163866】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:42,637 - SubgraphToTorch.py[line:94] - INFO: 【进程 163866】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:43,379 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:43,416 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:43,428 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:43,901 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:43,974 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:44,036 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:50,749 - SubgraphToTorch.py[line:428] - INFO: 【进程 163932】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:50,909 - SubgraphToTorch.py[line:94] - INFO: 【进程 163932】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:51,351 - SubgraphToTorch.py[line:428] - INFO: 【进程 163865】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:51,381 - SubgraphToTorch.py[line:428] - INFO: 【进程 163889】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:51,581 - SubgraphToTorch.py[line:94] - INFO: 【进程 163865】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:52,565 - SubgraphToTorch.py[line:94] - INFO: 【进程 163889】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:53,548 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:53,554 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:53,750 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:53,854 - SubgraphToTorch.py[line:428] - INFO: 【进程 163879】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:53,860 - SubgraphToTorch.py[line:428] - INFO: 【进程 163953】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:53,858 - SubgraphToTorch.py[line:428] - INFO: 【进程 163884】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:53,860 - SubgraphToTorch.py[line:428] - INFO: 【进程 163852】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:53,860 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:53,869 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:53,883 - SubgraphToTorch.py[line:428] - INFO: 【进程 163891】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:53,900 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:53,903 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:53,919 - SubgraphToTorch.py[line:428] - INFO: 【进程 163898】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:53,942 - SubgraphToTorch.py[line:428] - INFO: 【进程 163853】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:53,948 - SubgraphToTorch.py[line:94] - INFO: 【进程 163953】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:54,000 - SubgraphToTorch.py[line:94] - INFO: 【进程 163879】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:54,000 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:54,009 - SubgraphToTorch.py[line:428] - INFO: 【进程 163876】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:54,040 - SubgraphToTorch.py[line:428] - INFO: 【进程 163881】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:54,074 - SubgraphToTorch.py[line:94] - INFO: 【进程 163884】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:54,147 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:54,214 - SubgraphToTorch.py[line:94] - INFO: 【进程 163891】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:54,287 - SubgraphToTorch.py[line:94] - INFO: 【进程 163852】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:54,343 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:54,398 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:54,431 - SubgraphToTorch.py[line:428] - INFO: 【进程 163888】 上一个节点的全部数据生成完毕.
+2021-04-12 20:22:54,466 - SubgraphToTorch.py[line:94] - INFO: 【进程 163898】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:54,519 - SubgraphToTorch.py[line:94] - INFO: 【进程 163853】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:54,606 - SubgraphToTorch.py[line:94] - INFO: 【进程 163876】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:54,684 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:54,763 - SubgraphToTorch.py[line:94] - INFO: 【进程 163881】开始子图抽取与组装模块处理。。。
+2021-04-12 20:22:54,829 - SubgraphToTorch.py[line:94] - INFO: 【进程 163888】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:05,030 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:05,108 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:11,021 - SubgraphToTorch.py[line:428] - INFO: 【进程 163886】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:11,096 - SubgraphToTorch.py[line:94] - INFO: 【进程 163886】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:11,384 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:11,450 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:13,735 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:13,803 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:13,947 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:14,032 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:18,236 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:18,303 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:19,752 - SubgraphToTorch.py[line:428] - INFO: 【进程 163919】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:19,922 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:19,974 - SubgraphToTorch.py[line:94] - INFO: 【进程 163919】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:20,047 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:21,607 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:21,671 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:22,385 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:22,475 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:23,994 - SubgraphToTorch.py[line:428] - INFO: 【进程 163934】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:24,091 - SubgraphToTorch.py[line:94] - INFO: 【进程 163934】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:26,477 - SubgraphToTorch.py[line:428] - INFO: 【进程 163942】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:26,551 - SubgraphToTorch.py[line:94] - INFO: 【进程 163942】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:26,938 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:26,986 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:27,344 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:27,437 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:28,721 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:28,804 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:29,134 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:29,193 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:29,910 - SubgraphToTorch.py[line:428] - INFO: 【进程 163888】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:29,980 - SubgraphToTorch.py[line:94] - INFO: 【进程 163888】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:30,324 - SubgraphToTorch.py[line:428] - INFO: 【进程 163919】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:30,394 - SubgraphToTorch.py[line:94] - INFO: 【进程 163919】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:31,647 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:31,712 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:31,949 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:32,035 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:32,510 - SubgraphToTorch.py[line:428] - INFO: 【进程 163898】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:32,570 - SubgraphToTorch.py[line:94] - INFO: 【进程 163898】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:32,824 - SubgraphToTorch.py[line:428] - INFO: 【进程 163934】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:32,850 - SubgraphToTorch.py[line:428] - INFO: 【进程 163866】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:32,889 - SubgraphToTorch.py[line:94] - INFO: 【进程 163934】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:32,964 - SubgraphToTorch.py[line:94] - INFO: 【进程 163866】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:33,732 - SubgraphToTorch.py[line:428] - INFO: 【进程 163879】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:33,799 - SubgraphToTorch.py[line:94] - INFO: 【进程 163879】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:34,049 - SubgraphToTorch.py[line:428] - INFO: 【进程 163932】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:34,136 - SubgraphToTorch.py[line:94] - INFO: 【进程 163932】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:34,590 - SubgraphToTorch.py[line:428] - INFO: 【进程 163884】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:34,668 - SubgraphToTorch.py[line:94] - INFO: 【进程 163884】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:34,916 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:34,996 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:35,068 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:35,135 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:36,099 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:36,154 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:36,599 - SubgraphToTorch.py[line:428] - INFO: 【进程 163881】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:36,657 - SubgraphToTorch.py[line:94] - INFO: 【进程 163881】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:37,156 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:37,209 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:37,242 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:37,700 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:38,034 - SubgraphToTorch.py[line:428] - INFO: 【进程 163953】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:38,757 - SubgraphToTorch.py[line:428] - INFO: 【进程 163865】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:38,839 - SubgraphToTorch.py[line:428] - INFO: 【进程 163852】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:39,358 - SubgraphToTorch.py[line:428] - INFO: 【进程 163889】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:41,387 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:41,879 - SubgraphToTorch.py[line:428] - INFO: 【进程 163888】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:42,244 - SubgraphToTorch.py[line:428] - INFO: 【进程 163898】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:42,279 - SubgraphToTorch.py[line:428] - INFO: 【进程 163853】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:42,615 - SubgraphToTorch.py[line:428] - INFO: 【进程 163879】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:42,822 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:43,314 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:43,318 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:43,992 - SubgraphToTorch.py[line:428] - INFO: 【进程 163866】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:44,663 - SubgraphToTorch.py[line:428] - INFO: 【进程 163886】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:44,716 - SubgraphToTorch.py[line:428] - INFO: 【进程 163884】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:44,889 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:45,174 - SubgraphToTorch.py[line:428] - INFO: 【进程 163932】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:45,942 - SubgraphToTorch.py[line:428] - INFO: 【进程 163881】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:46,290 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:48,412 - SubgraphToTorch.py[line:428] - INFO: 【进程 163876】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:48,893 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:49,147 - SubgraphToTorch.py[line:428] - INFO: 【进程 163891】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:50,321 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:51,580 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:51,649 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:51,720 - SubgraphToTorch.py[line:94] - INFO: 【进程 163953】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:51,775 - SubgraphToTorch.py[line:94] - INFO: 【进程 163865】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:51,856 - SubgraphToTorch.py[line:94] - INFO: 【进程 163852】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:51,939 - SubgraphToTorch.py[line:94] - INFO: 【进程 163889】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:52,013 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:52,070 - SubgraphToTorch.py[line:94] - INFO: 【进程 163888】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:52,128 - SubgraphToTorch.py[line:94] - INFO: 【进程 163898】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:52,172 - SubgraphToTorch.py[line:94] - INFO: 【进程 163853】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:52,242 - SubgraphToTorch.py[line:94] - INFO: 【进程 163879】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:52,303 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:52,337 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:52,383 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:52,432 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:52,489 - SubgraphToTorch.py[line:94] - INFO: 【进程 163866】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:52,553 - SubgraphToTorch.py[line:94] - INFO: 【进程 163886】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:52,629 - SubgraphToTorch.py[line:94] - INFO: 【进程 163884】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:52,679 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:52,737 - SubgraphToTorch.py[line:94] - INFO: 【进程 163932】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:52,785 - SubgraphToTorch.py[line:94] - INFO: 【进程 163881】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:52,843 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:52,896 - SubgraphToTorch.py[line:94] - INFO: 【进程 163876】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:52,953 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:53,007 - SubgraphToTorch.py[line:94] - INFO: 【进程 163891】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:53,060 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:53,127 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:54,222 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:54,286 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:55,782 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:55,835 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:56,204 - SubgraphToTorch.py[line:428] - INFO: 【进程 163934】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:56,217 - SubgraphToTorch.py[line:428] - INFO: 【进程 163942】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:56,268 - SubgraphToTorch.py[line:94] - INFO: 【进程 163934】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:56,312 - SubgraphToTorch.py[line:94] - INFO: 【进程 163942】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:56,482 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:56,529 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:58,395 - SubgraphToTorch.py[line:428] - INFO: 【进程 163953】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:58,456 - SubgraphToTorch.py[line:94] - INFO: 【进程 163953】开始子图抽取与组装模块处理。。。
+2021-04-12 20:23:59,757 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:23:59,823 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:00,704 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:00,785 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:01,672 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:01,738 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:02,468 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:02,536 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:02,563 - SubgraphToTorch.py[line:428] - INFO: 【进程 163886】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:02,662 - SubgraphToTorch.py[line:94] - INFO: 【进程 163886】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:02,958 - SubgraphToTorch.py[line:428] - INFO: 【进程 163852】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:02,966 - SubgraphToTorch.py[line:428] - INFO: 【进程 163891】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:03,058 - SubgraphToTorch.py[line:94] - INFO: 【进程 163852】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:03,125 - SubgraphToTorch.py[line:94] - INFO: 【进程 163891】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:03,350 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:03,451 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:03,528 - SubgraphToTorch.py[line:428] - INFO: 【进程 163865】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:03,614 - SubgraphToTorch.py[line:94] - INFO: 【进程 163865】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:03,650 - SubgraphToTorch.py[line:428] - INFO: 【进程 163889】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:03,726 - SubgraphToTorch.py[line:94] - INFO: 【进程 163889】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:03,795 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:03,906 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:06,017 - SubgraphToTorch.py[line:428] - INFO: 【进程 163919】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:06,099 - SubgraphToTorch.py[line:94] - INFO: 【进程 163919】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:06,866 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:06,936 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:07,093 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:07,160 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:08,067 - SubgraphToTorch.py[line:428] - INFO: 【进程 163934】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:08,170 - SubgraphToTorch.py[line:428] - INFO: 【进程 163942】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:08,175 - SubgraphToTorch.py[line:94] - INFO: 【进程 163934】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:08,265 - SubgraphToTorch.py[line:94] - INFO: 【进程 163942】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:14,576 - SubgraphToTorch.py[line:428] - INFO: 【进程 163879】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:14,677 - SubgraphToTorch.py[line:94] - INFO: 【进程 163879】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:16,465 - SubgraphToTorch.py[line:428] - INFO: 【进程 163919】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:16,579 - SubgraphToTorch.py[line:94] - INFO: 【进程 163919】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:19,727 - SubgraphToTorch.py[line:428] - INFO: 【进程 163881】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:19,857 - SubgraphToTorch.py[line:94] - INFO: 【进程 163881】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:19,932 - SubgraphToTorch.py[line:428] - INFO: 【进程 163866】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:20,042 - SubgraphToTorch.py[line:94] - INFO: 【进程 163866】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:20,163 - SubgraphToTorch.py[line:428] - INFO: 【进程 163898】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:20,270 - SubgraphToTorch.py[line:94] - INFO: 【进程 163898】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:21,950 - SubgraphToTorch.py[line:428] - INFO: 【进程 163879】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:22,035 - SubgraphToTorch.py[line:94] - INFO: 【进程 163879】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:25,158 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:25,263 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:25,774 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:25,881 - SubgraphToTorch.py[line:428] - INFO: 【进程 163884】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:25,922 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:25,991 - SubgraphToTorch.py[line:94] - INFO: 【进程 163884】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:26,331 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:26,435 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:27,038 - SubgraphToTorch.py[line:428] - INFO: 【进程 163888】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:27,139 - SubgraphToTorch.py[line:94] - INFO: 【进程 163888】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:28,215 - SubgraphToTorch.py[line:428] - INFO: 【进程 163876】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:28,300 - SubgraphToTorch.py[line:94] - INFO: 【进程 163876】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:29,585 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:29,641 - SubgraphToTorch.py[line:428] - INFO: 【进程 163898】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:29,683 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:29,754 - SubgraphToTorch.py[line:94] - INFO: 【进程 163898】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:30,383 - SubgraphToTorch.py[line:428] - INFO: 【进程 163932】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:30,441 - SubgraphToTorch.py[line:94] - INFO: 【进程 163932】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:30,513 - SubgraphToTorch.py[line:428] - INFO: 【进程 163866】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:30,549 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:30,593 - SubgraphToTorch.py[line:94] - INFO: 【进程 163866】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:30,661 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:32,570 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:32,640 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:33,068 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:33,134 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:34,093 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:34,159 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:34,219 - SubgraphToTorch.py[line:428] - INFO: 【进程 163881】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:34,329 - SubgraphToTorch.py[line:94] - INFO: 【进程 163881】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:34,931 - SubgraphToTorch.py[line:428] - INFO: 【进程 163853】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:35,012 - SubgraphToTorch.py[line:94] - INFO: 【进程 163853】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:35,446 - SubgraphToTorch.py[line:428] - INFO: 【进程 163888】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:35,529 - SubgraphToTorch.py[line:94] - INFO: 【进程 163888】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:35,768 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:35,776 - SubgraphToTorch.py[line:428] - INFO: 【进程 163886】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:35,860 - SubgraphToTorch.py[line:94] - INFO: 【进程 163886】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:35,935 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:36,751 - SubgraphToTorch.py[line:428] - INFO: 【进程 163884】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:36,809 - SubgraphToTorch.py[line:94] - INFO: 【进程 163884】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:37,091 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:37,176 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:37,767 - SubgraphToTorch.py[line:428] - INFO: 【进程 163876】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:37,837 - SubgraphToTorch.py[line:94] - INFO: 【进程 163876】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:38,308 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:38,363 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:39,149 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:39,254 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:40,256 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:40,290 - SubgraphToTorch.py[line:428] - INFO: 【进程 163932】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:40,330 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:40,363 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:40,374 - SubgraphToTorch.py[line:428] - INFO: 【进程 163953】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:40,398 - SubgraphToTorch.py[line:94] - INFO: 【进程 163932】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:40,451 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:40,510 - SubgraphToTorch.py[line:94] - INFO: 【进程 163953】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:40,779 - SubgraphToTorch.py[line:428] - INFO: 【进程 163852】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:40,840 - SubgraphToTorch.py[line:428] - INFO: 【进程 163865】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:40,859 - SubgraphToTorch.py[line:94] - INFO: 【进程 163852】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:40,877 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:40,884 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:40,893 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:40,933 - SubgraphToTorch.py[line:94] - INFO: 【进程 163865】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:40,981 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:41,050 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:41,097 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:42,197 - SubgraphToTorch.py[line:428] - INFO: 【进程 163919】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:42,273 - SubgraphToTorch.py[line:94] - INFO: 【进程 163919】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:43,057 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:43,130 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:43,343 - SubgraphToTorch.py[line:428] - INFO: 【进程 163942】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:43,426 - SubgraphToTorch.py[line:94] - INFO: 【进程 163942】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:43,792 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:43,871 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:44,347 - SubgraphToTorch.py[line:428] - INFO: 【进程 163853】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:44,418 - SubgraphToTorch.py[line:94] - INFO: 【进程 163853】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:44,644 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:44,761 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:45,171 - SubgraphToTorch.py[line:428] - INFO: 【进程 163934】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:45,249 - SubgraphToTorch.py[line:428] - INFO: 【进程 163879】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:45,253 - SubgraphToTorch.py[line:94] - INFO: 【进程 163934】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:45,319 - SubgraphToTorch.py[line:94] - INFO: 【进程 163879】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:45,776 - SubgraphToTorch.py[line:428] - INFO: 【进程 163891】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:45,853 - SubgraphToTorch.py[line:94] - INFO: 【进程 163891】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:47,542 - SubgraphToTorch.py[line:428] - INFO: 【进程 163886】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:47,632 - SubgraphToTorch.py[line:94] - INFO: 【进程 163886】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:48,393 - SubgraphToTorch.py[line:428] - INFO: 【进程 163889】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:48,457 - SubgraphToTorch.py[line:94] - INFO: 【进程 163889】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:48,518 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:48,570 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:50,450 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:50,518 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:50,542 - SubgraphToTorch.py[line:428] - INFO: 【进程 163919】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:50,622 - SubgraphToTorch.py[line:94] - INFO: 【进程 163919】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:50,854 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:50,932 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:51,148 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:51,231 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:52,276 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:52,320 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:52,357 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:52,428 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:24:52,935 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:52,987 - SubgraphToTorch.py[line:428] - INFO: 【进程 163866】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:53,706 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:54,207 - SubgraphToTorch.py[line:428] - INFO: 【进程 163881】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:55,388 - SubgraphToTorch.py[line:428] - INFO: 【进程 163942】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:55,638 - SubgraphToTorch.py[line:428] - INFO: 【进程 163889】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:55,972 - SubgraphToTorch.py[line:428] - INFO: 【进程 163888】 上一个节点的全部数据生成完毕.
+2021-04-12 20:24:58,018 - SubgraphToTorch.py[line:428] - INFO: 【进程 163898】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:01,892 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:04,488 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:04,961 - SubgraphToTorch.py[line:428] - INFO: 【进程 163932】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:05,914 - SubgraphToTorch.py[line:428] - INFO: 【进程 163865】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:06,324 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:08,110 - SubgraphToTorch.py[line:428] - INFO: 【进程 163876】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:08,240 - SubgraphToTorch.py[line:428] - INFO: 【进程 163884】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:09,755 - SubgraphToTorch.py[line:428] - INFO: 【进程 163852】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:10,442 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:14,303 - SubgraphToTorch.py[line:428] - INFO: 【进程 163891】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:14,779 - SubgraphToTorch.py[line:428] - INFO: 【进程 163953】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:15,003 - SubgraphToTorch.py[line:428] - INFO: 【进程 163879】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:15,044 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:15,106 - SubgraphToTorch.py[line:94] - INFO: 【进程 163866】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:15,180 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:15,245 - SubgraphToTorch.py[line:94] - INFO: 【进程 163881】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:15,310 - SubgraphToTorch.py[line:94] - INFO: 【进程 163942】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:15,374 - SubgraphToTorch.py[line:94] - INFO: 【进程 163889】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:15,463 - SubgraphToTorch.py[line:94] - INFO: 【进程 163888】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:15,463 - SubgraphToTorch.py[line:428] - INFO: 【进程 163853】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:15,534 - SubgraphToTorch.py[line:94] - INFO: 【进程 163898】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:15,594 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:15,657 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:15,705 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:15,734 - SubgraphToTorch.py[line:94] - INFO: 【进程 163932】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:15,801 - SubgraphToTorch.py[line:94] - INFO: 【进程 163865】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:15,871 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:15,930 - SubgraphToTorch.py[line:94] - INFO: 【进程 163876】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:16,006 - SubgraphToTorch.py[line:94] - INFO: 【进程 163884】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:16,075 - SubgraphToTorch.py[line:94] - INFO: 【进程 163852】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:16,137 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:16,178 - SubgraphToTorch.py[line:428] - INFO: 【进程 163919】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:16,192 - SubgraphToTorch.py[line:94] - INFO: 【进程 163891】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:16,255 - SubgraphToTorch.py[line:94] - INFO: 【进程 163953】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:16,316 - SubgraphToTorch.py[line:94] - INFO: 【进程 163879】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:16,371 - SubgraphToTorch.py[line:94] - INFO: 【进程 163853】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:16,417 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:16,472 - SubgraphToTorch.py[line:94] - INFO: 【进程 163919】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:16,723 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:16,783 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:17,613 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:17,669 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:19,074 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:19,127 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:19,692 - SubgraphToTorch.py[line:428] - INFO: 【进程 163886】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:19,748 - SubgraphToTorch.py[line:94] - INFO: 【进程 163886】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:20,227 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:20,300 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:20,468 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:20,523 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:21,378 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:21,430 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:21,923 - SubgraphToTorch.py[line:428] - INFO: 【进程 163884】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:21,968 - SubgraphToTorch.py[line:94] - INFO: 【进程 163884】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:22,078 - SubgraphToTorch.py[line:428] - INFO: 【进程 163866】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:22,132 - SubgraphToTorch.py[line:94] - INFO: 【进程 163866】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:22,176 - SubgraphToTorch.py[line:428] - INFO: 【进程 163865】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:22,235 - SubgraphToTorch.py[line:94] - INFO: 【进程 163865】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:22,674 - SubgraphToTorch.py[line:428] - INFO: 【进程 163934】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:22,734 - SubgraphToTorch.py[line:94] - INFO: 【进程 163934】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:22,752 - SubgraphToTorch.py[line:428] - INFO: 【进程 163932】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:22,772 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:22,823 - SubgraphToTorch.py[line:94] - INFO: 【进程 163932】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:22,861 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:23,162 - SubgraphToTorch.py[line:428] - INFO: 【进程 163919】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:23,223 - SubgraphToTorch.py[line:94] - INFO: 【进程 163919】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:23,577 - SubgraphToTorch.py[line:428] - INFO: 【进程 163853】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:23,621 - SubgraphToTorch.py[line:94] - INFO: 【进程 163853】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:24,232 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:24,288 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:24,327 - SubgraphToTorch.py[line:428] - INFO: 【进程 163888】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:24,375 - SubgraphToTorch.py[line:94] - INFO: 【进程 163888】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:24,909 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:24,962 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:25,116 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:25,165 - SubgraphToTorch.py[line:428] - INFO: 【进程 163891】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:25,179 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:25,248 - SubgraphToTorch.py[line:94] - INFO: 【进程 163891】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:25,379 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:25,450 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:25,714 - SubgraphToTorch.py[line:428] - INFO: 【进程 163953】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:25,734 - SubgraphToTorch.py[line:428] - INFO: 【进程 163886】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:25,767 - SubgraphToTorch.py[line:94] - INFO: 【进程 163953】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:25,824 - SubgraphToTorch.py[line:94] - INFO: 【进程 163886】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:26,421 - SubgraphToTorch.py[line:428] - INFO: 【进程 163876】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:26,488 - SubgraphToTorch.py[line:94] - INFO: 【进程 163876】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:26,962 - SubgraphToTorch.py[line:428] - INFO: 【进程 163881】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:27,056 - SubgraphToTorch.py[line:94] - INFO: 【进程 163881】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:27,280 - SubgraphToTorch.py[line:428] - INFO: 【进程 163852】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:27,285 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:27,296 - SubgraphToTorch.py[line:428] - INFO: 【进程 163898】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:27,338 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:27,411 - SubgraphToTorch.py[line:94] - INFO: 【进程 163852】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:27,465 - SubgraphToTorch.py[line:94] - INFO: 【进程 163898】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:27,560 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:27,644 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:27,742 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:27,837 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:27,843 - SubgraphToTorch.py[line:428] - INFO: 【进程 163879】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:27,911 - SubgraphToTorch.py[line:94] - INFO: 【进程 163879】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:28,051 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:28,113 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:31,347 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:31,512 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:33,984 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:34,117 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:35,315 - SubgraphToTorch.py[line:428] - INFO: 【进程 163934】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:35,456 - SubgraphToTorch.py[line:94] - INFO: 【进程 163934】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:37,760 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:37,853 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:38,699 - SubgraphToTorch.py[line:428] - INFO: 【进程 163889】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:38,794 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:38,808 - SubgraphToTorch.py[line:94] - INFO: 【进程 163889】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:38,908 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:39,244 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:39,405 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:42,931 - SubgraphToTorch.py[line:428] - INFO: 【进程 163866】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:43,041 - SubgraphToTorch.py[line:94] - INFO: 【进程 163866】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:46,079 - SubgraphToTorch.py[line:428] - INFO: 【进程 163942】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:46,177 - SubgraphToTorch.py[line:94] - INFO: 【进程 163942】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:48,040 - SubgraphToTorch.py[line:428] - INFO: 【进程 163865】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:48,171 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:48,210 - SubgraphToTorch.py[line:94] - INFO: 【进程 163865】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:48,326 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:48,487 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:48,565 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:49,024 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:49,128 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:49,220 - SubgraphToTorch.py[line:428] - INFO: 【进程 163853】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:49,325 - SubgraphToTorch.py[line:94] - INFO: 【进程 163853】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:53,167 - SubgraphToTorch.py[line:428] - INFO: 【进程 163866】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:53,252 - SubgraphToTorch.py[line:94] - INFO: 【进程 163866】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:53,664 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:53,756 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:54,178 - SubgraphToTorch.py[line:428] - INFO: 【进程 163891】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:54,245 - SubgraphToTorch.py[line:94] - INFO: 【进程 163891】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:54,399 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:54,464 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:54,852 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:54,915 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:55,786 - SubgraphToTorch.py[line:428] - INFO: 【进程 163942】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:55,858 - SubgraphToTorch.py[line:94] - INFO: 【进程 163942】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:56,361 - SubgraphToTorch.py[line:428] - INFO: 【进程 163853】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:56,405 - SubgraphToTorch.py[line:94] - INFO: 【进程 163853】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:56,736 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:56,831 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:57,131 - SubgraphToTorch.py[line:428] - INFO: 【进程 163879】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:57,208 - SubgraphToTorch.py[line:94] - INFO: 【进程 163879】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:58,316 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:58,322 - SubgraphToTorch.py[line:428] - INFO: 【进程 163865】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:58,377 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:58,444 - SubgraphToTorch.py[line:94] - INFO: 【进程 163865】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:59,424 - SubgraphToTorch.py[line:428] - INFO: 【进程 163919】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:59,500 - SubgraphToTorch.py[line:94] - INFO: 【进程 163919】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:59,872 - SubgraphToTorch.py[line:428] - INFO: 【进程 163884】 上一个节点的全部数据生成完毕.
+2021-04-12 20:25:59,944 - SubgraphToTorch.py[line:94] - INFO: 【进程 163884】开始子图抽取与组装模块处理。。。
+2021-04-12 20:25:59,988 - SubgraphToTorch.py[line:428] - INFO: 【进程 163888】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:00,066 - SubgraphToTorch.py[line:94] - INFO: 【进程 163888】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:00,164 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:00,169 - SubgraphToTorch.py[line:428] - INFO: 【进程 163876】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:00,254 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:00,312 - SubgraphToTorch.py[line:94] - INFO: 【进程 163876】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:00,622 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:00,651 - SubgraphToTorch.py[line:428] - INFO: 【进程 163881】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:00,702 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:00,757 - SubgraphToTorch.py[line:94] - INFO: 【进程 163881】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:01,747 - SubgraphToTorch.py[line:428] - INFO: 【进程 163852】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:01,822 - SubgraphToTorch.py[line:94] - INFO: 【进程 163852】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:03,076 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:03,143 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:04,378 - SubgraphToTorch.py[line:428] - INFO: 【进程 163891】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:04,441 - SubgraphToTorch.py[line:94] - INFO: 【进程 163891】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:04,869 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:04,946 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:05,351 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:05,434 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:05,635 - SubgraphToTorch.py[line:428] - INFO: 【进程 163932】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:05,695 - SubgraphToTorch.py[line:94] - INFO: 【进程 163932】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:06,863 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:06,879 - SubgraphToTorch.py[line:428] - INFO: 【进程 163919】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:06,932 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:06,994 - SubgraphToTorch.py[line:94] - INFO: 【进程 163919】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:07,492 - SubgraphToTorch.py[line:428] - INFO: 【进程 163879】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:07,560 - SubgraphToTorch.py[line:94] - INFO: 【进程 163879】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:07,770 - SubgraphToTorch.py[line:428] - INFO: 【进程 163888】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:07,856 - SubgraphToTorch.py[line:94] - INFO: 【进程 163888】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:08,129 - SubgraphToTorch.py[line:428] - INFO: 【进程 163953】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:08,249 - SubgraphToTorch.py[line:94] - INFO: 【进程 163953】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:08,253 - SubgraphToTorch.py[line:428] - INFO: 【进程 163898】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:08,257 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:08,317 - SubgraphToTorch.py[line:94] - INFO: 【进程 163898】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:08,329 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:08,381 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:08,394 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:08,463 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:08,525 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:08,998 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:09,074 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:09,446 - SubgraphToTorch.py[line:428] - INFO: 【进程 163876】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:09,534 - SubgraphToTorch.py[line:94] - INFO: 【进程 163876】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:09,662 - SubgraphToTorch.py[line:428] - INFO: 【进程 163852】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:09,709 - SubgraphToTorch.py[line:94] - INFO: 【进程 163852】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:10,568 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:10,646 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:10,873 - SubgraphToTorch.py[line:428] - INFO: 【进程 163934】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:10,953 - SubgraphToTorch.py[line:94] - INFO: 【进程 163934】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:13,735 - SubgraphToTorch.py[line:428] - INFO: 【进程 163886】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:13,824 - SubgraphToTorch.py[line:94] - INFO: 【进程 163886】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:14,258 - SubgraphToTorch.py[line:428] - INFO: 【进程 163889】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:14,369 - SubgraphToTorch.py[line:94] - INFO: 【进程 163889】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:14,691 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:14,767 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:15,581 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:15,697 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:16,464 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:16,571 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:16,748 - SubgraphToTorch.py[line:428] - INFO: 【进程 163866】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:16,865 - SubgraphToTorch.py[line:94] - INFO: 【进程 163866】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:17,002 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:17,088 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:17,295 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:17,391 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:17,559 - SubgraphToTorch.py[line:428] - INFO: 【进程 163953】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:17,633 - SubgraphToTorch.py[line:94] - INFO: 【进程 163953】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:18,835 - SubgraphToTorch.py[line:428] - INFO: 【进程 163934】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:18,906 - SubgraphToTorch.py[line:94] - INFO: 【进程 163934】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:20,210 - SubgraphToTorch.py[line:428] - INFO: 【进程 163898】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:20,316 - SubgraphToTorch.py[line:94] - INFO: 【进程 163898】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:22,908 - SubgraphToTorch.py[line:428] - INFO: 【进程 163942】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:22,995 - SubgraphToTorch.py[line:94] - INFO: 【进程 163942】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:23,206 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:23,307 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:23,543 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:23,660 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:24,058 - SubgraphToTorch.py[line:428] - INFO: 【进程 163886】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:24,165 - SubgraphToTorch.py[line:94] - INFO: 【进程 163886】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:24,511 - SubgraphToTorch.py[line:428] - INFO: 【进程 163889】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:24,535 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:24,591 - SubgraphToTorch.py[line:94] - INFO: 【进程 163889】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:24,697 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:25,837 - SubgraphToTorch.py[line:428] - INFO: 【进程 163865】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:25,958 - SubgraphToTorch.py[line:94] - INFO: 【进程 163865】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:27,261 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:27,346 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:28,807 - SubgraphToTorch.py[line:428] - INFO: 【进程 163891】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:28,908 - SubgraphToTorch.py[line:94] - INFO: 【进程 163891】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:29,204 - SubgraphToTorch.py[line:428] - INFO: 【进程 163866】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:29,264 - SubgraphToTorch.py[line:94] - INFO: 【进程 163866】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:29,399 - SubgraphToTorch.py[line:428] - INFO: 【进程 163884】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:29,536 - SubgraphToTorch.py[line:94] - INFO: 【进程 163884】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:30,435 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:30,523 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:30,905 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:30,971 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:31,239 - SubgraphToTorch.py[line:428] - INFO: 【进程 163853】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:31,282 - SubgraphToTorch.py[line:94] - INFO: 【进程 163853】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:31,889 - SubgraphToTorch.py[line:428] - INFO: 【进程 163881】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:31,981 - SubgraphToTorch.py[line:94] - INFO: 【进程 163881】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:33,010 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:33,207 - SubgraphToTorch.py[line:428] - INFO: 【进程 163919】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:33,232 - SubgraphToTorch.py[line:428] - INFO: 【进程 163942】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:33,414 - SubgraphToTorch.py[line:428] - INFO: 【进程 163865】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:35,212 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:35,709 - SubgraphToTorch.py[line:428] - INFO: 【进程 163888】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:37,774 - SubgraphToTorch.py[line:428] - INFO: 【进程 163884】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:38,163 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:38,418 - SubgraphToTorch.py[line:428] - INFO: 【进程 163891】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:38,930 - SubgraphToTorch.py[line:428] - INFO: 【进程 163932】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:40,058 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:40,069 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:40,856 - SubgraphToTorch.py[line:428] - INFO: 【进程 163881】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:40,993 - SubgraphToTorch.py[line:428] - INFO: 【进程 163853】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:41,714 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:42,415 - SubgraphToTorch.py[line:428] - INFO: 【进程 163876】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:42,848 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:43,116 - SubgraphToTorch.py[line:428] - INFO: 【进程 163879】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:45,968 - SubgraphToTorch.py[line:428] - INFO: 【进程 163852】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:46,125 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:46,206 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:46,548 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:47,514 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:47,790 - SubgraphToTorch.py[line:428] - INFO: 【进程 163953】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:48,044 - SubgraphToTorch.py[line:428] - INFO: 【进程 163889】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:48,620 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:48,721 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:49,784 - SubgraphToTorch.py[line:428] - INFO: 【进程 163898】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:51,592 - SubgraphToTorch.py[line:428] - INFO: 【进程 163866】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:51,833 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:52,859 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:52,908 - SubgraphToTorch.py[line:94] - INFO: 【进程 163919】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:52,955 - SubgraphToTorch.py[line:94] - INFO: 【进程 163942】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:53,004 - SubgraphToTorch.py[line:94] - INFO: 【进程 163865】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:53,046 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:53,097 - SubgraphToTorch.py[line:94] - INFO: 【进程 163888】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:53,154 - SubgraphToTorch.py[line:94] - INFO: 【进程 163884】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:53,225 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:53,291 - SubgraphToTorch.py[line:94] - INFO: 【进程 163891】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:53,356 - SubgraphToTorch.py[line:94] - INFO: 【进程 163932】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:53,420 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:53,479 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:53,541 - SubgraphToTorch.py[line:94] - INFO: 【进程 163881】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:53,605 - SubgraphToTorch.py[line:94] - INFO: 【进程 163853】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:53,664 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:53,716 - SubgraphToTorch.py[line:94] - INFO: 【进程 163876】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:53,788 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:53,844 - SubgraphToTorch.py[line:94] - INFO: 【进程 163879】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:53,891 - SubgraphToTorch.py[line:94] - INFO: 【进程 163852】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:53,953 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:54,011 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:54,071 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:54,139 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:54,199 - SubgraphToTorch.py[line:94] - INFO: 【进程 163953】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:54,269 - SubgraphToTorch.py[line:94] - INFO: 【进程 163889】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:54,335 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:54,389 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:54,466 - SubgraphToTorch.py[line:94] - INFO: 【进程 163898】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:54,542 - SubgraphToTorch.py[line:94] - INFO: 【进程 163866】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:54,596 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:56,280 - SubgraphToTorch.py[line:428] - INFO: 【进程 163934】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:56,332 - SubgraphToTorch.py[line:94] - INFO: 【进程 163934】开始子图抽取与组装模块处理。。。
+2021-04-12 20:26:59,823 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:26:59,873 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:00,118 - SubgraphToTorch.py[line:428] - INFO: 【进程 163889】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:00,136 - SubgraphToTorch.py[line:428] - INFO: 【进程 163953】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:00,195 - SubgraphToTorch.py[line:94] - INFO: 【进程 163953】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:00,243 - SubgraphToTorch.py[line:94] - INFO: 【进程 163889】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:00,792 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:00,845 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:00,891 - SubgraphToTorch.py[line:428] - INFO: 【进程 163876】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:00,936 - SubgraphToTorch.py[line:428] - INFO: 【进程 163886】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:00,961 - SubgraphToTorch.py[line:94] - INFO: 【进程 163876】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:01,038 - SubgraphToTorch.py[line:94] - INFO: 【进程 163886】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:01,797 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:01,856 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:02,445 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:02,453 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:02,506 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:02,562 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:02,643 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:02,697 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:03,084 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:03,147 - SubgraphToTorch.py[line:428] - INFO: 【进程 163919】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:03,169 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:03,206 - SubgraphToTorch.py[line:428] - INFO: 【进程 163879】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:03,239 - SubgraphToTorch.py[line:94] - INFO: 【进程 163919】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:03,269 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:03,328 - SubgraphToTorch.py[line:94] - INFO: 【进程 163879】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:03,404 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:03,474 - SubgraphToTorch.py[line:428] - INFO: 【进程 163888】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:03,558 - SubgraphToTorch.py[line:94] - INFO: 【进程 163888】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:03,610 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:03,716 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:03,772 - SubgraphToTorch.py[line:428] - INFO: 【进程 163934】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:03,829 - SubgraphToTorch.py[line:94] - INFO: 【进程 163934】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:03,946 - SubgraphToTorch.py[line:428] - INFO: 【进程 163852】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:04,014 - SubgraphToTorch.py[line:94] - INFO: 【进程 163852】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:04,476 - SubgraphToTorch.py[line:428] - INFO: 【进程 163932】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:04,576 - SubgraphToTorch.py[line:94] - INFO: 【进程 163932】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:04,712 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:04,812 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:05,314 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:05,399 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:09,613 - SubgraphToTorch.py[line:428] - INFO: 【进程 163865】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:09,710 - SubgraphToTorch.py[line:94] - INFO: 【进程 163865】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:14,199 - SubgraphToTorch.py[line:428] - INFO: 【进程 163891】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:14,329 - SubgraphToTorch.py[line:94] - INFO: 【进程 163891】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:17,788 - SubgraphToTorch.py[line:428] - INFO: 【进程 163865】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:17,918 - SubgraphToTorch.py[line:94] - INFO: 【进程 163865】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:18,019 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:18,171 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:19,226 - SubgraphToTorch.py[line:428] - INFO: 【进程 163881】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:19,378 - SubgraphToTorch.py[line:94] - INFO: 【进程 163881】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:20,826 - SubgraphToTorch.py[line:428] - INFO: 【进程 163942】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:20,956 - SubgraphToTorch.py[line:94] - INFO: 【进程 163942】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:23,279 - SubgraphToTorch.py[line:428] - INFO: 【进程 163866】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:23,414 - SubgraphToTorch.py[line:94] - INFO: 【进程 163866】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:24,187 - SubgraphToTorch.py[line:428] - INFO: 【进程 163891】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:24,280 - SubgraphToTorch.py[line:94] - INFO: 【进程 163891】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:25,163 - SubgraphToTorch.py[line:428] - INFO: 【进程 163853】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:25,268 - SubgraphToTorch.py[line:94] - INFO: 【进程 163853】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:26,032 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:26,125 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:26,791 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:26,875 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:27,864 - SubgraphToTorch.py[line:428] - INFO: 【进程 163876】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:27,953 - SubgraphToTorch.py[line:94] - INFO: 【进程 163876】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:28,262 - SubgraphToTorch.py[line:428] - INFO: 【进程 163881】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:28,345 - SubgraphToTorch.py[line:94] - INFO: 【进程 163881】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:28,817 - SubgraphToTorch.py[line:428] - INFO: 【进程 163942】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:28,898 - SubgraphToTorch.py[line:94] - INFO: 【进程 163942】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:30,324 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:30,456 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:31,339 - SubgraphToTorch.py[line:428] - INFO: 【进程 163919】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:31,448 - SubgraphToTorch.py[line:94] - INFO: 【进程 163919】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:32,022 - SubgraphToTorch.py[line:428] - INFO: 【进程 163898】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:32,122 - SubgraphToTorch.py[line:94] - INFO: 【进程 163898】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:32,900 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:33,024 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:33,257 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:33,351 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:33,862 - SubgraphToTorch.py[line:428] - INFO: 【进程 163866】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:33,951 - SubgraphToTorch.py[line:94] - INFO: 【进程 163866】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:34,015 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:34,081 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:34,406 - SubgraphToTorch.py[line:428] - INFO: 【进程 163889】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:34,484 - SubgraphToTorch.py[line:94] - INFO: 【进程 163889】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:34,522 - SubgraphToTorch.py[line:428] - INFO: 【进程 163934】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:34,590 - SubgraphToTorch.py[line:94] - INFO: 【进程 163934】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:34,954 - SubgraphToTorch.py[line:428] - INFO: 【进程 163886】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:35,029 - SubgraphToTorch.py[line:94] - INFO: 【进程 163886】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:35,304 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:35,373 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:35,725 - SubgraphToTorch.py[line:428] - INFO: 【进程 163879】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:35,779 - SubgraphToTorch.py[line:94] - INFO: 【进程 163879】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:36,518 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:36,586 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:36,757 - SubgraphToTorch.py[line:428] - INFO: 【进程 163932】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:36,836 - SubgraphToTorch.py[line:94] - INFO: 【进程 163932】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:36,992 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:37,039 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:37,061 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:37,129 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:37,196 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:37,256 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:37,490 - SubgraphToTorch.py[line:428] - INFO: 【进程 163853】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:37,552 - SubgraphToTorch.py[line:94] - INFO: 【进程 163853】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:38,676 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:38,763 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:38,813 - SubgraphToTorch.py[line:428] - INFO: 【进程 163876】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:38,874 - SubgraphToTorch.py[line:94] - INFO: 【进程 163876】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:39,304 - SubgraphToTorch.py[line:428] - INFO: 【进程 163852】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:39,377 - SubgraphToTorch.py[line:94] - INFO: 【进程 163852】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:40,018 - SubgraphToTorch.py[line:428] - INFO: 【进程 163898】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:40,075 - SubgraphToTorch.py[line:94] - INFO: 【进程 163898】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:41,276 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:41,331 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:41,376 - SubgraphToTorch.py[line:428] - INFO: 【进程 163919】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:41,469 - SubgraphToTorch.py[line:94] - INFO: 【进程 163919】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:41,482 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:41,541 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:42,185 - SubgraphToTorch.py[line:428] - INFO: 【进程 163888】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:42,197 - SubgraphToTorch.py[line:428] - INFO: 【进程 163953】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:42,248 - SubgraphToTorch.py[line:94] - INFO: 【进程 163888】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:42,263 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:42,319 - SubgraphToTorch.py[line:94] - INFO: 【进程 163953】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:42,396 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:42,947 - SubgraphToTorch.py[line:428] - INFO: 【进程 163879】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:43,010 - SubgraphToTorch.py[line:94] - INFO: 【进程 163879】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:45,273 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:45,351 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:45,815 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:45,889 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:46,092 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:46,177 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:46,182 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:46,242 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:46,372 - SubgraphToTorch.py[line:428] - INFO: 【进程 163886】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:46,434 - SubgraphToTorch.py[line:94] - INFO: 【进程 163886】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:46,724 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:46,781 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:47,295 - SubgraphToTorch.py[line:428] - INFO: 【进程 163891】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:47,397 - SubgraphToTorch.py[line:94] - INFO: 【进程 163891】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:47,701 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:47,761 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:47,986 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:48,066 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:48,165 - SubgraphToTorch.py[line:428] - INFO: 【进程 163865】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:48,207 - SubgraphToTorch.py[line:428] - INFO: 【进程 163888】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:48,239 - SubgraphToTorch.py[line:94] - INFO: 【进程 163865】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:48,301 - SubgraphToTorch.py[line:94] - INFO: 【进程 163888】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:48,319 - SubgraphToTorch.py[line:428] - INFO: 【进程 163889】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:48,391 - SubgraphToTorch.py[line:94] - INFO: 【进程 163889】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:48,698 - SubgraphToTorch.py[line:428] - INFO: 【进程 163852】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:48,770 - SubgraphToTorch.py[line:94] - INFO: 【进程 163852】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:49,045 - SubgraphToTorch.py[line:428] - INFO: 【进程 163932】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:49,112 - SubgraphToTorch.py[line:94] - INFO: 【进程 163932】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:49,468 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:49,539 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:49,805 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:49,882 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:52,569 - SubgraphToTorch.py[line:428] - INFO: 【进程 163953】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:52,665 - SubgraphToTorch.py[line:94] - INFO: 【进程 163953】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:52,897 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:52,976 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:53,494 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:53,559 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:54,177 - SubgraphToTorch.py[line:428] - INFO: 【进程 163884】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:54,270 - SubgraphToTorch.py[line:94] - INFO: 【进程 163884】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:55,381 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:55,475 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:56,348 - SubgraphToTorch.py[line:428] - INFO: 【进程 163891】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:56,442 - SubgraphToTorch.py[line:94] - INFO: 【进程 163891】开始子图抽取与组装模块处理。。。
+2021-04-12 20:27:56,452 - SubgraphToTorch.py[line:428] - INFO: 【进程 163934】 上一个节点的全部数据生成完毕.
+2021-04-12 20:27:56,550 - SubgraphToTorch.py[line:94] - INFO: 【进程 163934】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:00,706 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:00,821 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:02,067 - SubgraphToTorch.py[line:428] - INFO: 【进程 163876】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:02,182 - SubgraphToTorch.py[line:94] - INFO: 【进程 163876】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:02,193 - SubgraphToTorch.py[line:428] - INFO: 【进程 163919】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:02,281 - SubgraphToTorch.py[line:94] - INFO: 【进程 163919】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:03,554 - SubgraphToTorch.py[line:428] - INFO: 【进程 163884】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:03,639 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:03,659 - SubgraphToTorch.py[line:94] - INFO: 【进程 163884】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:03,751 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:04,480 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:04,599 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:06,520 - SubgraphToTorch.py[line:428] - INFO: 【进程 163934】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:06,608 - SubgraphToTorch.py[line:94] - INFO: 【进程 163934】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:07,182 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:07,261 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:08,351 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:08,435 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:08,556 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:08,644 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:10,255 - SubgraphToTorch.py[line:428] - INFO: 【进程 163942】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:10,338 - SubgraphToTorch.py[line:94] - INFO: 【进程 163942】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:10,917 - SubgraphToTorch.py[line:428] - INFO: 【进程 163898】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:11,004 - SubgraphToTorch.py[line:94] - INFO: 【进程 163898】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:11,067 - SubgraphToTorch.py[line:428] - INFO: 【进程 163886】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:11,139 - SubgraphToTorch.py[line:94] - INFO: 【进程 163886】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:12,108 - SubgraphToTorch.py[line:428] - INFO: 【进程 163881】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:12,186 - SubgraphToTorch.py[line:94] - INFO: 【进程 163881】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:12,441 - SubgraphToTorch.py[line:428] - INFO: 【进程 163876】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:12,453 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:12,508 - SubgraphToTorch.py[line:94] - INFO: 【进程 163876】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:12,579 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:12,841 - SubgraphToTorch.py[line:428] - INFO: 【进程 163853】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:12,901 - SubgraphToTorch.py[line:94] - INFO: 【进程 163853】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:13,171 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:13,248 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:13,449 - SubgraphToTorch.py[line:428] - INFO: 【进程 163932】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:13,528 - SubgraphToTorch.py[line:94] - INFO: 【进程 163932】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:15,003 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:15,107 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:15,369 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:15,476 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:16,429 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:16,536 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:16,946 - SubgraphToTorch.py[line:428] - INFO: 【进程 163866】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:17,013 - SubgraphToTorch.py[line:94] - INFO: 【进程 163866】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:17,099 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:17,179 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:17,330 - SubgraphToTorch.py[line:428] - INFO: 【进程 163886】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:17,338 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:17,397 - SubgraphToTorch.py[line:94] - INFO: 【进程 163886】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:17,464 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:17,674 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:17,742 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:17,791 - SubgraphToTorch.py[line:428] - INFO: 【进程 163889】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:17,862 - SubgraphToTorch.py[line:94] - INFO: 【进程 163889】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:17,908 - SubgraphToTorch.py[line:428] - INFO: 【进程 163865】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:17,966 - SubgraphToTorch.py[line:94] - INFO: 【进程 163865】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:19,388 - SubgraphToTorch.py[line:428] - INFO: 【进程 163898】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:19,454 - SubgraphToTorch.py[line:94] - INFO: 【进程 163898】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:19,832 - SubgraphToTorch.py[line:428] - INFO: 【进程 163888】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:19,897 - SubgraphToTorch.py[line:94] - INFO: 【进程 163888】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:20,067 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:20,119 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:20,669 - SubgraphToTorch.py[line:428] - INFO: 【进程 163942】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:20,724 - SubgraphToTorch.py[line:94] - INFO: 【进程 163942】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:20,762 - SubgraphToTorch.py[line:428] - INFO: 【进程 163853】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:20,817 - SubgraphToTorch.py[line:94] - INFO: 【进程 163853】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:21,811 - SubgraphToTorch.py[line:428] - INFO: 【进程 163881】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:21,863 - SubgraphToTorch.py[line:94] - INFO: 【进程 163881】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:22,819 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:22,872 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:23,284 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:23,353 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:24,447 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:24,502 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:26,168 - SubgraphToTorch.py[line:428] - INFO: 【进程 163932】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:26,234 - SubgraphToTorch.py[line:94] - INFO: 【进程 163932】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:26,328 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:26,400 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:26,896 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:26,954 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:27,133 - SubgraphToTorch.py[line:428] - INFO: 【进程 163891】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:27,189 - SubgraphToTorch.py[line:94] - INFO: 【进程 163891】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:27,751 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:27,827 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:28,037 - SubgraphToTorch.py[line:428] - INFO: 【进程 163865】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:28,120 - SubgraphToTorch.py[line:94] - INFO: 【进程 163865】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:29,033 - SubgraphToTorch.py[line:428] - INFO: 【进程 163889】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:29,113 - SubgraphToTorch.py[line:94] - INFO: 【进程 163889】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:29,320 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:29,388 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:29,764 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:29,846 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:29,892 - SubgraphToTorch.py[line:428] - INFO: 【进程 163866】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:29,955 - SubgraphToTorch.py[line:94] - INFO: 【进程 163866】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:30,599 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:30,678 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:30,758 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:30,824 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:32,978 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:34,062 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:34,298 - SubgraphToTorch.py[line:428] - INFO: 【进程 163953】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:35,620 - SubgraphToTorch.py[line:428] - INFO: 【进程 163891】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:36,013 - SubgraphToTorch.py[line:428] - INFO: 【进程 163934】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:36,128 - SubgraphToTorch.py[line:428] - INFO: 【进程 163876】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:37,164 - SubgraphToTorch.py[line:428] - INFO: 【进程 163919】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:37,895 - SubgraphToTorch.py[line:428] - INFO: 【进程 163879】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:38,629 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:39,222 - SubgraphToTorch.py[line:428] - INFO: 【进程 163852】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:41,837 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:43,422 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:45,420 - SubgraphToTorch.py[line:428] - INFO: 【进程 163853】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:46,009 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:46,958 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:47,413 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:48,070 - SubgraphToTorch.py[line:428] - INFO: 【进程 163898】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:48,870 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:48,878 - SubgraphToTorch.py[line:428] - INFO: 【进程 163886】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:49,136 - SubgraphToTorch.py[line:428] - INFO: 【进程 163881】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:49,232 - SubgraphToTorch.py[line:428] - INFO: 【进程 163942】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:50,960 - SubgraphToTorch.py[line:428] - INFO: 【进程 163888】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:51,089 - SubgraphToTorch.py[line:428] - INFO: 【进程 163884】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:51,579 - SubgraphToTorch.py[line:428] - INFO: 【进程 163865】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:51,835 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:51,904 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:51,962 - SubgraphToTorch.py[line:94] - INFO: 【进程 163953】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:52,012 - SubgraphToTorch.py[line:94] - INFO: 【进程 163891】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:52,078 - SubgraphToTorch.py[line:94] - INFO: 【进程 163934】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:52,145 - SubgraphToTorch.py[line:94] - INFO: 【进程 163876】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:52,211 - SubgraphToTorch.py[line:94] - INFO: 【进程 163919】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:52,276 - SubgraphToTorch.py[line:94] - INFO: 【进程 163879】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:52,330 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:52,384 - SubgraphToTorch.py[line:94] - INFO: 【进程 163852】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:52,445 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:52,453 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:52,512 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:52,527 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:52,570 - SubgraphToTorch.py[line:94] - INFO: 【进程 163853】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:52,617 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:52,681 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:52,758 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:52,820 - SubgraphToTorch.py[line:94] - INFO: 【进程 163898】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:52,885 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:52,937 - SubgraphToTorch.py[line:94] - INFO: 【进程 163886】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:52,998 - SubgraphToTorch.py[line:94] - INFO: 【进程 163881】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:53,050 - SubgraphToTorch.py[line:94] - INFO: 【进程 163942】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:53,122 - SubgraphToTorch.py[line:94] - INFO: 【进程 163888】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:53,185 - SubgraphToTorch.py[line:94] - INFO: 【进程 163884】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:53,254 - SubgraphToTorch.py[line:94] - INFO: 【进程 163865】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:53,336 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:53,399 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:53,418 - SubgraphToTorch.py[line:428] - INFO: 【进程 163932】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:53,478 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:53,480 - SubgraphToTorch.py[line:94] - INFO: 【进程 163932】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:53,542 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:54,289 - SubgraphToTorch.py[line:428] - INFO: 【进程 163889】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:54,347 - SubgraphToTorch.py[line:94] - INFO: 【进程 163889】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:55,060 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:55,104 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:58,005 - SubgraphToTorch.py[line:428] - INFO: 【进程 163853】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:58,058 - SubgraphToTorch.py[line:94] - INFO: 【进程 163853】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:58,933 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:58,981 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:58,991 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:59,048 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:59,345 - SubgraphToTorch.py[line:428] - INFO: 【进程 163898】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:59,356 - SubgraphToTorch.py[line:428] - INFO: 【进程 163884】 上一个节点的全部数据生成完毕.
+2021-04-12 20:28:59,412 - SubgraphToTorch.py[line:94] - INFO: 【进程 163898】开始子图抽取与组装模块处理。。。
+2021-04-12 20:28:59,469 - SubgraphToTorch.py[line:94] - INFO: 【进程 163884】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:00,656 - SubgraphToTorch.py[line:428] - INFO: 【进程 163932】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:00,718 - SubgraphToTorch.py[line:94] - INFO: 【进程 163932】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:00,922 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:00,979 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:01,146 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:01,197 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:01,471 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:01,522 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:01,662 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:01,732 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:02,256 - SubgraphToTorch.py[line:428] - INFO: 【进程 163888】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:02,288 - SubgraphToTorch.py[line:428] - INFO: 【进程 163919】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:02,323 - SubgraphToTorch.py[line:94] - INFO: 【进程 163888】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:02,344 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:02,383 - SubgraphToTorch.py[line:94] - INFO: 【进程 163919】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:02,440 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:02,462 - SubgraphToTorch.py[line:428] - INFO: 【进程 163934】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:02,541 - SubgraphToTorch.py[line:94] - INFO: 【进程 163934】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:02,748 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:02,839 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:02,978 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:03,055 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:03,452 - SubgraphToTorch.py[line:428] - INFO: 【进程 163889】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:03,505 - SubgraphToTorch.py[line:94] - INFO: 【进程 163889】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:03,740 - SubgraphToTorch.py[line:428] - INFO: 【进程 163886】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:03,835 - SubgraphToTorch.py[line:94] - INFO: 【进程 163886】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:03,941 - SubgraphToTorch.py[line:428] - INFO: 【进程 163865】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:04,008 - SubgraphToTorch.py[line:94] - INFO: 【进程 163865】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:04,011 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:04,068 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:04,266 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:04,324 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:11,055 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:11,160 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:15,618 - SubgraphToTorch.py[line:428] - INFO: 【进程 163866】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:15,711 - SubgraphToTorch.py[line:94] - INFO: 【进程 163866】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:19,242 - SubgraphToTorch.py[line:428] - INFO: 【进程 163942】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:19,304 - SubgraphToTorch.py[line:94] - INFO: 【进程 163942】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:21,728 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:21,824 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:22,866 - SubgraphToTorch.py[line:428] - INFO: 【进程 163866】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:22,946 - SubgraphToTorch.py[line:94] - INFO: 【进程 163866】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:24,132 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:24,212 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:24,858 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:24,944 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:25,955 - SubgraphToTorch.py[line:428] - INFO: 【进程 163898】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:26,031 - SubgraphToTorch.py[line:94] - INFO: 【进程 163898】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:26,981 - SubgraphToTorch.py[line:428] - INFO: 【进程 163942】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:26,983 - SubgraphToTorch.py[line:428] - INFO: 【进程 163932】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:27,057 - SubgraphToTorch.py[line:94] - INFO: 【进程 163942】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:27,128 - SubgraphToTorch.py[line:94] - INFO: 【进程 163932】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:27,278 - SubgraphToTorch.py[line:428] - INFO: 【进程 163879】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:27,374 - SubgraphToTorch.py[line:94] - INFO: 【进程 163879】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:27,994 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:28,095 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:28,879 - SubgraphToTorch.py[line:428] - INFO: 【进程 163853】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:28,979 - SubgraphToTorch.py[line:94] - INFO: 【进程 163853】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:29,533 - SubgraphToTorch.py[line:428] - INFO: 【进程 163934】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:29,604 - SubgraphToTorch.py[line:94] - INFO: 【进程 163934】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:30,726 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:30,792 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:32,327 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:32,379 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:33,332 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:33,397 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:33,816 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:33,875 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:34,502 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:34,504 - SubgraphToTorch.py[line:428] - INFO: 【进程 163876】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:34,529 - SubgraphToTorch.py[line:428] - INFO: 【进程 163881】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:34,570 - SubgraphToTorch.py[line:94] - INFO: 【进程 163876】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:34,636 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:34,722 - SubgraphToTorch.py[line:94] - INFO: 【进程 163881】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:34,902 - SubgraphToTorch.py[line:428] - INFO: 【进程 163865】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:34,993 - SubgraphToTorch.py[line:94] - INFO: 【进程 163865】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:35,010 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:35,077 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:35,457 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:35,512 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:35,651 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:35,741 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:35,822 - SubgraphToTorch.py[line:428] - INFO: 【进程 163879】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:35,882 - SubgraphToTorch.py[line:94] - INFO: 【进程 163879】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:36,769 - SubgraphToTorch.py[line:428] - INFO: 【进程 163853】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:36,836 - SubgraphToTorch.py[line:94] - INFO: 【进程 163853】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:37,551 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:37,574 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:37,600 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:37,667 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:37,693 - SubgraphToTorch.py[line:428] - INFO: 【进程 163889】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:37,737 - SubgraphToTorch.py[line:428] - INFO: 【进程 163891】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:37,765 - SubgraphToTorch.py[line:94] - INFO: 【进程 163889】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:37,809 - SubgraphToTorch.py[line:94] - INFO: 【进程 163891】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:38,303 - SubgraphToTorch.py[line:428] - INFO: 【进程 163898】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:38,366 - SubgraphToTorch.py[line:94] - INFO: 【进程 163898】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:38,874 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:38,944 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:39,605 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:39,640 - SubgraphToTorch.py[line:428] - INFO: 【进程 163932】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:39,661 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:39,725 - SubgraphToTorch.py[line:94] - INFO: 【进程 163932】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:41,986 - SubgraphToTorch.py[line:428] - INFO: 【进程 163876】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:42,088 - SubgraphToTorch.py[line:94] - INFO: 【进程 163876】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:42,102 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:42,169 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:42,258 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:42,308 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:42,660 - SubgraphToTorch.py[line:428] - INFO: 【进程 163934】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:42,750 - SubgraphToTorch.py[line:94] - INFO: 【进程 163934】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:42,786 - SubgraphToTorch.py[line:428] - INFO: 【进程 163953】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:42,862 - SubgraphToTorch.py[line:94] - INFO: 【进程 163953】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:42,913 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:42,992 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:43,981 - SubgraphToTorch.py[line:428] - INFO: 【进程 163891】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:44,045 - SubgraphToTorch.py[line:94] - INFO: 【进程 163891】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:44,289 - SubgraphToTorch.py[line:428] - INFO: 【进程 163884】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:44,335 - SubgraphToTorch.py[line:94] - INFO: 【进程 163884】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:44,434 - SubgraphToTorch.py[line:428] - INFO: 【进程 163886】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:44,510 - SubgraphToTorch.py[line:94] - INFO: 【进程 163886】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:44,928 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:45,004 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:45,579 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:45,597 - SubgraphToTorch.py[line:428] - INFO: 【进程 163881】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:45,656 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:45,706 - SubgraphToTorch.py[line:94] - INFO: 【进程 163881】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:46,404 - SubgraphToTorch.py[line:428] - INFO: 【进程 163865】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:46,478 - SubgraphToTorch.py[line:94] - INFO: 【进程 163865】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:48,392 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:48,462 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:50,016 - SubgraphToTorch.py[line:428] - INFO: 【进程 163888】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:50,097 - SubgraphToTorch.py[line:94] - INFO: 【进程 163888】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:50,560 - SubgraphToTorch.py[line:428] - INFO: 【进程 163886】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:50,646 - SubgraphToTorch.py[line:94] - INFO: 【进程 163886】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:50,881 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:50,966 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:51,448 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:51,561 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:52,595 - SubgraphToTorch.py[line:428] - INFO: 【进程 163884】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:52,698 - SubgraphToTorch.py[line:94] - INFO: 【进程 163884】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:54,210 - SubgraphToTorch.py[line:428] - INFO: 【进程 163953】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:54,304 - SubgraphToTorch.py[line:94] - INFO: 【进程 163953】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:56,332 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:56,426 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:59,104 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:59,119 - SubgraphToTorch.py[line:428] - INFO: 【进程 163942】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:59,171 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:59,259 - SubgraphToTorch.py[line:94] - INFO: 【进程 163942】开始子图抽取与组装模块处理。。。
+2021-04-12 20:29:59,406 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:29:59,486 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:01,970 - SubgraphToTorch.py[line:428] - INFO: 【进程 163888】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:02,065 - SubgraphToTorch.py[line:94] - INFO: 【进程 163888】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:03,125 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:03,198 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:05,106 - SubgraphToTorch.py[line:428] - INFO: 【进程 163919】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:05,150 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:05,218 - SubgraphToTorch.py[line:94] - INFO: 【进程 163919】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:05,275 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:05,369 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:05,482 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:06,634 - SubgraphToTorch.py[line:428] - INFO: 【进程 163898】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:06,723 - SubgraphToTorch.py[line:94] - INFO: 【进程 163898】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:06,887 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:06,950 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:09,541 - SubgraphToTorch.py[line:428] - INFO: 【进程 163881】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:09,623 - SubgraphToTorch.py[line:94] - INFO: 【进程 163881】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:10,421 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:10,474 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:10,797 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:10,858 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:10,982 - SubgraphToTorch.py[line:428] - INFO: 【进程 163852】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:11,059 - SubgraphToTorch.py[line:94] - INFO: 【进程 163852】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:11,880 - SubgraphToTorch.py[line:428] - INFO: 【进程 163942】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:11,951 - SubgraphToTorch.py[line:94] - INFO: 【进程 163942】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:12,343 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:12,394 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:12,856 - SubgraphToTorch.py[line:428] - INFO: 【进程 163919】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:12,936 - SubgraphToTorch.py[line:94] - INFO: 【进程 163919】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:13,922 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:13,987 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:14,992 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:15,027 - SubgraphToTorch.py[line:428] - INFO: 【进程 163934】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:15,033 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:15,046 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:15,111 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:15,200 - SubgraphToTorch.py[line:94] - INFO: 【进程 163934】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:16,753 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:16,823 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:17,619 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:17,695 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:18,271 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:18,386 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:18,618 - SubgraphToTorch.py[line:428] - INFO: 【进程 163932】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:18,701 - SubgraphToTorch.py[line:94] - INFO: 【进程 163932】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:19,315 - SubgraphToTorch.py[line:428] - INFO: 【进程 163876】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:19,386 - SubgraphToTorch.py[line:94] - INFO: 【进程 163876】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:19,669 - SubgraphToTorch.py[line:428] - INFO: 【进程 163865】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:19,769 - SubgraphToTorch.py[line:94] - INFO: 【进程 163865】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:21,685 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:21,740 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:21,933 - SubgraphToTorch.py[line:428] - INFO: 【进程 163886】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:22,008 - SubgraphToTorch.py[line:94] - INFO: 【进程 163886】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:22,155 - SubgraphToTorch.py[line:428] - INFO: 【进程 163889】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:22,227 - SubgraphToTorch.py[line:94] - INFO: 【进程 163889】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:22,946 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:23,034 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:23,394 - SubgraphToTorch.py[line:428] - INFO: 【进程 163881】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:23,472 - SubgraphToTorch.py[line:94] - INFO: 【进程 163881】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:23,900 - SubgraphToTorch.py[line:428] - INFO: 【进程 163852】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:23,919 - SubgraphToTorch.py[line:428] - INFO: 【进程 163879】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:23,978 - SubgraphToTorch.py[line:94] - INFO: 【进程 163852】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:24,067 - SubgraphToTorch.py[line:94] - INFO: 【进程 163879】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:25,279 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:25,339 - SubgraphToTorch.py[line:94] - INFO: 【进程 163936】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:25,589 - SubgraphToTorch.py[line:428] - INFO: 【进程 163932】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:25,641 - SubgraphToTorch.py[line:94] - INFO: 【进程 163932】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:26,142 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:26,231 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:26,256 - SubgraphToTorch.py[line:428] - INFO: 【进程 163876】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:26,308 - SubgraphToTorch.py[line:94] - INFO: 【进程 163876】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:26,661 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:26,722 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:28,283 - SubgraphToTorch.py[line:428] - INFO: 【进程 163934】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:28,368 - SubgraphToTorch.py[line:94] - INFO: 【进程 163934】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:30,374 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:30,426 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:30,661 - SubgraphToTorch.py[line:428] - INFO: 【进程 163853】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:30,660 - SubgraphToTorch.py[line:428] - INFO: 【进程 163865】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:30,722 - SubgraphToTorch.py[line:94] - INFO: 【进程 163865】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:30,799 - SubgraphToTorch.py[line:94] - INFO: 【进程 163853】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:31,170 - SubgraphToTorch.py[line:428] - INFO: 【进程 163889】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:31,236 - SubgraphToTorch.py[line:94] - INFO: 【进程 163889】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:32,675 - SubgraphToTorch.py[line:428] - INFO: 【进程 163866】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:32,743 - SubgraphToTorch.py[line:94] - INFO: 【进程 163866】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:33,380 - SubgraphToTorch.py[line:428] - INFO: 【进程 163886】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:33,466 - SubgraphToTorch.py[line:94] - INFO: 【进程 163886】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:33,584 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:33,670 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:33,923 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:34,023 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:34,171 - SubgraphToTorch.py[line:428] - INFO: 【进程 163891】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:34,279 - SubgraphToTorch.py[line:94] - INFO: 【进程 163891】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:34,355 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:34,453 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:36,340 - SubgraphToTorch.py[line:428] - INFO: 【进程 163898】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:36,392 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:36,432 - SubgraphToTorch.py[line:94] - INFO: 【进程 163898】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:36,526 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:36,619 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:36,720 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:36,918 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:36,918 - SubgraphToTorch.py[line:428] - INFO: 【进程 163879】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:36,977 - SubgraphToTorch.py[line:94] - INFO: 【进程 163937】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:37,061 - SubgraphToTorch.py[line:94] - INFO: 【进程 163879】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:37,776 - SubgraphToTorch.py[line:428] - INFO: 【进程 163853】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:37,849 - SubgraphToTorch.py[line:94] - INFO: 【进程 163853】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:38,862 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:38,920 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:39,503 - SubgraphToTorch.py[line:428] - INFO: 【进程 163866】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:39,565 - SubgraphToTorch.py[line:94] - INFO: 【进程 163866】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:41,160 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:41,243 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:41,323 - SubgraphToTorch.py[line:428] - INFO: 【进程 163884】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:41,405 - SubgraphToTorch.py[line:94] - INFO: 【进程 163884】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:41,772 - SubgraphToTorch.py[line:428] - INFO: 【进程 163888】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:41,838 - SubgraphToTorch.py[line:94] - INFO: 【进程 163888】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:42,382 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:42,444 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:43,239 - SubgraphToTorch.py[line:428] - INFO: 【进程 163942】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:43,306 - SubgraphToTorch.py[line:94] - INFO: 【进程 163942】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:43,565 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:43,640 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:43,739 - SubgraphToTorch.py[line:428] - INFO: 【进程 163953】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:43,819 - SubgraphToTorch.py[line:94] - INFO: 【进程 163953】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:45,372 - SubgraphToTorch.py[line:428] - INFO: 【进程 163898】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:45,467 - SubgraphToTorch.py[line:94] - INFO: 【进程 163898】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:45,490 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:45,551 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:45,863 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:45,892 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:45,922 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:46,003 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:46,272 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:46,332 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:50,246 - SubgraphToTorch.py[line:428] - INFO: 【进程 163888】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:50,301 - SubgraphToTorch.py[line:94] - INFO: 【进程 163888】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:50,470 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:50,551 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:52,014 - SubgraphToTorch.py[line:428] - INFO: 【进程 163942】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:52,093 - SubgraphToTorch.py[line:94] - INFO: 【进程 163942】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:53,703 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:53,807 - SubgraphToTorch.py[line:94] - INFO: 【进程 163878】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:54,320 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:54,424 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:54,513 - SubgraphToTorch.py[line:428] - INFO: 【进程 163953】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:54,598 - SubgraphToTorch.py[line:94] - INFO: 【进程 163953】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:55,104 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:55,215 - SubgraphToTorch.py[line:94] - INFO: 【进程 163954】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:57,262 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:57,353 - SubgraphToTorch.py[line:94] - INFO: 【进程 163939】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:57,559 - SubgraphToTorch.py[line:428] - INFO: 【进程 163919】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:57,687 - SubgraphToTorch.py[line:94] - INFO: 【进程 163919】开始子图抽取与组装模块处理。。。
+2021-04-12 20:30:59,302 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:30:59,403 - SubgraphToTorch.py[line:94] - INFO: 【进程 163931】开始子图抽取与组装模块处理。。。
+2021-04-12 20:31:01,639 - SubgraphToTorch.py[line:428] - INFO: 【进程 163889】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:01,742 - SubgraphToTorch.py[line:94] - INFO: 【进程 163889】开始子图抽取与组装模块处理。。。
+2021-04-12 20:31:01,893 - SubgraphToTorch.py[line:428] - INFO: 【进程 163881】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:01,979 - SubgraphToTorch.py[line:94] - INFO: 【进程 163881】开始子图抽取与组装模块处理。。。
+2021-04-12 20:31:02,486 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:02,552 - SubgraphToTorch.py[line:94] - INFO: 【进程 163883】开始子图抽取与组装模块处理。。。
+2021-04-12 20:31:02,616 - SubgraphToTorch.py[line:428] - INFO: 【进程 163876】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:02,686 - SubgraphToTorch.py[line:94] - INFO: 【进程 163876】开始子图抽取与组装模块处理。。。
+2021-04-12 20:31:02,904 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:02,955 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:31:03,578 - SubgraphToTorch.py[line:428] - INFO: 【进程 163932】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:03,674 - SubgraphToTorch.py[line:94] - INFO: 【进程 163932】开始子图抽取与组装模块处理。。。
+2021-04-12 20:31:03,681 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:03,761 - SubgraphToTorch.py[line:94] - INFO: 【进程 163941】开始子图抽取与组装模块处理。。。
+2021-04-12 20:31:04,462 - SubgraphToTorch.py[line:428] - INFO: 【进程 163934】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:04,544 - SubgraphToTorch.py[line:94] - INFO: 【进程 163934】开始子图抽取与组装模块处理。。。
+2021-04-12 20:31:04,732 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:04,739 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:04,799 - SubgraphToTorch.py[line:94] - INFO: 【进程 163856】开始子图抽取与组装模块处理。。。
+2021-04-12 20:31:04,884 - SubgraphToTorch.py[line:94] - INFO: 【进程 163902】开始子图抽取与组装模块处理。。。
+2021-04-12 20:31:05,002 - SubgraphToTorch.py[line:428] - INFO: 【进程 163852】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:05,068 - SubgraphToTorch.py[line:94] - INFO: 【进程 163852】开始子图抽取与组装模块处理。。。
+2021-04-12 20:31:05,108 - SubgraphToTorch.py[line:428] - INFO: 【进程 163865】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:05,184 - SubgraphToTorch.py[line:94] - INFO: 【进程 163865】开始子图抽取与组装模块处理。。。
+2021-04-12 20:31:07,678 - SubgraphToTorch.py[line:428] - INFO: 【进程 163891】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:07,766 - SubgraphToTorch.py[line:94] - INFO: 【进程 163891】开始子图抽取与组装模块处理。。。
+2021-04-12 20:31:08,066 - SubgraphToTorch.py[line:428] - INFO: 【进程 163919】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:08,147 - SubgraphToTorch.py[line:94] - INFO: 【进程 163919】开始子图抽取与组装模块处理。。。
+2021-04-12 20:31:09,021 - SubgraphToTorch.py[line:428] - INFO: 【进程 163876】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:09,032 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:09,075 - SubgraphToTorch.py[line:94] - INFO: 【进程 163876】开始子图抽取与组装模块处理。。。
+2021-04-12 20:31:09,149 - SubgraphToTorch.py[line:94] - INFO: 【进程 163924】开始子图抽取与组装模块处理。。。
+2021-04-12 20:31:09,566 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:09,569 - SubgraphToTorch.py[line:428] - INFO: 【进程 163889】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:09,638 - SubgraphToTorch.py[line:94] - INFO: 【进程 163889】开始子图抽取与组装模块处理。。。
+2021-04-12 20:31:09,715 - SubgraphToTorch.py[line:94] - INFO: 【进程 163943】开始子图抽取与组装模块处理。。。
+2021-04-12 20:31:10,236 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:10,297 - SubgraphToTorch.py[line:94] - INFO: 【进程 163925】开始子图抽取与组装模块处理。。。
+2021-04-12 20:31:10,330 - SubgraphToTorch.py[line:428] - INFO: 【进程 163884】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:10,419 - SubgraphToTorch.py[line:94] - INFO: 【进程 163884】开始子图抽取与组装模块处理。。。
+2021-04-12 20:31:11,253 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:11,322 - SubgraphToTorch.py[line:94] - INFO: 【进程 163927】开始子图抽取与组装模块处理。。。
+2021-04-12 20:31:11,858 - SubgraphToTorch.py[line:428] - INFO: 【进程 163888】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:12,438 - SubgraphToTorch.py[line:428] - INFO: 【进程 163856】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:12,643 - SubgraphToTorch.py[line:428] - INFO: 【进程 163932】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:13,482 - SubgraphToTorch.py[line:428] - INFO: 【进程 163881】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:13,614 - SubgraphToTorch.py[line:428] - INFO: 【进程 163865】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:14,659 - SubgraphToTorch.py[line:428] - INFO: 【进程 163891】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:15,154 - SubgraphToTorch.py[line:428] - INFO: 【进程 163902】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:15,413 - SubgraphToTorch.py[line:428] - INFO: 【进程 163942】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:15,851 - SubgraphToTorch.py[line:428] - INFO: 【进程 163879】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:16,967 - SubgraphToTorch.py[line:428] - INFO: 【进程 163852】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:20,380 - SubgraphToTorch.py[line:428] - INFO: 【进程 163954】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:20,438 - SubgraphToTorch.py[line:428] - INFO: 【进程 163886】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:20,450 - SubgraphToTorch.py[line:428] - INFO: 【进程 163943】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:20,500 - SubgraphToTorch.py[line:428] - INFO: 【进程 163927】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:20,501 - SubgraphToTorch.py[line:428] - INFO: 【进程 163936】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:20,582 - SubgraphToTorch.py[line:428] - INFO: 【进程 163884】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:20,677 - SubgraphToTorch.py[line:428] - INFO: 【进程 163937】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:21,385 - SubgraphToTorch.py[line:428] - INFO: 【进程 163878】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:21,583 - SubgraphToTorch.py[line:428] - INFO: 【进程 163898】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:30,105 - SubgraphToTorch.py[line:428] - INFO: 【进程 163853】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:30,685 - SubgraphToTorch.py[line:428] - INFO: 【进程 163934】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:30,812 - SubgraphToTorch.py[line:428] - INFO: 【进程 163925】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:30,878 - SubgraphToTorch.py[line:428] - INFO: 【进程 163883】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:31,046 - SubgraphToTorch.py[line:428] - INFO: 【进程 163876】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:31,121 - SubgraphToTorch.py[line:428] - INFO: 【进程 163889】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:31,227 - SubgraphToTorch.py[line:428] - INFO: 【进程 163866】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:31,454 - SubgraphToTorch.py[line:428] - INFO: 【进程 163924】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:31,931 - SubgraphToTorch.py[line:94] - INFO: 【进程 163888】开始子图抽取与组装模块处理。。。
+2021-04-12 20:31:32,063 - SubgraphToTorch.py[line:428] - INFO: 【进程 163939】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:32,347 - SubgraphToTorch.py[line:428] - INFO: 【进程 163931】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:32,908 - SubgraphToTorch.py[line:428] - INFO: 【进程 163953】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:36,398 - SubgraphToTorch.py[line:428] - INFO: 【进程 163919】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:36,857 - SubgraphToTorch.py[line:428] - INFO: 【进程 163941】 上一个节点的全部数据生成完毕.
+2021-04-12 20:31:37,855 - SubgraphToTorch.py[line:428] - INFO: 【进程 163888】 上一个节点的全部数据生成完毕.

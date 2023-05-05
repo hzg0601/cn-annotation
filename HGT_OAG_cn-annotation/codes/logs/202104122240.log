@@ -1,0 +1,8 @@
+2021-04-12 22:40:38,571 - ReadData.py[line:15] - INFO: 读取数据开始。。。
+2021-04-12 22:41:39,052 - ReadData.py[line:17] - INFO: 读取数据完毕。
+2021-04-12 22:41:52,459 - ReadData.py[line:71] - INFO: 数据类型 train 共 148566 个节点
+2021-04-12 22:41:52,495 - ReadData.py[line:71] - INFO: 数据类型 val 共 33744 个节点
+2021-04-12 22:41:56,644 - ReadData.py[line:71] - INFO: 数据类型 test 共 46794 个节点
+2021-04-12 22:41:56,648 - GenerateUtilitySample.py[line:63] - INFO: 采样第 1 epoch节点开始
+2021-04-12 23:07:26,571 - GenerateUtilitySample.py[line:74] - INFO: 第 1 个epoch节点采样结束
+2021-04-12 23:07:26,578 - GenerateUtilitySample.py[line:63] - INFO: 采样第 2 epoch节点开始

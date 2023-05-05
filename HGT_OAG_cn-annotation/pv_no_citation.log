@@ -1,0 +1,438 @@
+nohup: ignoring input
+2021-04-15 18:31:45,125 - __init__.py[line:224] - DEBUG: matplotlib data path: /data1/huangzg/anaconda3/envs/PY38_HGT/lib/python3.8/site-packages/matplotlib/mpl-data
+2021-04-15 18:31:45,135 - __init__.py[line:224] - DEBUG: CONFIGDIR=/data1/huangzg/.config/matplotlib
+2021-04-15 18:31:45,137 - __init__.py[line:1385] - DEBUG: matplotlib version 3.4.0
+2021-04-15 18:31:45,137 - __init__.py[line:1386] - DEBUG: interactive is False
+2021-04-15 18:31:45,137 - __init__.py[line:1387] - DEBUG: platform is linux
+2021-04-15 18:31:45,138 - __init__.py[line:1388] - DEBUG: loaded modules: ['sys', 'builtins', '_frozen_importlib', '_imp', '_warnings', '_frozen_importlib_external', '_io', 'marshal', 'posix', '_thread', '_weakref', 'time', 'zipimport', '_codecs', 'codecs', 'encodings.aliases', 'encodings', 'encodings.utf_8', '_signal', '__main__', 'encodings.latin_1', '_abc', 'abc', 'io', '_stat', 'stat', '_collections_abc', 'genericpath', 'posixpath', 'os.path', 'os', '_sitebuiltins', '_locale', '_bootlocale', 'types', 'importlib._bootstrap', 'importlib._bootstrap_external', 'warnings', 'importlib', 'importlib.machinery', 'importlib.abc', '_operator', 'operator', 'keyword', '_heapq', 'heapq', 'itertools', 'reprlib', '_collections', 'collections', '_functools', 'functools', 'contextlib', 'importlib.util', 'google', 'google.logging', 'mpl_toolkits', 'site', '_weakrefset', 'threading', 'enum', 'signal', 'multiprocessing.process', 'copyreg', '_struct', 'struct', '_sre', 'sre_constants', 'sre_parse', 'sre_compile', 're', '_compat_pickle', '_pickle', 'pickle', '_socket', 'collections.abc', 'math', 'select', 'selectors', 'errno', 'socket', 'array', 'multiprocessing.reduction', 'multiprocessing.context', '__mp_main__', 'multiprocessing', 'pyHGT', 'numpy._globals', 'numpy.__config__', 'numpy.version', '_ctypes', 'ctypes._endian', 'ctypes', 'mkl._mklinit', 'cython_runtime', '__future__', 'six', 'mkl._py_mkl_service', 'mkl', 'numpy._distributor_init', 'textwrap', '_datetime', 'datetime', 'numpy.core._multiarray_umath', 'numpy.compat._inspect', 'fnmatch', 'ntpath', 'urllib', 'urllib.parse', 'pathlib', 'numpy.compat.py3k', 'numpy.compat', 'numpy.core.overrides', 'numpy.core.multiarray', 'numpy.core.umath', 'numbers', 'numpy.core._string_helpers', 'numpy.core._dtype', 'numpy.core._type_aliases', 'numpy.core.numerictypes', 'numpy.core._asarray', 'numpy.core._exceptions', 'numpy.core._methods', 'numpy.core.fromnumeric', 'numpy.core.shape_base', 'numpy.core._ufunc_config', 'numpy.core.arrayprint', 'numpy.core.numeric', 'numpy.core.defchararray', 'numpy.core.records', 'numpy.core.memmap', 'numpy.core.function_base', 'numpy.core.machar', 'numpy.core.getlimits', 'numpy.core.einsumfunc', 'numpy.core._multiarray_tests', 'numpy.core._add_newdocs', 'numpy.core._dtype_ctypes', '_ast', 'ast', 'platform', 'numpy.core._internal', 'numpy._pytesttester', 'numpy.core', 'numpy.lib.mixins', 'numpy.lib.ufunclike', 'numpy.lib.type_check', 'numpy.lib.scimath', 'numpy.lib.twodim_base', 'numpy.linalg.lapack_lite', 'numpy.linalg._umath_linalg', 'numpy.linalg.linalg', 'numpy.linalg', 'numpy.matrixlib.defmatrix', 'numpy.matrixlib', 'numpy.lib.histograms', 'numpy.lib.function_base', 'numpy.lib.stride_tricks', 'numpy.lib.index_tricks', 'numpy.lib.nanfunctions', 'numpy.lib.shape_base', 'numpy.lib.polynomial', 'numpy.lib.utils', 'numpy.lib.arraysetops', 'weakref', 'numpy.lib.format', 'zlib', '_compression', '_bz2', 'bz2', '_lzma', 'lzma', 'pwd', 'grp', 'shutil', 'numpy.lib._datasource', 'numpy.lib._iotools', 'numpy.lib.npyio', '_decimal', 'decimal', 'numpy.lib.financial', 'numpy.lib.arrayterator', 'numpy.lib.arraypad', 'numpy.lib._version', 'numpy.lib', 'numpy.fft._pocketfft_internal', 'numpy.fft._pocketfft', 'numpy.fft.helper', 'numpy.fft', 'numpy.polynomial.polyutils', 'numpy.polynomial._polybase', 'numpy.polynomial.polynomial', 'numpy.polynomial.chebyshev', 'numpy.polynomial.legendre', 'numpy.polynomial.hermite', 'numpy.polynomial.hermite_e', 'numpy.polynomial.laguerre', 'numpy.polynomial', '_cython_0_29_21', 'numpy.random._common', 'binascii', 'base64', '_hashlib', '_blake2', '_sha3', 'hashlib', 'hmac', '_bisect', 'bisect', '_sha512', '_random', 'random', 'secrets', 'numpy.random.bit_generator', 'numpy.random._bounded_integers', 'numpy.random._mt19937', 'numpy.random.mtrand', 'numpy.random._philox', 'numpy.random._pcg64', 'numpy.random._sfc64', 'numpy.random._generator', 'numpy.random._pickle', 'numpy.random', 'numpy.ctypeslib', 'numpy.ma.core', 'numpy.ma.extras', 'numpy.ma', 'numpy', 'scipy._lib._testutils', 'scipy._lib', 'scipy._lib.deprecation', 'scipy.__config__', 'scipy.version', 'scipy._distributor_init', 'scipy._lib._pep440', 'scipy._lib._ccallback_c', 'scipy._lib._ccallback', 'scipy', '_opcode', 'opcode', 'dis', 'token', 'tokenize', 'linecache', 'inspect', 'scipy._lib._util', 'scipy.sparse.sputils', 'scipy.sparse.base', 'scipy.sparse._sparsetools', 'scipy.sparse.data', 'scipy.sparse.dia', 'scipy.sparse._index', 'scipy.sparse.compressed', 'scipy.sparse.csr', 'scipy.sparse.csc', 'scipy.sparse._csparsetools', 'scipy.sparse.lil', 'scipy.sparse.dok', 'scipy.sparse.coo', 'scipy.sparse.bsr', 'scipy.sparse.construct', 'scipy.sparse.extract', 'scipy.sparse._matrix_io', 'scipy.sparse.csgraph._laplacian', '_cython_0_29_22', 'scipy.sparse.csgraph._tools', 'scipy.sparse.csgraph._validation', 'scipy.sparse.csgraph._shortest_path', 'scipy.sparse.csgraph._traversal', 'scipy.sparse.csgraph._min_spanning_tree', 'scipy.sparse.csgraph._flow', 'scipy.sparse.csgraph._matching', 'scipy.sparse.csgraph._reordering', 'scipy.sparse.csgraph', 'scipy.sparse', 'traceback', 'torch._utils', 'torch._utils_internal', 'torch.version', '_queue', 'queue', 'torch._six', '_posixsubprocess', 'subprocess', 'torch._C._onnx', 'torch._C._jit_tree_views', 'torch._C.cpp', 'torch._C.cpp.nn', 'torch._C', 'torch.random', 'difflib', 'copy', 'tarfile', 'tempfile', 'torch.serialization', 'torch._tensor_str', 'torch._namedtensor_internals', 'torch.utils.throughput_benchmark', 'torch.utils', 'torch.utils.hooks', 'torch.tensor', 'torch.storage', 'torch.cuda._utils', 'torch.cuda.memory', 'torch.cuda.random', 'torch.cuda.sparse', 'torch.cuda.profiler', 'glob', 'torch.cuda.nvtx', 'torch.cuda.streams', 'torch.cuda', 'torch.sparse', 'torch.nn.parameter', 'torch.nn.modules.module', 'torch.nn._reduction', 'torch.nn.modules.utils', 'torch.nn.grad', 'torch.nn._VF', 'typing.io', 'typing.re', 'typing', 'typing_extensions', 'torch._jit_internal', 'torch.nn.functional', 'torch.nn.init', 'torch.nn.modules.linear', 'torch.nn.modules.conv', 'torch.nn.modules.activation', 'torch.nn.modules.loss', 'torch.nn.modules.container', 'torch.nn.modules.pooling', 'torch.autograd.variable', 'torch.autograd.function', 'torch.testing', 'torch.autograd.gradcheck', 'torch.autograd.grad_mode', 'torch.autograd.anomaly_mode', 'torch.autograd.profiler', 'torch.autograd', 'torch.nn.modules._functions', 'torch.nn.modules.batchnorm', 'torch.nn.modules.instancenorm', 'torch.nn.modules.normalization', 'torch.nn.modules.dropout', 'torch.nn.modules.padding', 'torch.nn.modules.sparse', 'torch.nn.utils.rnn', 'torch.nn.utils.clip_grad', 'torch.nn.utils.weight_norm', 'torch.nn.utils.convert_parameters', 'torch.nn.utils.spectral_norm', 'torch.nn.utils.fusion', 'torch.nn.utils', 'torch.nn.modules.rnn', 'torch.nn.modules.pixelshuffle', 'torch.nn.modules.upsampling', 'torch.nn.modules.distance', 'torch.nn.modules.fold', 'torch.nn.modules.adaptive', 'torch.nn.modules.transformer', 'torch.nn.modules.flatten', 'torch.nn.modules', 'torch.nn.parallel.parallel_apply', 'torch.cuda.nccl', 'torch.cuda.comm', 'torch.nn.parallel.replicate', 'torch.nn.parallel._functions', 'torch.nn.parallel.scatter_gather', 'torch.nn.parallel.data_parallel', 'torch.distributed.rendezvous', 'torch.distributed.distributed_c10d', 'torch.distributed', 'torch.nn.parallel.distributed', 'torch.nn.parallel', 'torch.nn', 'torch.functional', 'torch.nn.intrinsic.modules.fused', 'torch.nn.intrinsic.modules', 'torch.nn.intrinsic', 'torch.nn.quantized.functional', 'torch.nn.quantized.modules.activation', 'torch.nn.qat.modules.linear', 'torch.nn.qat.modules.conv', 'torch.nn.qat.modules', 'torch.nn.qat', 'torch.nn.intrinsic.qat.modules.linear_relu', 'torch.nn.intrinsic.qat.modules.conv_fused', 'torch.nn.intrinsic.qat.modules', 'torch.nn.intrinsic.qat', 'torch.backends', 'torch.backends.cudnn', 'torch.jit.annotations', '_string', 'string', 'torch.jit.frontend', 'torch.jit._recursive', 'torch.jit', 'torch._ops', 'torch.nn.quantized.modules.utils', 'torch.nn.quantized.modules.conv', 'torch.nn.quantized.modules.linear', 'torch.nn.quantized.modules.functional_modules', 'torch.nn.quantized.modules', 'torch.nn.quantized', 'torch.optim.optimizer', 'torch.optim.adadelta', 'torch.optim.adagrad', 'torch.optim.adam', 'torch.optim.adamw', 'torch.optim.sparse_adam', 'torch.optim.adamax', 'torch.optim.asgd', 'torch.optim.sgd', 'torch.optim.rprop', 'torch.optim.rmsprop', 'torch.optim.lbfgs', 'torch.optim.lr_scheduler', 'torch.optim', 'atexit', 'multiprocessing.util', 'multiprocessing.resource_sharer', 'torch.multiprocessing.reductions', '_multiprocessing', 'multiprocessing.connection', 'torch.multiprocessing.spawn', 'torch.multiprocessing', 'torch.utils.backcompat', 'torch.onnx', 'zipfile', 'email', 'http', 'email.errors', 'email.quoprimime', 'email.base64mime', 'quopri', 'email.encoders', 'email.charset', 'email.header', 'locale', 'calendar', 'email._parseaddr', 'email.utils', 'email._policybase', 'email.feedparser', 'email.parser', 'uu', 'email._encoded_words', 'email.iterators', 'email.message', '_ssl', 'ssl', 'http.client', 'urllib.response', 'urllib.error', 'urllib.request', 'tqdm._monitor', 'tqdm._tqdm_pandas', 'logging', 'unicodedata', 'tqdm.utils', 'tqdm.std', 'tqdm._dist_ver', 'tqdm.version', 'tqdm.cli', 'tqdm.gui', 'tqdm', 'tqdm.autonotebook', 'concurrent', 'concurrent.futures._base', 'concurrent.futures', 'asyncio.constants', 'asyncio.format_helpers', 'asyncio.base_futures', 'asyncio.log', 'asyncio.coroutines', '_contextvars', 'contextvars', 'asyncio.exceptions', 'asyncio.base_tasks', '_asyncio', 'asyncio.events', 'asyncio.futures', 'asyncio.protocols', 'asyncio.transports', 'asyncio.sslproto', 'asyncio.locks', 'asyncio.tasks', 'asyncio.staggered', 'asyncio.trsock', 'asyncio.base_events', 'asyncio.runners', 'asyncio.queues', 'asyncio.streams', 'asyncio.subprocess', 'asyncio.base_subprocess', 'asyncio.selector_events', 'asyncio.unix_events', 'asyncio', 'tqdm.asyncio', 'tqdm.auto', 'torch.hub', 'torch.distributions.constraints', 'torch.distributions.utils', 'torch.distributions.distribution', 'torch.distributions.exp_family', 'torch.distributions.bernoulli', 'torch.distributions.dirichlet', 'torch.distributions.beta', 'torch.distributions.binomial', 'torch.distributions.categorical', 'torch.distributions.cauchy', 'torch.distributions.gamma', 'torch.distributions.chi2', 'torch.distributions.transforms', 'torch.distributions.constraint_registry', 'torch.distributions.exponential', 'torch.distributions.fishersnedecor', 'torch.distributions.geometric', 'torch.distributions.uniform', 'torch.distributions.transformed_distribution', 'torch.distributions.gumbel', 'torch.distributions.half_cauchy', 'torch.distributions.normal', 'torch.distributions.half_normal', 'torch.distributions.independent', 'torch.distributions.laplace', 'torch.distributions.multivariate_normal', 'torch.distributions.lowrank_multivariate_normal', 'torch.distributions.one_hot_categorical', 'torch.distributions.pareto', 'torch.distributions.poisson', 'torch.distributions.kl', 'torch.distributions.log_normal', 'torch.distributions.logistic_normal', 'torch.distributions.multinomial', 'torch.distributions.negative_binomial', 'torch.distributions.relaxed_bernoulli', 'torch.distributions.relaxed_categorical', 'torch.distributions.studentT', 'torch.distributions.weibull', 'torch.distributions', 'torch.backends.cuda', 'torch.backends.mkl', 'torch.backends.openmp', 'torch.backends.quantized', 'torch.nn.intrinsic.quantized.modules.linear_relu', 'torch.nn.intrinsic.quantized.modules.conv_relu', 'torch.nn.intrinsic.quantized.modules', 'torch.nn.intrinsic.quantized', 'torch.nn.quantized.dynamic.modules.linear', 'torch.nn.quantized.dynamic.modules.rnn', 'torch.nn.quantized.dynamic.modules', 'torch.nn.quantized.dynamic', 'torch.quantization.stubs', 'torch.quantization.default_mappings', 'torch.quantization.observer', 'torch.quantization.fake_quantize', 'torch.quantization.qconfig', 'torch.quantization.quantize', 'torch.quantization.fuse_modules', 'torch.quantization', 'torch.utils.data.sampler', 'torch.utils.data.distributed', 'torch.utils.data.dataset', 'torch.utils.data._utils.signal_handling', 'torch.utils.data._utils.worker', 'torch.utils.data._utils.pin_memory', 'torch.utils.data._utils.collate', 'torch.utils.data._utils.fetch', 'torch.utils.data._utils', 'torch.utils.data.dataloader', 'torch.utils.data', 'torch.__config__', 'torch.__future__', 'torch._torch_docs', 'torch._tensor_docs', 'torch._storage_docs', 'torch._classes', 'torch.quasirandom', 'torch', 'yaml.error', 'yaml.tokens', 'yaml.events', 'yaml.nodes', 'yaml.reader', 'yaml.scanner', 'yaml.parser', 'yaml.composer', 'yaml.constructor', 'yaml.resolver', 'yaml.loader', 'yaml.emitter', 'yaml.serializer', 'yaml.representer', 'yaml.dumper', 'yaml._yaml', 'yaml.cyaml', 'yaml', 'dill.info', 'gc', '_pyio', 'dill.settings', 'dill._dill', 'dill.source', 'dill.temp', 'dill.pointers', 'dill.detect', 'dill.objtypes', 'dill', 'oaglog', 'pyHGT.utils', 'networkx.release', 'networkx.exception', 'uuid', 'networkx.utils.misc', 'decorator', 'networkx.utils.decorators', 'networkx.utils.random_sequence', 'networkx.utils.union_find', 'networkx.utils.rcm', 'networkx.utils.heaps', 'networkx.utils.contextmanagers', 'networkx.utils', 'networkx.classes.coreviews', 'networkx.classes.reportviews', 'networkx.convert', 'networkx.classes.graph', 'networkx.classes.digraph', 'networkx.classes.multigraph', 'networkx.classes.multidigraph', 'networkx.classes.ordered', 'networkx.classes.filters', 'networkx.classes.graphviews', 'networkx.classes.function', 'networkx.classes', 'networkx.convert_matrix', 'networkx.relabel', 'gzip', 'networkx.generators.atlas', 'networkx.generators.classic', 'networkx.generators.cographs', 'scipy.special.sf_error', 'scipy.special._ufuncs_cxx', 'scipy.special._ufuncs', 'scipy.special.specfun', 'scipy.linalg._fblas', 'scipy.linalg.blas', 'scipy.linalg._flapack', 'scipy.linalg.lapack', 'scipy.linalg.misc', 'scipy.linalg._flinalg', 'scipy.linalg.flinalg', 'scipy.linalg.decomp', 'scipy.linalg.decomp_svd', 'scipy.linalg._solve_toeplitz', 'scipy.linalg.basic', 'scipy.linalg.decomp_lu', 'scipy.linalg._decomp_ldl', 'scipy.linalg.decomp_cholesky', 'scipy.linalg.decomp_qr', 'scipy.linalg._decomp_qz', 'scipy.linalg.decomp_schur', 'scipy.linalg._decomp_polar', 'scipy.linalg.special_matrices', 'scipy.linalg._expm_frechet', 'scipy.linalg._matfuncs_sqrtm_triu', 'scipy.linalg._matfuncs_sqrtm', 'scipy.linalg.matfuncs', 'scipy.linalg._solvers', 'scipy.linalg._procrustes', 'scipy.linalg.cython_blas', 'scipy.linalg.cython_lapack', 'scipy.linalg._decomp_update', 'scipy.linalg._sketches', 'scipy.linalg._decomp_cossin', 'scipy.linalg', 'scipy.special.orthogonal', 'scipy.special._comb', 'scipy.special._basic', 'scipy.special._logsumexp', 'scipy.special.spfun_stats', 'scipy.special._ellip_harm_2', 'scipy.special._ellip_harm', 'scipy.special._lambertw', 'scipy.special._spherical_bessel', 'scipy.special', 'networkx.generators.community', 'networkx.generators.degree_seq', 'networkx.generators.directed', 'networkx.generators.duplication', 'networkx.generators.ego', 'networkx.generators.expanders', 'scipy.spatial.ckdtree', 'scipy.spatial.kdtree', 'scipy._lib.messagestream', 'scipy.spatial.qhull', 'scipy.spatial._voronoi', 'scipy.spatial._spherical_voronoi', 'scipy._lib.decorator', 'scipy.spatial._plotutils', 'scipy.spatial._procrustes', 'scipy.spatial._distance_wrap', 'scipy.spatial._hausdorff', 'scipy.spatial.distance', 'scipy.spatial._geometric_slerp', 'scipy.constants.codata', 'scipy.constants.constants', 'scipy.constants', 'scipy.spatial.transform._rotation_groups', 'scipy.spatial.transform.rotation', 'scipy.spatial.transform._rotation_spline', 'scipy.spatial.transform', 'scipy.spatial', 'networkx.generators.geometric', 'networkx.generators.internet_as_graphs', 'networkx.algorithms.assortativity.connectivity', 'networkx.algorithms.assortativity.pairs', 'networkx.algorithms.assortativity.mixing', 'networkx.algorithms.assortativity.correlation', 'networkx.algorithms.assortativity.neighbor_degree', 'networkx.algorithms.assortativity', 'networkx.algorithms.asteroidal', 'networkx.algorithms.boundary', 'networkx.algorithms.bridges', 'networkx.algorithms.chains', 'networkx.algorithms.centrality.betweenness', 'networkx.algorithms.centrality.betweenness_subset', 'networkx.algorithms.centrality.closeness', 'networkx.algorithms.centrality.subgraph_alg', 'networkx.algorithms.centrality.flow_matrix', 'networkx.algorithms.centrality.current_flow_closeness', 'networkx.algorithms.centrality.current_flow_betweenness', 'networkx.algorithms.centrality.current_flow_betweenness_subset', 'networkx.algorithms.centrality.degree_alg', 'networkx.algorithms.centrality.dispersion', 'networkx.algorithms.centrality.eigenvector', 'networkx.algorithms.centrality.group', 'networkx.algorithms.centrality.harmonic', 'networkx.algorithms.centrality.katz', 'networkx.algorithms.centrality.load', 'networkx.algorithms.centrality.reaching', 'networkx.algorithms.centrality.percolation', 'networkx.algorithms.centrality.second_order', 'networkx.algorithms.centrality.trophic', 'networkx.algorithms.centrality.voterank_alg', 'networkx.algorithms.centrality', 'networkx.algorithms.components.connected', 'networkx.algorithms.components.strongly_connected', 'networkx.algorithms.components.weakly_connected', 'networkx.algorithms.components.attracting', 'networkx.algorithms.components.biconnected', 'networkx.algorithms.components.semiconnected', 'networkx.algorithms.components', 'networkx.algorithms.chordal', 'networkx.algorithms.cluster', 'networkx.algorithms.clique', 'networkx.algorithms.communicability_alg', 'networkx.algorithms.coloring.greedy_coloring_with_interchange', 'networkx.algorithms.coloring.greedy_coloring', 'networkx.algorithms.coloring.equitable_coloring', 'networkx.algorithms.coloring', 'networkx.algorithms.core', 'networkx.algorithms.covering', 'networkx.algorithms.cycles', 'networkx.algorithms.cuts', 'networkx.algorithms.d_separation', 'networkx.algorithms.traversal.breadth_first_search', 'networkx.algorithms.traversal.beamsearch', 'networkx.algorithms.traversal.depth_first_search', 'networkx.algorithms.traversal.edgedfs', 'networkx.algorithms.traversal.edgebfs', 'networkx.algorithms.traversal', 'networkx.generators.trees', 'networkx.algorithms.dag', 'networkx.algorithms.distance_measures', 'networkx.algorithms.distance_regular', 'networkx.algorithms.dominance', 'networkx.algorithms.dominating', 'networkx.algorithms.efficiency_measures', 'networkx.algorithms.euler', 'networkx.algorithms.graphical', 'networkx.algorithms.hierarchy', 'networkx.algorithms.hybrid', 'networkx.algorithms.link_analysis.pagerank_alg', 'networkx.algorithms.link_analysis.hits_alg', 'networkx.algorithms.link_analysis', 'networkx.algorithms.link_prediction', 'networkx.algorithms.lowest_common_ancestors', 'networkx.algorithms.isolate', 'networkx.algorithms.matching', 'networkx.algorithms.minors', 'networkx.algorithms.mis', 'networkx.algorithms.moral', 'networkx.algorithms.non_randomness', 'networkx.algorithms.operators.all', 'networkx.algorithms.operators.binary', 'networkx.algorithms.operators.product', 'networkx.algorithms.operators.unary', 'networkx.algorithms.operators', 'networkx.algorithms.planarity', 'networkx.algorithms.planar_drawing', 'networkx.algorithms.reciprocity', 'networkx.algorithms.regular', 'networkx.algorithms.richclub', 'networkx.algorithms.shortest_paths.generic', 'networkx.algorithms.shortest_paths.unweighted', 'networkx.algorithms.shortest_paths.weighted', 'networkx.algorithms.shortest_paths.astar', 'networkx.algorithms.shortest_paths.dense', 'networkx.algorithms.shortest_paths', 'networkx.algorithms.similarity', 'networkx.algorithms.graph_hashing', 'networkx.algorithms.simple_paths', 'networkx.algorithms.smallworld', 'networkx.algorithms.smetric', 'networkx.algorithms.structuralholes', 'networkx.algorithms.sparsifiers', 'networkx.algorithms.swap', 'networkx.algorithms.triads', 'networkx.algorithms.vitality', 'networkx.algorithms.voronoi', 'networkx.algorithms.wiener', 'networkx.algorithms.bipartite.basic', 'networkx.algorithms.bipartite.centrality', 'networkx.algorithms.bipartite.cluster', 'networkx.algorithms.bipartite.matrix', 'networkx.algorithms.bipartite.matching', 'networkx.algorithms.bipartite.covering', 'networkx.algorithms.bipartite.edgelist', 'networkx.algorithms.bipartite.projection', 'networkx.algorithms.bipartite.redundancy', 'networkx.algorithms.bipartite.spectral', 'networkx.algorithms.bipartite.generators', 'networkx.algorithms.bipartite', 'networkx.algorithms.node_classification.utils', 'networkx.algorithms.node_classification.hmn', 'networkx.algorithms.node_classification.lgc', 'networkx.algorithms.node_classification', 'networkx.algorithms.flow.utils', 'networkx.algorithms.flow.boykovkolmogorov', 'networkx.algorithms.flow.dinitz_alg', 'networkx.algorithms.flow.edmondskarp', 'networkx.algorithms.flow.preflowpush', 'networkx.algorithms.flow.shortestaugmentingpath', 'networkx.algorithms.flow.maxflow', 'networkx.algorithms.flow.mincost', 'networkx.algorithms.flow.gomory_hu', 'networkx.algorithms.flow.capacityscaling', 'networkx.algorithms.flow.networksimplex', 'networkx.algorithms.flow', 'networkx.algorithms.connectivity.utils', 'networkx.algorithms.connectivity.connectivity', 'networkx.algorithms.connectivity.cuts', 'networkx.algorithms.connectivity.edge_augmentation', 'networkx.algorithms.connectivity.edge_kcomponents', 'networkx.algorithms.connectivity.disjoint_paths', 'networkx.algorithms.connectivity.kcomponents', 'networkx.algorithms.connectivity.kcutsets', 'networkx.algorithms.connectivity.stoerwagner', 'networkx.algorithms.connectivity', 'networkx.algorithms.community.asyn_fluid', 'networkx.algorithms.community.centrality', 'networkx.algorithms.community.kclique', 'networkx.algorithms.community.community_utils', 'networkx.algorithms.community.kernighan_lin', 'networkx.algorithms.community.label_propagation', 'networkx.algorithms.community.lukes', 'networkx.algorithms.community.quality', 'networkx.utils.mapped_queue', 'networkx.algorithms.community.modularity_max', 'networkx.algorithms.community', 'networkx.algorithms.isomorphism.isomorph', 'networkx.algorithms.isomorphism.isomorphvf2', 'networkx.algorithms.isomorphism.vf2userfunc', 'networkx.algorithms.isomorphism.matchhelpers', 'networkx.algorithms.isomorphism.temporalisomorphvf2', 'networkx.algorithms.isomorphism.ismags', 'networkx.algorithms.isomorphism.tree_isomorphism', 'networkx.algorithms.isomorphism', 'networkx.algorithms.tournament', 'networkx.algorithms.tree.recognition', 'networkx.algorithms.tree.branchings', 'networkx.algorithms.tree.coding', 'networkx.algorithms.tree.mst', 'networkx.algorithms.tree.operations', 'networkx.algorithms.tree.decomposition', 'networkx.algorithms.tree', 'networkx.algorithms', 'networkx.generators.intersection', 'networkx.generators.interval_graph', 'networkx.generators.joint_degree_seq', 'networkx.generators.lattice', 'networkx.generators.line', 'networkx.generators.mycielski', 'networkx.generators.nonisomorphic_trees', 'networkx.generators.random_clustered', 'networkx.generators.random_graphs', 'networkx.generators.small', 'networkx.generators.social', 'networkx.generators.sudoku', 'networkx.generators.spectral_graph_forge', 'networkx.generators.stochastic', 'networkx.generators.triads', 'networkx.generators', 'networkx.readwrite.adjlist', 'networkx.readwrite.multiline_adjlist', 'networkx.readwrite.edgelist', 'networkx.readwrite.gpickle', 'networkx.readwrite.pajek', 'networkx.readwrite.leda', 'networkx.readwrite.graph6', 'networkx.readwrite.sparse6', 'networkx.readwrite.nx_yaml', 'html.entities', 'html', 'networkx.readwrite.gml', 'xml', 'xml.etree', 'xml.etree.ElementPath', 'pyexpat.errors', 'pyexpat.model', 'pyexpat', '_elementtree', 'xml.etree.ElementTree', 'networkx.readwrite.graphml', 'networkx.readwrite.gexf', 'networkx.readwrite.nx_shp', 'networkx.readwrite.json_graph.node_link', 'networkx.readwrite.json_graph.adjacency', 'networkx.readwrite.json_graph.tree', '_json', 'json.scanner', 'json.decoder', 'json.encoder', 'json', 'networkx.readwrite.json_graph.jit', 'networkx.readwrite.json_graph.cytoscape', 'networkx.readwrite.json_graph', 'networkx.readwrite', 'networkx.linalg.attrmatrix', 'networkx.linalg.spectrum', 'networkx.linalg.graphmatrix', 'networkx.linalg.laplacianmatrix', 'scipy.sparse.linalg.isolve._iterative', 'scipy.sparse.linalg.interface', 'scipy.sparse.linalg.isolve.utils', 'scipy._lib._threadsafety', 'scipy.sparse.linalg.isolve.iterative', 'scipy.sparse.linalg.isolve.minres', 'scipy.sparse.linalg.isolve._gcrotmk', 'scipy.sparse.linalg.isolve.lgmres', 'scipy.sparse.linalg.isolve.lsqr', 'scipy.sparse.linalg.isolve.lsmr', 'scipy.sparse.linalg.isolve', 'scipy.sparse.linalg.dsolve._superlu', 'scipy.sparse.linalg.dsolve.linsolve', 'scipy.sparse.linalg.dsolve._add_newdocs', 'scipy.sparse.linalg.dsolve', 'scipy.sparse.linalg.eigen.arpack._arpack', 'scipy.sparse.linalg.eigen.lobpcg.lobpcg', 'scipy.sparse.linalg.eigen.lobpcg', 'scipy.sparse.linalg.eigen.arpack.arpack', 'scipy.sparse.linalg.eigen.arpack', 'scipy.sparse.linalg.eigen', 'scipy.sparse.linalg._expm_multiply', 'scipy.sparse.linalg.matfuncs', 'scipy.sparse.linalg._onenormest', 'scipy.sparse.linalg._norm', 'scipy.sparse.linalg', 'networkx.linalg.algebraicconnectivity', 'networkx.linalg.modularitymatrix', 'networkx.linalg.bethehessianmatrix', 'networkx.linalg', 'networkx.testing.utils', 'networkx.testing.test', 'networkx.testing', 'networkx.drawing.layout', 'networkx.drawing.nx_pylab', 'networkx.drawing.nx_agraph', 'networkx.drawing.nx_pydot', 'networkx.drawing', 'networkx', 'pyHGT.data', 'pyHGT.model', 'pyHGT.conv', 'torch_geometric', 'torch_geometric.debug', 'torch_geometric.nn', 'torch_geometric.nn.meta', 'torch_scatter.utils', 'torch_scatter.scatter', 'torch_scatter.segment_csr', 'torch_scatter.segment_coo', 'torch_scatter.composite.std', 'torch_scatter.composite.logsumexp', 'torch_scatter.composite.softmax', 'torch_scatter.composite', 'torch_scatter', 'torch_sparse.utils', 'torch_sparse.storage', 'torch_sparse.tensor', 'torch_sparse.transpose', 'torch_sparse.narrow', 'torch_sparse.select', 'torch_sparse.index_select', 'torch_sparse.masked_select', 'torch_sparse.permute', 'torch_sparse.diag', 'torch_sparse.add', 'torch_sparse.mul', 'torch_sparse.reduce', 'torch_sparse.matmul', 'torch_sparse.cat', 'torch_sparse.rw', 'torch_sparse.metis', 'torch_sparse.saint', 'torch_sparse.convert', 'torch_sparse.coalesce', 'torch_sparse.eye', 'torch_sparse.spmm', 'torch_sparse.spspmm', 'torch_sparse', 'torch_geometric.utils.num_nodes', 'torch_geometric.utils.degree', 'torch_geometric.utils.softmax', 'torch_geometric.utils.dropout', 'torch_geometric.utils.sort_edge_index', 'torch_geometric.utils.undirected', 'torch_geometric.utils.loop', 'torch_geometric.utils.isolated', 'torch_geometric.utils.subgraph', 'torch_geometric.utils.homophily', 'torch_geometric.utils.get_laplacian', 'torch_geometric.utils.to_dense_batch', 'torch_geometric.utils.to_dense_adj', 'torch_geometric.utils.sparse', 'torch_geometric.utils.normalized_cut', 'torch_geometric.utils.grid', 'torch_geometric.utils.geodesic', 'torch_geometric.utils.tree_decomposition', 'torch_geometric.utils.convert', 'torch_geometric.utils.random', 'torch_geometric.utils.negative_sampling', 'torch_geometric.utils.train_test_split_edges', 'torch_geometric.utils.metric', 'torch_geometric.utils', 'torch_geometric.data.data', 'torch_geometric.data.batch', 'torch_geometric.data.makedirs', 'torch_geometric.data.dataset', 'torch_geometric.data.in_memory_dataset', 'torch_geometric.data.dataloader', 'torch_geometric.data.sampler', 'torch_geometric.data.cluster', 'torch_geometric.data.graph_saint', 'six.moves', 'six.moves.urllib', 'torch_geometric.data.download', 'torch_geometric.data.extract', 'torch_geometric.data', 'torch_geometric.nn.data_parallel', 'torch_geometric.nn.reshape', 'torch_geometric.typing', 'markupsafe._compat', 'markupsafe._speedups', 'markupsafe', 'jinja2._compat', 'jinja2.utils', 'jinja2.bccache', 'jinja2.nodes', 'jinja2.exceptions', 'jinja2.visitor', 'jinja2.idtracking', 'jinja2.optimizer', 'jinja2.compiler', 'jinja2.runtime', 'jinja2.filters', 'jinja2.tests', 'jinja2.defaults', 'jinja2._identifier', 'jinja2.lexer', 'jinja2.parser', 'jinja2.environment', 'jinja2.loaders', 'jinja2', 'torch_geometric.nn.conv.utils', 'torch_geometric.nn.conv.utils.helpers', 'termios', 'getpass', 'torch_geometric.nn.conv.utils.jit', 'pprint', 'pyparsing', 'torch_geometric.nn.conv.utils.typing', 'torch_geometric.nn.conv.utils.inspector', 'torch_geometric.nn.conv.message_passing', 'torch_geometric.nn.inits', 'torch_geometric.nn.conv.gcn_conv', 'torch_geometric.nn.conv.cheb_conv', 'torch_geometric.nn.conv.sage_conv', 'torch_geometric.nn.conv.graph_conv', 'torch_cluster.graclus', 'torch_cluster.grid', 'torch_cluster.fps', 'scipy.cluster._vq', 'scipy.cluster.vq', 'scipy.cluster._hierarchy', 'scipy.cluster._optimal_leaf_ordering', 'scipy._lib._disjoint_set', 'scipy.cluster.hierarchy', 'scipy.cluster', 'torch_cluster.nearest', 'torch_cluster.knn', 'torch_cluster.radius', 'torch_cluster.rw', 'torch_cluster.sampler', 'torch_cluster', 'torch_geometric.nn.conv.gravnet_conv', 'torch_geometric.nn.conv.gated_graph_conv', 'torch_geometric.nn.conv.gat_conv', 'torch_geometric.nn.conv.transformer_conv', 'torch_geometric.nn.conv.agnn_conv', 'torch_geometric.nn.conv.tag_conv', 'torch_geometric.nn.conv.gin_conv', 'torch_geometric.nn.conv.arma_conv', 'torch_geometric.nn.conv.sg_conv', 'torch_geometric.nn.conv.appnp', 'torch_geometric.nn.conv.mf_conv', 'torch_geometric.nn.conv.rgcn_conv', 'torch_geometric.nn.conv.signed_conv', 'torch_geometric.nn.conv.dna_conv', 'torch_geometric.nn.conv.point_conv', 'torch_geometric.nn.conv.gmm_conv', 'torch_geometric.utils.repeat', 'torch_spline_conv.basis', 'torch_spline_conv.weighting', 'torch_spline_conv.conv', 'torch_spline_conv', 'torch_geometric.nn.conv.spline_conv', 'torch_geometric.nn.conv.nn_conv', 'torch_geometric.nn.conv.cg_conv', 'torch_geometric.nn.conv.edge_conv', 'torch_geometric.nn.conv.x_conv', 'torch_geometric.nn.conv.ppf_conv', 'torch_geometric.nn.conv.feast_conv', 'torch_geometric.nn.conv.hypergraph_conv', 'torch_geometric.nn.conv.le_conv', 'torch_geometric.nn.conv.pna_conv', 'torch_geometric.nn.conv.cluster_gcn_conv', 'torch_geometric.nn.norm.batch_norm', 'torch_geometric.nn.norm.instance_norm', 'torch_geometric.nn.norm.layer_norm', 'torch_geometric.nn.norm.graph_size_norm', 'torch_geometric.nn.norm.pair_norm', 'torch_geometric.nn.norm.msg_norm', 'torch_geometric.nn.norm', 'torch_geometric.nn.conv.gen_conv', 'torch_geometric.nn.conv.gcn2_conv', 'torch_geometric.nn.conv', 'torch_geometric.nn.glob.glob', 'torch_geometric.nn.glob.sort', 'torch_geometric.nn.glob.attention', 'torch_geometric.nn.glob.set2set', 'torch_geometric.nn.glob', 'torch_geometric.nn.pool.consecutive', 'torch_geometric.nn.pool.pool', 'torch_geometric.nn.pool.max_pool', 'torch_geometric.nn.pool.avg_pool', 'torch_geometric.nn.pool.graclus', 'torch_geometric.nn.pool.voxel_grid', 'torch_geometric.nn.pool.topk_pool', 'torch_geometric.nn.pool.sag_pool', 'torch_geometric.nn.pool.edge_pool', 'torch_geometric.nn.pool.asap', 'torch_geometric.nn.pool', 'torch_geometric.nn.unpool.knn_interpolate', 'torch_geometric.nn.unpool', 'torch_geometric.nn.dense.dense_sage_conv', 'torch_geometric.nn.dense.dense_gcn_conv', 'torch_geometric.nn.dense.dense_graph_conv', 'torch_geometric.nn.dense.dense_gin_conv', 'torch_geometric.nn.dense.diff_pool', 'torch_geometric.nn.dense.mincut_pool', 'torch_geometric.nn.dense', 'torch_geometric.nn.models', 'torch_geometric.nn.models.jumping_knowledge', 'sklearn._config', 'sklearn._distributor_init', 'sklearn.__check_build._check_build', 'sklearn.__check_build', 'pkgutil', 'timeit', 'sklearn.utils.murmurhash', 'sysconfig', '_sysconfigdata__linux_x86_64-linux-gnu', 'pydoc', 'joblib.hashing', 'joblib.disk', 'joblib.logger', 'joblib.func_inspect', 'distutils', 'distutils.version', 'joblib.backports', 'joblib.compressor', 'joblib.numpy_pickle_utils', 'joblib.numpy_pickle_compat', 'joblib.numpy_pickle', 'joblib._store_backends', 'joblib.memory', 'joblib._multiprocessing_helpers', 'joblib._deprecated_my_exceptions', 'joblib.my_exceptions', 'mmap', 'joblib.externals', 'joblib.externals.loky._base', 'joblib.externals.loky.backend.compat_posix', 'joblib.externals.loky.backend.compat', 'joblib.externals.loky.backend.process', 'joblib.externals.loky.backend.context', 'multiprocessing.synchronize', 'joblib.externals.loky.backend', 'joblib.externals.loky.backend._posix_reduction', 'joblib.externals.cloudpickle.compat', 'joblib.externals.cloudpickle.cloudpickle', 'joblib.externals.cloudpickle.cloudpickle_fast', 'joblib.externals.cloudpickle', 'joblib.externals.loky.backend.reduction', 'multiprocessing.queues', 'joblib.externals.loky.backend.queues', 'psutil._common', 'psutil._compat', 'psutil._psposix', 'psutil._psutil_linux', 'psutil._psutil_posix', 'resource', 'psutil._pslinux', 'psutil', 'joblib.externals.loky.backend.utils', 'concurrent.futures.process', 'joblib.externals.loky.process_executor', 'joblib.externals.loky.reusable_executor', 'joblib.externals.loky.cloudpickle_wrapper', 'joblib.externals.loky', 'runpy', 'joblib.externals.loky.backend.spawn', 'joblib.externals.loky.backend.resource_tracker', 'joblib._memmapping_reducer', 'multiprocessing.pool', 'joblib.pool', 'joblib.executor', 'joblib._parallel_backends', 'joblib.parallel', 'joblib', 'scipy.ndimage._ni_support', 'scipy.ndimage._nd_image', 'scipy._lib.doccer', 'scipy.ndimage._ni_docstrings', 'scipy.ndimage.filters', 'scipy.ndimage.fourier', 'scipy.ndimage.interpolation', '_ni_label', 'scipy.ndimage._ni_label', 'scipy.ndimage.morphology', 'scipy.ndimage.measurements', 'scipy.ndimage', 'scipy.stats._distr_params', 'scipy.optimize.minpack2', 'scipy.optimize.linesearch', 'scipy.optimize._group_columns', 'scipy.optimize._numdiff', 'scipy.optimize._hessian_update_strategy', 'scipy.optimize._differentiable_functions', 'scipy.optimize.optimize', 'scipy.optimize._trustregion', 'scipy.optimize._trustregion_dogleg', 'scipy.optimize._trustregion_ncg', 'scipy.optimize._trlib._trlib', 'scipy.optimize._trlib', 'scipy.optimize._trustregion_krylov', 'scipy.optimize._trustregion_exact', 'unittest.util', 'unittest.result', 'unittest.case', 'unittest.async_case', 'unittest.suite', 'unittest.loader', 'gettext', 'argparse', 'unittest.signals', 'unittest.runner', 'unittest.main', 'unittest', 'numpy.testing._private', 'numpy.testing._private.utils', 'numpy.testing._private.decorators', 'numpy.testing._private.nosetester', 'numpy.testing', 'scipy.optimize._constraints', 'scipy.optimize._trustregion_constr.projections', 'scipy.optimize._trustregion_constr.qp_subproblem', 'scipy.optimize._trustregion_constr.equality_constrained_sqp', 'scipy.optimize._trustregion_constr.canonical_constraint', 'scipy.optimize._trustregion_constr.tr_interior_point', 'scipy.optimize._trustregion_constr.report', 'scipy.optimize._trustregion_constr.minimize_trustregion_constr', 'scipy.optimize._trustregion_constr', 'scipy.optimize._lbfgsb', 'scipy.optimize.lbfgsb', 'scipy.optimize.moduleTNC', 'scipy.optimize.tnc', 'scipy.optimize._cobyla', 'scipy.optimize.cobyla', 'scipy.optimize._slsqp', 'scipy.optimize.slsqp', 'scipy.optimize._minimize', 'scipy.optimize._minpack', 'scipy.optimize._lsq.common', 'scipy.optimize._lsq.trf', 'scipy.optimize._lsq.dogbox', 'scipy.optimize._lsq.least_squares', 'scipy.optimize._lsq.givens_elimination', 'scipy.optimize._lsq.trf_linear', 'scipy.optimize._lsq.bvls', 'scipy.optimize._lsq.lsq_linear', 'scipy.optimize._lsq', 'scipy.optimize.minpack', 'scipy.optimize._spectral', 'scipy.optimize.nonlin', 'scipy.optimize._root', 'scipy.optimize._zeros', 'scipy.optimize.zeros', 'scipy.optimize._root_scalar', 'scipy.optimize.__nnls', 'scipy.optimize._nnls', 'scipy.optimize._basinhopping', 'scipy.optimize._highs', 'scipy.optimize._highs.cython.src._highs_wrapper', 'scipy.optimize._highs._highs_wrapper', 'scipy.optimize._highs.cython.src._highs_constants', 'scipy.optimize._highs._highs_constants', 'scipy.optimize._linprog_highs', 'scipy.linalg._interpolative', 'scipy.linalg._interpolative_backend', 'scipy.linalg.interpolative', 'scipy.optimize._remove_redundancy', 'scipy.optimize._linprog_util', 'scipy.optimize._linprog_ip', 'scipy.optimize._linprog_simplex', 'scipy.optimize._bglu_dense', 'scipy.optimize._linprog_rs', 'scipy.optimize._linprog_doc', 'scipy.optimize._linprog', 'scipy.optimize._lsap_module', 'scipy.optimize._lsap', 'scipy.optimize._differentialevolution', 'scipy.optimize._shgo_lib', 'scipy.optimize._shgo_lib.sobol_seq', 'scipy.optimize._shgo_lib.triangulation', 'scipy.optimize._shgo', 'scipy.optimize._dual_annealing', 'scipy.optimize._qap', 'scipy.optimize', 'scipy.integrate._quadrature', 'scipy.integrate._odepack', 'scipy.integrate.odepack', 'scipy.integrate._quadpack', 'scipy.integrate.quadpack', 'scipy.integrate.vode', 'scipy.integrate._dop', 'scipy.integrate.lsoda', 'scipy.integrate._ode', 'scipy.integrate._bvp', 'scipy.integrate._ivp.common', 'scipy.integrate._ivp.base', 'scipy.integrate._ivp.bdf', 'scipy.integrate._ivp.radau', 'scipy.integrate._ivp.dop853_coefficients', 'scipy.integrate._ivp.rk', 'scipy.integrate._ivp.lsoda', 'scipy.integrate._ivp.ivp', 'scipy.integrate._ivp', 'scipy.integrate._quad_vec', 'scipy.integrate', 'scipy.misc.doccer', 'scipy.misc.common', 'scipy.misc', 'scipy.stats._constants', 'scipy.stats._distn_infrastructure', 'scipy.interpolate._fitpack', 'scipy.interpolate.dfitpack', 'scipy.interpolate._fitpack_impl', 'scipy.interpolate._bspl', 'scipy.interpolate._bsplines', 'scipy.interpolate.fitpack', 'scipy.interpolate.polyint', 'scipy.interpolate._ppoly', 'scipy.interpolate.fitpack2', 'scipy.interpolate.interpnd', 'scipy.interpolate.interpolate', 'scipy.interpolate.rbf', 'scipy.interpolate._cubic', 'scipy.interpolate.ndgriddata', 'scipy.interpolate._pade', 'scipy.interpolate', 'scipy.special.cython_special', 'scipy.stats._stats', 'scipy.stats._rvs_sampling', 'scipy.stats._tukeylambda_stats', 'scipy.stats._ksstats', 'scipy.stats._continuous_distns', 'scipy.stats._discrete_distns', 'scipy.stats.distributions', 'scipy._lib._bunch', 'scipy.stats._stats_mstats_common', 'scipy.stats.mstats_basic', 'scipy.stats._wilcoxon_data', 'scipy.stats._hypotests', 'scipy.stats.stats', 'scipy.stats.statlib', 'scipy.stats.contingency', 'scipy.stats.morestats', 'scipy.stats._binned_statistic', 'scipy.stats.mvn', 'scipy.stats.kde', 'scipy.stats.mstats_extras', 'scipy.stats.mstats', 'scipy.stats._multivariate', 'scipy.stats', 'sklearn.utils.deprecation', 'xml.parsers', 'xml.parsers.expat.model', 'xml.parsers.expat.errors', 'xml.parsers.expat', 'plistlib', 'pkg_resources.extern', 'pkg_resources._vendor', 'pkg_resources._vendor.appdirs', 'pkg_resources.extern.appdirs', 'pkg_resources._vendor.packaging.__about__', 'pkg_resources._vendor.packaging', 'pkg_resources.extern.packaging', 'pkg_resources.extern.packaging._structures', 'pkg_resources.extern.packaging._typing', 'pkg_resources.extern.packaging.version', 'pkg_resources.extern.packaging._compat', 'pkg_resources.extern.packaging.utils', 'pkg_resources.extern.packaging.specifiers', 'pkg_resources._vendor.pyparsing', 'pkg_resources.extern.pyparsing', 'pkg_resources.extern.packaging.markers', 'pkg_resources.extern.packaging.requirements', 'pkg_resources', 'sklearn.utils.fixes', 'sklearn.exceptions', 'sklearn.utils.validation', 'sklearn.utils.class_weight', 'sklearn.utils._joblib', 'sklearn.utils._estimator_html_repr', 'sklearn.utils', 'sklearn.utils._tags', 'sklearn.base', 'sklearn.utils._openmp_helpers', 'sklearn.utils._show_versions', 'sklearn', 'sklearn.utils._logistic_sigmoid', 'sklearn.utils.sparsefuncs_fast', 'sklearn.utils.extmath', 'sklearn.utils.sparsefuncs', 'sklearn.utils._random', 'sklearn.utils._seq_dataset', 'sklearn.preprocessing._function_transformer', 'sklearn.preprocessing._csr_polynomial_expansion', 'sklearn.utils._encode', 'sklearn.preprocessing._encoders', 'sklearn.preprocessing._data', 'sklearn.utils.multiclass', 'sklearn.preprocessing._label', 'sklearn.preprocessing._discretization', 'sklearn.preprocessing', 'sklearn.linear_model._base', 'sklearn.linear_model._bayes', 'sklearn.utils._cython_blas', 'sklearn.utils.arrayfuncs', 'sklearn.model_selection._split', 'sklearn.utils.metaestimators', 'sklearn.metrics._base', 'sklearn.metrics._ranking', 'sklearn.metrics._classification', 'sklearn.metrics.cluster._expected_mutual_info_fast', 'sklearn.metrics.cluster._supervised', 'sklearn.utils._mask', 'sklearn.metrics._pairwise_fast', 'sklearn.metrics.pairwise', 'sklearn.metrics.cluster._unsupervised', 'sklearn.metrics.cluster._bicluster', 'sklearn.metrics.cluster', 'sklearn._loss', 'sklearn._loss.glm_distribution', 'sklearn.utils.stats', 'sklearn.metrics._regression', 'sklearn.metrics._scorer', 'sklearn.metrics._plot', 'sklearn.metrics._plot.base', 'sklearn.metrics._plot.det_curve', 'sklearn.metrics._plot.roc_curve', 'sklearn.metrics._plot.precision_recall_curve', 'sklearn.metrics._plot.confusion_matrix', 'sklearn.metrics', 'sklearn.model_selection._validation', 'sklearn.utils.random', 'sklearn.model_selection._search', 'sklearn.model_selection', 'sklearn.linear_model._least_angle', 'sklearn.linear_model._cd_fast', 'sklearn.linear_model._coordinate_descent', 'sklearn.utils.optimize', 'sklearn.linear_model._glm.link', 'sklearn.linear_model._glm.glm', 'sklearn.linear_model._glm', 'sklearn.linear_model._huber', 'sklearn.utils._weight_vector', 'sklearn.linear_model._sgd_fast', 'sklearn.linear_model._stochastic_gradient', 'sklearn.linear_model._sag_fast', 'sklearn.linear_model._sag', 'sklearn.linear_model._ridge', 'sklearn.svm._libsvm', 'sklearn.svm._liblinear', 'sklearn.svm._libsvm_sparse', 'sklearn.svm._base', 'sklearn.svm._classes', 'sklearn.svm._bounds', 'sklearn.svm', 'sklearn.linear_model._logistic', 'sklearn.linear_model._omp', 'sklearn.linear_model._passive_aggressive', 'sklearn.linear_model._perceptron', 'sklearn.linear_model._ransac', 'sklearn.linear_model._theil_sen', 'sklearn.linear_model', 'torch_geometric.nn.models.node2vec', 'torch_geometric.nn.models.deep_graph_infomax', 'torch_geometric.nn.models.autoencoder', 'sklearn.decomposition._cdnmf_fast', 'sklearn.decomposition._nmf', 'sklearn.decomposition._base', 'sklearn.utils._arpack', 'sklearn.decomposition._pca', 'sklearn.decomposition._incremental_pca', 'sklearn.decomposition._kernel_pca', 'sklearn.decomposition._dict_learning', 'sklearn.decomposition._sparse_pca', 'sklearn.decomposition._truncated_svd', 'sklearn.decomposition._fastica', 'sklearn.decomposition._factor_analysis', 'sklearn.decomposition._online_lda_fast', 'sklearn.decomposition._lda', 'sklearn.decomposition', 'torch_geometric.nn.models.signed_gcn', 'torch_geometric.nn.models.re_net', 'torch_geometric.nn.models.graph_unet', 'ase.data.vdw', 'ase.data', 'ase.atom', 'ase.units', 'ase.formula', 'ase.utils', 'ase.utils.arraywrapper', 'ase.cell', 'ase.calculators', 'ase.dft.stm', 'ase.dft.kpoints', 'ase.parallel', 'ase.utils.cext', 'ase.dft.dos', 'ase.transport.selfenergy', 'ase.transport.greenfunction', 'ase.transport.tools', 'ase.transport.calculators', 'ase.transport', 'ase.dft.wannier', 'ase.dft', 'ase.outputs', 'ase.calculators.abc', 'ase.calculators.calculator', 'ase.geometry.cell', 'ase.geometry.minkowski_reduction', 'ase.geometry.geometry', 'ase.geometry.distance', 'ase.geometry', 'ase.utils.parsemath', 'ase.constraints', 'ase.symbols', 'ase.atoms', 'ase', 'torch_geometric.nn.models.schnet', 'torch_geometric.nn.acts', 'torch_geometric.nn.models.dimenet_utils', 'torch_geometric.nn.models.dimenet', 'torch_geometric.nn.models.gnn_explainer', 'matplotlib', 'matplotlib._api.deprecation', 'matplotlib._api', 'shlex', 'matplotlib._c_internal_utils', 'matplotlib.cbook', 'matplotlib.docstring', 'PIL._version', 'PIL', 'PIL.ImageMode', 'PIL.TiffTags', 'PIL._binary', 'PIL._util', 'PIL._imaging', 'PIL.Image', 'matplotlib._animation_data', 'matplotlib.animation', 'PIL.ImageChops', 'PIL.ImageFile', 'PIL.GimpGradientFile', 'PIL.GimpPaletteFile', 'PIL.ImageColor', 'PIL.PaletteFile', 'PIL.ImagePalette', 'PIL.ImageSequence', 'PIL.PngImagePlugin', 'matplotlib._path', 'matplotlib.bezier', 'matplotlib.path', 'matplotlib.transforms', 'matplotlib.ticker', 'matplotlib.scale', 'matplotlib._color_data', 'matplotlib.colors', 'matplotlib.fontconfig_pattern', 'matplotlib._enums', 'cycler', 'matplotlib.rcsetup', 'matplotlib._version', 'matplotlib.ft2font', 'dateutil._version', 'dateutil', 'kiwisolver', 'dateutil._common', 'dateutil.rrule', 'dateutil.relativedelta', 'dateutil.tz._common', 'dateutil.tz._factories', 'dateutil.tz.tz', 'dateutil.tz', 'dateutil.parser._parser', 'dateutil.parser.isoparser', 'dateutil.parser', 'matplotlib.units', 'matplotlib.dates']
+2021-04-15 18:31:45,174 - __init__.py[line:224] - DEBUG: CACHEDIR=/data1/huangzg/.cache/matplotlib
+2021-04-15 18:31:45,178 - font_manager.py[line:1435] - DEBUG: Using fontManager instance from /data1/huangzg/.cache/matplotlib/fontlist-v330.json
+2021-04-15 18:31:45,914 - pyplot.py[line:290] - DEBUG: Loaded backend agg version unknown.
+2021-04-15 18:31:45,915 - pyplot.py[line:290] - DEBUG: Loaded backend agg version unknown.
+2021-04-15 18:31:46,242 - __init__.py[line:47] - DEBUG: Creating converter from 7 to 5
+2021-04-15 18:31:46,242 - __init__.py[line:47] - DEBUG: Creating converter from 5 to 7
+2021-04-15 18:31:46,242 - __init__.py[line:47] - DEBUG: Creating converter from 7 to 5
+2021-04-15 18:31:46,242 - __init__.py[line:47] - DEBUG: Creating converter from 5 to 7
+Data Preparation: 134.3s
+UPDATE!!!
+Epoch: 1 (206.6s)  LR: 0.00060 Train Loss: 6.44  Valid Loss: 6.68  Valid NDCG: 0.2084
+Data Preparation: 3.1s
+UPDATE!!!
+Epoch: 2 (219.6s)  LR: 0.00070 Train Loss: 5.65  Valid Loss: 5.69  Valid NDCG: 0.3340
+Data Preparation: 2.6s
+Epoch: 3 (242.3s)  LR: 0.00078 Train Loss: 5.20  Valid Loss: 5.92  Valid NDCG: 0.3022
+Data Preparation: 2.6s
+Epoch: 4 (261.6s)  LR: 0.00086 Train Loss: 5.14  Valid Loss: 5.95  Valid NDCG: 0.2927
+Data Preparation: 2.9s
+Epoch: 5 (256.7s)  LR: 0.00092 Train Loss: 5.02  Valid Loss: 5.93  Valid NDCG: 0.2799
+Data Preparation: 2.7s
+Epoch: 6 (250.7s)  LR: 0.00097 Train Loss: 4.70  Valid Loss: 5.82  Valid NDCG: 0.3067
+Data Preparation: 2.5s
+UPDATE!!!
+Epoch: 7 (212.7s)  LR: 0.00099 Train Loss: 4.83  Valid Loss: 5.64  Valid NDCG: 0.3364
+Data Preparation: 2.7s
+UPDATE!!!
+Epoch: 8 (262.8s)  LR: 0.00100 Train Loss: 4.44  Valid Loss: 5.42  Valid NDCG: 0.3482
+Data Preparation: 2.9s
+UPDATE!!!
+Epoch: 9 (257.0s)  LR: 0.00099 Train Loss: 4.26  Valid Loss: 5.17  Valid NDCG: 0.3932
+Data Preparation: 2.7s
+Epoch: 10 (247.9s)  LR: 0.00095 Train Loss: 4.15  Valid Loss: 5.33  Valid NDCG: 0.3867
+Data Preparation: 2.7s
+Epoch: 11 (247.3s)  LR: 0.00090 Train Loss: 4.03  Valid Loss: 5.31  Valid NDCG: 0.3832
+Data Preparation: 2.5s
+UPDATE!!!
+Epoch: 12 (191.7s)  LR: 0.00083 Train Loss: 3.90  Valid Loss: 4.82  Valid NDCG: 0.4356
+Data Preparation: 3.2s
+Epoch: 13 (187.8s)  LR: 0.00075 Train Loss: 3.93  Valid Loss: 4.88  Valid NDCG: 0.4249
+Data Preparation: 3.0s
+UPDATE!!!
+Epoch: 14 (193.4s)  LR: 0.00066 Train Loss: 3.73  Valid Loss: 4.92  Valid NDCG: 0.4361
+Data Preparation: 3.2s
+UPDATE!!!
+Epoch: 15 (179.2s)  LR: 0.00056 Train Loss: 3.73  Valid Loss: 4.64  Valid NDCG: 0.4438
+Data Preparation: 3.0s
+Epoch: 16 (189.2s)  LR: 0.00046 Train Loss: 3.59  Valid Loss: 4.86  Valid NDCG: 0.4363
+Data Preparation: 3.1s
+UPDATE!!!
+Epoch: 17 (188.8s)  LR: 0.00036 Train Loss: 3.60  Valid Loss: 4.38  Valid NDCG: 0.4815
+Data Preparation: 3.1s
+Epoch: 18 (191.0s)  LR: 0.00027 Train Loss: 3.55  Valid Loss: 4.90  Valid NDCG: 0.4265
+Data Preparation: 3.1s
+Epoch: 19 (187.0s)  LR: 0.00019 Train Loss: 3.58  Valid Loss: 4.57  Valid NDCG: 0.4511
+Data Preparation: 3.1s
+Epoch: 20 (200.5s)  LR: 0.00012 Train Loss: 3.52  Valid Loss: 4.78  Valid NDCG: 0.4596
+Data Preparation: 3.0s
+Epoch: 21 (188.6s)  LR: 0.00006 Train Loss: 3.56  Valid Loss: 4.45  Valid NDCG: 0.4781
+Data Preparation: 3.0s
+UPDATE!!!
+Epoch: 22 (184.1s)  LR: 0.00002 Train Loss: 3.55  Valid Loss: 4.37  Valid NDCG: 0.4851
+Data Preparation: 3.0s
+Epoch: 23 (186.7s)  LR: 0.00000 Train Loss: 3.58  Valid Loss: 4.89  Valid NDCG: 0.4295
+Data Preparation: 3.1s
+UPDATE!!!
+Epoch: 24 (189.2s)  LR: 0.00000 Train Loss: 3.56  Valid Loss: 4.51  Valid NDCG: 0.4925
+Data Preparation: 3.0s
+Epoch: 25 (189.2s)  LR: 0.00003 Train Loss: 3.50  Valid Loss: 4.51  Valid NDCG: 0.4532
+Data Preparation: 3.1s
+Epoch: 26 (186.4s)  LR: 0.00007 Train Loss: 3.52  Valid Loss: 4.53  Valid NDCG: 0.4736
+Data Preparation: 3.0s
+UPDATE!!!
+Epoch: 27 (187.7s)  LR: 0.00012 Train Loss: 3.55  Valid Loss: 4.39  Valid NDCG: 0.5073
+Data Preparation: 2.8s
+Epoch: 28 (187.0s)  LR: 0.00020 Train Loss: 3.48  Valid Loss: 4.56  Valid NDCG: 0.4568
+Data Preparation: 3.3s
+Epoch: 29 (195.0s)  LR: 0.00028 Train Loss: 3.43  Valid Loss: 4.57  Valid NDCG: 0.4608
+Data Preparation: 3.1s
+Epoch: 30 (193.4s)  LR: 0.00038 Train Loss: 3.42  Valid Loss: 4.79  Valid NDCG: 0.4772
+Data Preparation: 3.2s
+Epoch: 31 (186.9s)  LR: 0.00048 Train Loss: 3.43  Valid Loss: 4.37  Valid NDCG: 0.4972
+Data Preparation: 3.4s
+Epoch: 32 (197.5s)  LR: 0.00058 Train Loss: 3.36  Valid Loss: 4.85  Valid NDCG: 0.4501
+Data Preparation: 3.7s
+Epoch: 33 (191.0s)  LR: 0.00067 Train Loss: 3.40  Valid Loss: 4.54  Valid NDCG: 0.4215
+Data Preparation: 3.4s
+Epoch: 34 (186.1s)  LR: 0.00076 Train Loss: 3.31  Valid Loss: 4.40  Valid NDCG: 0.4731
+Data Preparation: 3.9s
+Epoch: 35 (203.2s)  LR: 0.00084 Train Loss: 3.30  Valid Loss: 4.52  Valid NDCG: 0.4743
+Data Preparation: 3.7s
+Epoch: 36 (192.5s)  LR: 0.00091 Train Loss: 3.33  Valid Loss: 4.58  Valid NDCG: 0.4648
+Data Preparation: 3.5s
+Epoch: 37 (198.9s)  LR: 0.00096 Train Loss: 3.34  Valid Loss: 5.05  Valid NDCG: 0.4096
+Data Preparation: 3.3s
+Epoch: 38 (197.4s)  LR: 0.00099 Train Loss: 3.29  Valid Loss: 4.56  Valid NDCG: 0.4664
+Data Preparation: 3.3s
+Epoch: 39 (196.6s)  LR: 0.00100 Train Loss: 3.27  Valid Loss: 5.00  Valid NDCG: 0.4301
+Data Preparation: 3.0s
+Epoch: 40 (179.2s)  LR: 0.00099 Train Loss: 3.28  Valid Loss: 4.42  Valid NDCG: 0.4515
+Data Preparation: 3.1s
+Epoch: 41 (191.6s)  LR: 0.00096 Train Loss: 3.26  Valid Loss: 5.01  Valid NDCG: 0.4402
+Data Preparation: 3.0s
+Epoch: 42 (191.3s)  LR: 0.00092 Train Loss: 3.19  Valid Loss: 4.44  Valid NDCG: 0.4694
+Data Preparation: 3.0s
+Epoch: 43 (188.1s)  LR: 0.00085 Train Loss: 3.17  Valid Loss: 4.75  Valid NDCG: 0.4567
+Data Preparation: 3.5s
+Epoch: 44 (191.2s)  LR: 0.00077 Train Loss: 3.11  Valid Loss: 4.66  Valid NDCG: 0.4717
+Data Preparation: 3.1s
+Epoch: 45 (193.2s)  LR: 0.00068 Train Loss: 3.11  Valid Loss: 4.77  Valid NDCG: 0.4494
+Data Preparation: 3.4s
+Epoch: 46 (188.7s)  LR: 0.00059 Train Loss: 3.09  Valid Loss: 4.56  Valid NDCG: 0.4880
+Data Preparation: 3.4s
+Epoch: 47 (183.1s)  LR: 0.00049 Train Loss: 3.08  Valid Loss: 4.32  Valid NDCG: 0.4839
+Data Preparation: 3.3s
+Epoch: 48 (192.0s)  LR: 0.00039 Train Loss: 3.02  Valid Loss: 4.75  Valid NDCG: 0.4601
+Data Preparation: 3.1s
+Epoch: 49 (185.7s)  LR: 0.00029 Train Loss: 3.05  Valid Loss: 4.43  Valid NDCG: 0.4764
+Data Preparation: 3.2s
+UPDATE!!!
+Epoch: 50 (185.4s)  LR: 0.00021 Train Loss: 3.05  Valid Loss: 4.11  Valid NDCG: 0.5151
+Data Preparation: 3.2s
+Epoch: 51 (199.7s)  LR: 0.00013 Train Loss: 3.02  Valid Loss: 4.49  Valid NDCG: 0.4816
+Data Preparation: 3.1s
+Epoch: 52 (194.3s)  LR: 0.00007 Train Loss: 3.06  Valid Loss: 4.72  Valid NDCG: 0.4659
+Data Preparation: 3.1s
+Epoch: 53 (198.2s)  LR: 0.00003 Train Loss: 3.08  Valid Loss: 4.48  Valid NDCG: 0.5133
+Data Preparation: 3.1s
+Epoch: 54 (190.4s)  LR: 0.00001 Train Loss: 3.08  Valid Loss: 4.03  Valid NDCG: 0.5089
+Data Preparation: 3.3s
+Epoch: 55 (170.2s)  LR: 0.00000 Train Loss: 3.06  Valid Loss: 4.45  Valid NDCG: 0.4767
+Data Preparation: 3.3s
+Epoch: 56 (184.2s)  LR: 0.00002 Train Loss: 3.07  Valid Loss: 4.38  Valid NDCG: 0.5033
+Data Preparation: 3.4s
+UPDATE!!!
+Epoch: 57 (183.1s)  LR: 0.00005 Train Loss: 3.09  Valid Loss: 4.01  Valid NDCG: 0.5610
+Data Preparation: 3.2s
+Epoch: 58 (196.7s)  LR: 0.00011 Train Loss: 3.03  Valid Loss: 3.93  Valid NDCG: 0.5195
+Data Preparation: 3.8s
+Epoch: 59 (182.8s)  LR: 0.00018 Train Loss: 2.98  Valid Loss: 4.24  Valid NDCG: 0.5158
+Data Preparation: 3.3s
+Epoch: 60 (183.3s)  LR: 0.00026 Train Loss: 2.97  Valid Loss: 4.00  Valid NDCG: 0.5196
+Data Preparation: 3.6s
+Epoch: 61 (189.5s)  LR: 0.00035 Train Loss: 2.96  Valid Loss: 4.52  Valid NDCG: 0.4824
+Data Preparation: 3.5s
+Epoch: 62 (178.3s)  LR: 0.00045 Train Loss: 2.89  Valid Loss: 4.28  Valid NDCG: 0.5100
+Data Preparation: 3.5s
+Epoch: 63 (187.4s)  LR: 0.00055 Train Loss: 2.93  Valid Loss: 4.56  Valid NDCG: 0.4929
+Data Preparation: 3.3s
+Epoch: 64 (196.3s)  LR: 0.00065 Train Loss: 2.92  Valid Loss: 4.25  Valid NDCG: 0.5035
+Data Preparation: 3.5s
+Epoch: 65 (204.0s)  LR: 0.00074 Train Loss: 2.85  Valid Loss: 4.16  Valid NDCG: 0.5028
+Data Preparation: 3.4s
+Epoch: 66 (194.3s)  LR: 0.00082 Train Loss: 2.89  Valid Loss: 4.67  Valid NDCG: 0.4626
+Data Preparation: 3.2s
+Epoch: 67 (189.0s)  LR: 0.00089 Train Loss: 2.89  Valid Loss: 4.56  Valid NDCG: 0.4887
+Data Preparation: 3.1s
+Epoch: 68 (190.0s)  LR: 0.00095 Train Loss: 2.90  Valid Loss: 4.83  Valid NDCG: 0.4567
+Data Preparation: 3.2s
+Epoch: 69 (191.6s)  LR: 0.00098 Train Loss: 2.88  Valid Loss: 4.40  Valid NDCG: 0.5021
+Data Preparation: 3.4s
+Epoch: 70 (190.9s)  LR: 0.00100 Train Loss: 2.95  Valid Loss: 4.66  Valid NDCG: 0.4662
+Data Preparation: 3.4s
+Epoch: 71 (199.3s)  LR: 0.00100 Train Loss: 2.88  Valid Loss: 4.65  Valid NDCG: 0.4650
+Data Preparation: 3.4s
+Epoch: 72 (187.1s)  LR: 0.00097 Train Loss: 2.87  Valid Loss: 4.73  Valid NDCG: 0.4427
+Data Preparation: 3.4s
+Epoch: 73 (184.0s)  LR: 0.00093 Train Loss: 2.88  Valid Loss: 4.95  Valid NDCG: 0.4358
+Data Preparation: 3.4s
+Epoch: 74 (197.5s)  LR: 0.00087 Train Loss: 2.88  Valid Loss: 4.62  Valid NDCG: 0.4554
+Data Preparation: 3.4s
+Epoch: 75 (181.9s)  LR: 0.00079 Train Loss: 2.79  Valid Loss: 4.80  Valid NDCG: 0.4524
+Data Preparation: 3.4s
+Epoch: 76 (205.8s)  LR: 0.00071 Train Loss: 2.78  Valid Loss: 4.76  Valid NDCG: 0.4834
+Data Preparation: 3.2s
+Epoch: 77 (190.0s)  LR: 0.00061 Train Loss: 2.82  Valid Loss: 4.72  Valid NDCG: 0.4821
+Data Preparation: 3.2s
+Epoch: 78 (200.1s)  LR: 0.00051 Train Loss: 2.76  Valid Loss: 4.89  Valid NDCG: 0.4601
+Data Preparation: 3.3s
+Epoch: 79 (190.9s)  LR: 0.00041 Train Loss: 2.78  Valid Loss: 4.69  Valid NDCG: 0.4724
+Data Preparation: 3.0s
+Epoch: 80 (191.3s)  LR: 0.00032 Train Loss: 2.75  Valid Loss: 4.33  Valid NDCG: 0.5158
+Data Preparation: 3.3s
+Epoch: 81 (183.8s)  LR: 0.00023 Train Loss: 2.71  Valid Loss: 4.21  Valid NDCG: 0.5228
+Data Preparation: 3.2s
+Epoch: 82 (188.5s)  LR: 0.00015 Train Loss: 2.75  Valid Loss: 4.42  Valid NDCG: 0.5065
+Data Preparation: 3.0s
+Epoch: 83 (193.0s)  LR: 0.00009 Train Loss: 2.80  Valid Loss: 4.03  Valid NDCG: 0.5336
+Data Preparation: 3.2s
+Epoch: 84 (192.0s)  LR: 0.00004 Train Loss: 2.79  Valid Loss: 4.47  Valid NDCG: 0.5122
+Data Preparation: 3.2s
+Epoch: 85 (185.5s)  LR: 0.00001 Train Loss: 2.81  Valid Loss: 4.13  Valid NDCG: 0.5481
+Data Preparation: 3.8s
+Epoch: 86 (190.7s)  LR: 0.00000 Train Loss: 2.78  Valid Loss: 4.43  Valid NDCG: 0.5007
+Data Preparation: 3.1s
+Epoch: 87 (189.6s)  LR: 0.00001 Train Loss: 2.83  Valid Loss: 4.12  Valid NDCG: 0.5375
+Data Preparation: 3.2s
+Epoch: 88 (189.6s)  LR: 0.00004 Train Loss: 2.79  Valid Loss: 4.47  Valid NDCG: 0.4925
+Data Preparation: 3.2s
+Epoch: 89 (187.6s)  LR: 0.00009 Train Loss: 2.78  Valid Loss: 4.32  Valid NDCG: 0.4991
+Data Preparation: 3.2s
+Epoch: 90 (193.4s)  LR: 0.00016 Train Loss: 2.76  Valid Loss: 4.17  Valid NDCG: 0.5370
+Data Preparation: 3.2s
+Epoch: 91 (176.4s)  LR: 0.00024 Train Loss: 2.69  Valid Loss: 3.93  Valid NDCG: 0.5542
+Data Preparation: 3.3s
+Epoch: 92 (183.3s)  LR: 0.00033 Train Loss: 2.68  Valid Loss: 4.13  Valid NDCG: 0.4983
+Data Preparation: 3.2s
+Epoch: 93 (190.9s)  LR: 0.00043 Train Loss: 2.65  Valid Loss: 4.64  Valid NDCG: 0.5081
+Data Preparation: 2.9s
+Epoch: 94 (188.8s)  LR: 0.00053 Train Loss: 2.63  Valid Loss: 4.16  Valid NDCG: 0.4841
+Data Preparation: 3.3s
+Epoch: 95 (190.0s)  LR: 0.00062 Train Loss: 2.64  Valid Loss: 4.70  Valid NDCG: 0.4847
+Data Preparation: 3.2s
+Epoch: 96 (192.4s)  LR: 0.00072 Train Loss: 2.62  Valid Loss: 4.49  Valid NDCG: 0.4694
+Data Preparation: 3.2s
+Epoch: 97 (191.3s)  LR: 0.00080 Train Loss: 2.60  Valid Loss: 4.57  Valid NDCG: 0.4880
+Data Preparation: 3.1s
+Epoch: 98 (189.6s)  LR: 0.00088 Train Loss: 2.59  Valid Loss: 4.55  Valid NDCG: 0.4724
+Data Preparation: 2.8s
+Epoch: 99 (184.3s)  LR: 0.00094 Train Loss: 2.60  Valid Loss: 4.59  Valid NDCG: 0.4717
+Data Preparation: 3.1s
+Epoch: 100 (193.2s)  LR: 0.00098 Train Loss: 2.63  Valid Loss: 4.49  Valid NDCG: 0.4828
+Data Preparation: 3.3s
+Epoch: 101 (186.4s)  LR: 0.00100 Train Loss: 2.61  Valid Loss: 5.18  Valid NDCG: 0.4470
+Data Preparation: 3.2s
+Epoch: 102 (180.3s)  LR: 0.00100 Train Loss: 2.62  Valid Loss: 5.11  Valid NDCG: 0.4578
+Data Preparation: 3.2s
+Epoch: 103 (189.2s)  LR: 0.00098 Train Loss: 2.64  Valid Loss: 4.95  Valid NDCG: 0.4449
+Data Preparation: 3.2s
+Epoch: 104 (184.9s)  LR: 0.00094 Train Loss: 2.59  Valid Loss: 4.29  Valid NDCG: 0.5291
+Data Preparation: 3.4s
+Epoch: 105 (184.7s)  LR: 0.00089 Train Loss: 2.63  Valid Loss: 4.76  Valid NDCG: 0.4888
+Data Preparation: 3.2s
+Epoch: 106 (182.1s)  LR: 0.00081 Train Loss: 2.61  Valid Loss: 4.78  Valid NDCG: 0.4576
+Data Preparation: 3.0s
+Epoch: 107 (183.3s)  LR: 0.00073 Train Loss: 2.56  Valid Loss: 4.20  Valid NDCG: 0.5325
+Data Preparation: 3.2s
+Epoch: 108 (179.6s)  LR: 0.00064 Train Loss: 2.62  Valid Loss: 4.42  Valid NDCG: 0.5136
+Data Preparation: 3.4s
+Epoch: 109 (188.3s)  LR: 0.00054 Train Loss: 2.59  Valid Loss: 4.50  Valid NDCG: 0.5056
+Data Preparation: 3.2s
+Epoch: 110 (185.9s)  LR: 0.00044 Train Loss: 2.60  Valid Loss: 4.43  Valid NDCG: 0.5143
+Data Preparation: 3.0s
+Epoch: 111 (193.0s)  LR: 0.00034 Train Loss: 2.56  Valid Loss: 4.76  Valid NDCG: 0.4911
+Data Preparation: 3.1s
+Epoch: 112 (197.2s)  LR: 0.00025 Train Loss: 2.56  Valid Loss: 4.59  Valid NDCG: 0.5186
+Data Preparation: 3.2s
+Epoch: 113 (183.2s)  LR: 0.00017 Train Loss: 2.54  Valid Loss: 4.20  Valid NDCG: 0.5557
+Data Preparation: 3.2s
+Epoch: 114 (189.2s)  LR: 0.00010 Train Loss: 2.54  Valid Loss: 4.22  Valid NDCG: 0.5133
+Data Preparation: 3.1s
+Epoch: 115 (184.6s)  LR: 0.00005 Train Loss: 2.59  Valid Loss: 4.30  Valid NDCG: 0.4879
+Data Preparation: 3.2s
+Epoch: 116 (188.2s)  LR: 0.00002 Train Loss: 2.63  Valid Loss: 4.39  Valid NDCG: 0.5098
+Data Preparation: 3.2s
+Epoch: 117 (189.8s)  LR: 0.00000 Train Loss: 2.65  Valid Loss: 4.59  Valid NDCG: 0.4623
+Data Preparation: 3.1s
+Epoch: 118 (188.1s)  LR: 0.00001 Train Loss: 2.62  Valid Loss: 4.59  Valid NDCG: 0.4947
+Data Preparation: 3.2s
+Epoch: 119 (185.3s)  LR: 0.00003 Train Loss: 2.62  Valid Loss: 5.05  Valid NDCG: 0.4604
+Data Preparation: 3.2s
+Epoch: 120 (189.3s)  LR: 0.00008 Train Loss: 2.58  Valid Loss: 4.22  Valid NDCG: 0.5165
+Data Preparation: 3.1s
+Epoch: 121 (189.5s)  LR: 0.00014 Train Loss: 2.52  Valid Loss: 4.77  Valid NDCG: 0.5142
+Data Preparation: 2.9s
+Epoch: 122 (199.3s)  LR: 0.00022 Train Loss: 2.51  Valid Loss: 4.39  Valid NDCG: 0.5360
+Data Preparation: 3.0s
+Epoch: 123 (192.9s)  LR: 0.00031 Train Loss: 2.50  Valid Loss: 4.28  Valid NDCG: 0.5144
+Data Preparation: 3.4s
+Epoch: 124 (188.7s)  LR: 0.00040 Train Loss: 2.45  Valid Loss: 4.58  Valid NDCG: 0.4927
+Data Preparation: 3.3s
+Epoch: 125 (192.8s)  LR: 0.00050 Train Loss: 2.47  Valid Loss: 4.74  Valid NDCG: 0.4656
+Data Preparation: 3.1s
+Epoch: 126 (177.3s)  LR: 0.00060 Train Loss: 2.41  Valid Loss: 4.69  Valid NDCG: 0.4718
+Data Preparation: 3.2s
+Epoch: 127 (195.1s)  LR: 0.00070 Train Loss: 2.43  Valid Loss: 4.54  Valid NDCG: 0.4927
+Data Preparation: 3.1s
+Epoch: 128 (190.1s)  LR: 0.00078 Train Loss: 2.42  Valid Loss: 5.03  Valid NDCG: 0.4807
+Data Preparation: 2.9s
+Epoch: 129 (188.1s)  LR: 0.00086 Train Loss: 2.39  Valid Loss: 4.44  Valid NDCG: 0.5278
+Data Preparation: 3.4s
+Epoch: 130 (189.2s)  LR: 0.00092 Train Loss: 2.46  Valid Loss: 5.11  Valid NDCG: 0.4512
+Data Preparation: 3.0s
+Epoch: 131 (188.5s)  LR: 0.00097 Train Loss: 2.41  Valid Loss: 4.89  Valid NDCG: 0.4881
+Data Preparation: 3.2s
+Epoch: 132 (183.7s)  LR: 0.00099 Train Loss: 2.41  Valid Loss: 4.62  Valid NDCG: 0.4969
+Data Preparation: 3.1s
+Epoch: 133 (184.6s)  LR: 0.00100 Train Loss: 2.44  Valid Loss: 4.48  Valid NDCG: 0.5175
+Data Preparation: 3.2s
+Epoch: 134 (192.0s)  LR: 0.00099 Train Loss: 2.48  Valid Loss: 4.77  Valid NDCG: 0.4940
+Data Preparation: 2.9s
+Epoch: 135 (187.7s)  LR: 0.00095 Train Loss: 2.47  Valid Loss: 4.77  Valid NDCG: 0.4931
+Data Preparation: 3.2s
+Epoch: 136 (188.7s)  LR: 0.00090 Train Loss: 2.48  Valid Loss: 4.62  Valid NDCG: 0.4828
+Data Preparation: 3.1s
+Epoch: 137 (191.2s)  LR: 0.00083 Train Loss: 2.46  Valid Loss: 4.44  Valid NDCG: 0.4956
+Data Preparation: 3.2s
+Epoch: 138 (186.0s)  LR: 0.00075 Train Loss: 2.45  Valid Loss: 4.94  Valid NDCG: 0.4581
+Data Preparation: 3.1s
+Epoch: 139 (187.8s)  LR: 0.00066 Train Loss: 2.44  Valid Loss: 5.18  Valid NDCG: 0.4583
+Data Preparation: 3.2s
+Epoch: 140 (185.3s)  LR: 0.00056 Train Loss: 2.43  Valid Loss: 4.88  Valid NDCG: 0.4896
+Data Preparation: 3.3s
+Epoch: 141 (194.8s)  LR: 0.00046 Train Loss: 2.44  Valid Loss: 4.56  Valid NDCG: 0.4992
+Data Preparation: 3.1s
+Epoch: 142 (193.7s)  LR: 0.00036 Train Loss: 2.37  Valid Loss: 4.56  Valid NDCG: 0.5205
+Data Preparation: 3.0s
+Epoch: 143 (190.9s)  LR: 0.00027 Train Loss: 2.38  Valid Loss: 4.53  Valid NDCG: 0.5066
+Data Preparation: 3.3s
+Epoch: 144 (183.6s)  LR: 0.00019 Train Loss: 2.36  Valid Loss: 4.30  Valid NDCG: 0.5327
+Data Preparation: 3.4s
+Epoch: 145 (179.4s)  LR: 0.00012 Train Loss: 2.43  Valid Loss: 4.50  Valid NDCG: 0.5139
+Data Preparation: 3.0s
+Epoch: 146 (187.7s)  LR: 0.00006 Train Loss: 2.43  Valid Loss: 4.33  Valid NDCG: 0.5223
+Data Preparation: 3.1s
+Epoch: 147 (184.3s)  LR: 0.00002 Train Loss: 2.43  Valid Loss: 4.21  Valid NDCG: 0.5383
+Data Preparation: 3.2s
+Epoch: 148 (180.5s)  LR: 0.00000 Train Loss: 2.45  Valid Loss: 4.68  Valid NDCG: 0.4968
+Data Preparation: 3.3s
+Epoch: 149 (186.1s)  LR: 0.00000 Train Loss: 2.44  Valid Loss: 4.42  Valid NDCG: 0.5141
+Data Preparation: 3.1s
+Epoch: 150 (192.5s)  LR: 0.00003 Train Loss: 2.47  Valid Loss: 4.09  Valid NDCG: 0.5313
+Data Preparation: 3.3s
+Epoch: 151 (192.2s)  LR: 0.00007 Train Loss: 2.47  Valid Loss: 4.57  Valid NDCG: 0.4954
+Data Preparation: 3.1s
+Epoch: 152 (195.8s)  LR: 0.00012 Train Loss: 2.41  Valid Loss: 4.48  Valid NDCG: 0.5022
+Data Preparation: 3.1s
+Epoch: 153 (188.4s)  LR: 0.00020 Train Loss: 2.35  Valid Loss: 4.45  Valid NDCG: 0.5128
+Data Preparation: 3.1s
+Epoch: 154 (196.0s)  LR: 0.00028 Train Loss: 2.37  Valid Loss: 4.31  Valid NDCG: 0.5324
+Data Preparation: 3.2s
+Epoch: 155 (187.2s)  LR: 0.00038 Train Loss: 2.31  Valid Loss: 5.05  Valid NDCG: 0.4678
+Data Preparation: 2.9s
+Epoch: 156 (189.0s)  LR: 0.00048 Train Loss: 2.30  Valid Loss: 4.40  Valid NDCG: 0.5048
+Data Preparation: 3.4s
+Epoch: 157 (182.4s)  LR: 0.00058 Train Loss: 2.24  Valid Loss: 4.62  Valid NDCG: 0.4897
+Data Preparation: 2.8s
+Epoch: 158 (195.3s)  LR: 0.00067 Train Loss: 2.25  Valid Loss: 4.63  Valid NDCG: 0.4890
+Data Preparation: 3.1s
+Epoch: 159 (185.4s)  LR: 0.00076 Train Loss: 2.22  Valid Loss: 4.62  Valid NDCG: 0.5185
+Data Preparation: 3.8s
+Epoch: 160 (183.8s)  LR: 0.00084 Train Loss: 2.28  Valid Loss: 4.93  Valid NDCG: 0.4758
+Data Preparation: 3.3s
+Epoch: 161 (190.9s)  LR: 0.00091 Train Loss: 2.29  Valid Loss: 4.79  Valid NDCG: 0.4752
+Data Preparation: 3.0s
+Epoch: 162 (185.6s)  LR: 0.00096 Train Loss: 2.29  Valid Loss: 4.81  Valid NDCG: 0.4971
+Data Preparation: 3.2s
+Epoch: 163 (181.9s)  LR: 0.00099 Train Loss: 2.28  Valid Loss: 4.99  Valid NDCG: 0.4763
+Data Preparation: 3.2s
+Epoch: 164 (178.2s)  LR: 0.00100 Train Loss: 2.32  Valid Loss: 5.32  Valid NDCG: 0.4617
+Data Preparation: 3.2s
+Epoch: 165 (178.9s)  LR: 0.00099 Train Loss: 2.27  Valid Loss: 5.10  Valid NDCG: 0.4527
+Data Preparation: 3.2s
+Epoch: 166 (196.9s)  LR: 0.00096 Train Loss: 2.34  Valid Loss: 4.47  Valid NDCG: 0.5118
+Data Preparation: 3.2s
+Epoch: 167 (173.9s)  LR: 0.00092 Train Loss: 2.34  Valid Loss: 4.71  Valid NDCG: 0.4863
+Data Preparation: 3.2s
+Epoch: 168 (190.6s)  LR: 0.00085 Train Loss: 2.29  Valid Loss: 4.85  Valid NDCG: 0.4795
+Data Preparation: 3.2s
+Epoch: 169 (183.3s)  LR: 0.00077 Train Loss: 2.27  Valid Loss: 5.39  Valid NDCG: 0.4672
+Data Preparation: 3.2s
+Epoch: 170 (181.0s)  LR: 0.00068 Train Loss: 2.30  Valid Loss: 4.36  Valid NDCG: 0.5281
+Data Preparation: 3.1s
+Epoch: 171 (182.5s)  LR: 0.00059 Train Loss: 2.26  Valid Loss: 4.70  Valid NDCG: 0.5100
+Data Preparation: 3.3s
+Epoch: 172 (185.8s)  LR: 0.00049 Train Loss: 2.28  Valid Loss: 4.89  Valid NDCG: 0.4878
+Data Preparation: 3.2s
+Epoch: 173 (184.5s)  LR: 0.00039 Train Loss: 2.29  Valid Loss: 5.00  Valid NDCG: 0.4923
+Data Preparation: 3.0s
+Epoch: 174 (190.7s)  LR: 0.00029 Train Loss: 2.26  Valid Loss: 4.50  Valid NDCG: 0.5232
+Data Preparation: 3.0s
+Epoch: 175 (192.6s)  LR: 0.00021 Train Loss: 2.26  Valid Loss: 5.01  Valid NDCG: 0.4895
+Data Preparation: 3.2s
+Epoch: 176 (185.9s)  LR: 0.00013 Train Loss: 2.28  Valid Loss: 4.69  Valid NDCG: 0.5210
+Data Preparation: 3.1s
+Epoch: 177 (190.5s)  LR: 0.00007 Train Loss: 2.33  Valid Loss: 4.71  Valid NDCG: 0.5100
+Data Preparation: 3.1s
+Epoch: 178 (198.4s)  LR: 0.00003 Train Loss: 2.33  Valid Loss: 4.84  Valid NDCG: 0.4887
+Data Preparation: 3.2s
+Epoch: 179 (180.6s)  LR: 0.00001 Train Loss: 2.34  Valid Loss: 4.77  Valid NDCG: 0.5058
+Data Preparation: 3.1s
+Epoch: 180 (190.9s)  LR: 0.00000 Train Loss: 2.34  Valid Loss: 4.79  Valid NDCG: 0.4895
+Data Preparation: 3.2s
+Epoch: 181 (195.0s)  LR: 0.00002 Train Loss: 2.30  Valid Loss: 4.60  Valid NDCG: 0.5543
+Data Preparation: 3.1s
+Epoch: 182 (187.7s)  LR: 0.00005 Train Loss: 2.32  Valid Loss: 4.65  Valid NDCG: 0.4852
+Data Preparation: 2.9s
+Epoch: 183 (186.4s)  LR: 0.00011 Train Loss: 2.31  Valid Loss: 4.92  Valid NDCG: 0.4539
+Data Preparation: 3.2s
+Epoch: 184 (180.5s)  LR: 0.00018 Train Loss: 2.22  Valid Loss: 4.66  Valid NDCG: 0.4725
+Data Preparation: 3.3s
+Epoch: 185 (186.2s)  LR: 0.00026 Train Loss: 2.22  Valid Loss: 5.13  Valid NDCG: 0.4887
+Data Preparation: 3.0s
+Epoch: 186 (191.9s)  LR: 0.00035 Train Loss: 2.18  Valid Loss: 4.59  Valid NDCG: 0.5123
+Data Preparation: 3.0s
+Epoch: 187 (193.6s)  LR: 0.00045 Train Loss: 2.15  Valid Loss: 4.37  Valid NDCG: 0.5121
+Data Preparation: 3.0s
+Epoch: 188 (184.9s)  LR: 0.00055 Train Loss: 2.14  Valid Loss: 4.27  Valid NDCG: 0.5252
+Data Preparation: 3.1s
+Epoch: 189 (185.2s)  LR: 0.00065 Train Loss: 2.09  Valid Loss: 4.72  Valid NDCG: 0.4998
+Data Preparation: 3.0s
+Epoch: 190 (186.8s)  LR: 0.00074 Train Loss: 2.18  Valid Loss: 4.62  Valid NDCG: 0.5043
+Data Preparation: 3.2s
+Epoch: 191 (189.4s)  LR: 0.00082 Train Loss: 2.15  Valid Loss: 4.66  Valid NDCG: 0.4985
+Data Preparation: 3.2s
+Epoch: 192 (180.7s)  LR: 0.00089 Train Loss: 2.14  Valid Loss: 5.44  Valid NDCG: 0.4439
+Data Preparation: 3.1s
+Epoch: 193 (192.6s)  LR: 0.00095 Train Loss: 2.12  Valid Loss: 5.07  Valid NDCG: 0.4859
+Data Preparation: 3.1s
+Epoch: 194 (182.7s)  LR: 0.00098 Train Loss: 2.09  Valid Loss: 5.32  Valid NDCG: 0.4588
+Data Preparation: 3.0s
+Epoch: 195 (185.1s)  LR: 0.00100 Train Loss: 2.17  Valid Loss: 4.90  Valid NDCG: 0.4567
+Data Preparation: 3.2s
+Epoch: 196 (192.5s)  LR: 0.00100 Train Loss: 2.20  Valid Loss: 5.29  Valid NDCG: 0.4571
+Data Preparation: 3.2s
+Epoch: 197 (195.2s)  LR: 0.00097 Train Loss: 2.23  Valid Loss: 4.73  Valid NDCG: 0.4957
+Data Preparation: 3.2s
+Epoch: 198 (193.5s)  LR: 0.00093 Train Loss: 2.14  Valid Loss: 4.90  Valid NDCG: 0.5061
+Data Preparation: 3.1s
+Epoch: 199 (190.1s)  LR: 0.00087 Train Loss: 2.18  Valid Loss: 5.09  Valid NDCG: 0.4966
+Data Preparation: 3.2s
+Epoch: 200 (188.3s)  LR: 0.00079 Train Loss: 2.12  Valid Loss: 5.09  Valid NDCG: 0.4760
+Last Test NDCG: 0.3513
+Last Test MRR:  0.1864
+Best Test NDCG: 0.3781
+Best Test MRR:  0.2117
+Exception ignored in: <function Pool.__del__ at 0x7f476f17b040>
+Traceback (most recent call last):
+  File "/data1/huangzg/anaconda3/envs/PY38_HGT/lib/python3.8/multiprocessing/pool.py", line 268, in __del__
+  File "/data1/huangzg/anaconda3/envs/PY38_HGT/lib/python3.8/multiprocessing/queues.py", line 362, in put
+AttributeError: 'NoneType' object has no attribute 'dumps'

@@ -1,0 +1,450 @@
+2021-04-18 22:09:21,467 - ReadData.py[line:23] - INFO: 读取数据开始。。。
+2021-04-18 22:10:26,023 - ReadData.py[line:25] - INFO: 读取数据完毕。
+2021-04-18 22:10:36,049 - ReadData.py[line:92] - INFO: 数据类型 train 共 148566 个节点
+2021-04-18 22:10:36,050 - ReadData.py[line:92] - INFO: 数据类型 val 共 33744 个节点
+2021-04-18 22:10:36,052 - ReadData.py[line:92] - INFO: 数据类型 test 共 46794 个节点
+2021-04-18 22:10:38,372 - main_train_test.py[line:127] - INFO: epoch 0 训练数据生成开始。。。
+2021-04-18 22:10:38,373 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 22:12:11,863 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 22:12:11,865 - main_train_test.py[line:139] - INFO: epoch 0 训练数据生成完毕
+2021-04-18 22:12:11,865 - main_train_test.py[line:140] - INFO: epoch 0 验证数据生成开始。。。
+2021-04-18 22:12:11,865 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 22:12:54,303 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 22:12:54,305 - main_train_test.py[line:152] - INFO: epoch 0 验证数据生成完毕
+2021-04-18 22:12:54,305 - TrainModel.py[line:38] - INFO: epoch %d 训练开始。。。
+2021-04-18 22:15:08,332 - TrainModel.py[line:76] - INFO: epoch 0 训练结束
+2021-04-18 22:15:08,332 - TrainModel.py[line:80] - INFO: epoch 0 valid 开始。。。
+2021-04-18 22:15:09,978 - TrainModel.py[line:109] - INFO: UPDATE!!!
+2021-04-18 22:15:09,979 - TrainModel.py[line:115] - INFO: Epoch: 0 (135.7s)  LR: 0.00060 Train Loss: 5.84  Valid Loss: 5.69  Valid NDCG: 0.3307
+2021-04-18 22:15:09,980 - TrainModel.py[line:124] - INFO: epoch 0 valid 结束。
+2021-04-18 22:15:09,985 - main_train_test.py[line:127] - INFO: epoch 1 训练数据生成开始。。。
+2021-04-18 22:15:09,985 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 22:16:44,168 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 22:16:44,286 - main_train_test.py[line:139] - INFO: epoch 1 训练数据生成完毕
+2021-04-18 22:16:44,286 - main_train_test.py[line:140] - INFO: epoch 1 验证数据生成开始。。。
+2021-04-18 22:16:44,286 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 22:17:25,089 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 22:17:25,099 - main_train_test.py[line:152] - INFO: epoch 1 验证数据生成完毕
+2021-04-18 22:17:25,099 - TrainModel.py[line:38] - INFO: epoch %d 训练开始。。。
+2021-04-18 22:19:39,540 - TrainModel.py[line:76] - INFO: epoch 1 训练结束
+2021-04-18 22:19:39,541 - TrainModel.py[line:80] - INFO: epoch 1 valid 开始。。。
+2021-04-18 22:19:41,025 - TrainModel.py[line:109] - INFO: UPDATE!!!
+2021-04-18 22:19:41,026 - TrainModel.py[line:115] - INFO: Epoch: 1 (135.9s)  LR: 0.00070 Train Loss: 4.80  Valid Loss: 5.33  Valid NDCG: 0.3839
+2021-04-18 22:19:41,026 - TrainModel.py[line:124] - INFO: epoch 1 valid 结束。
+2021-04-18 22:19:41,030 - main_train_test.py[line:127] - INFO: epoch 2 训练数据生成开始。。。
+2021-04-18 22:19:41,030 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 22:21:26,638 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 22:21:26,717 - main_train_test.py[line:139] - INFO: epoch 2 训练数据生成完毕
+2021-04-18 22:21:26,717 - main_train_test.py[line:140] - INFO: epoch 2 验证数据生成开始。。。
+2021-04-18 22:21:26,717 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 22:22:08,788 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 22:22:08,795 - main_train_test.py[line:152] - INFO: epoch 2 验证数据生成完毕
+2021-04-18 22:22:08,795 - TrainModel.py[line:38] - INFO: epoch %d 训练开始。。。
+2021-04-18 22:24:23,322 - TrainModel.py[line:76] - INFO: epoch 2 训练结束
+2021-04-18 22:24:23,323 - TrainModel.py[line:80] - INFO: epoch 2 valid 开始。。。
+2021-04-18 22:24:24,524 - TrainModel.py[line:115] - INFO: Epoch: 2 (135.7s)  LR: 0.00078 Train Loss: 4.45  Valid Loss: 5.72  Valid NDCG: 0.3501
+2021-04-18 22:24:24,525 - TrainModel.py[line:124] - INFO: epoch 2 valid 结束。
+2021-04-18 22:24:24,527 - main_train_test.py[line:127] - INFO: epoch 3 训练数据生成开始。。。
+2021-04-18 22:24:24,527 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 22:25:49,813 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 22:25:49,929 - main_train_test.py[line:139] - INFO: epoch 3 训练数据生成完毕
+2021-04-18 22:25:49,929 - main_train_test.py[line:140] - INFO: epoch 3 验证数据生成开始。。。
+2021-04-18 22:25:49,929 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 22:26:41,304 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 22:26:41,310 - main_train_test.py[line:152] - INFO: epoch 3 验证数据生成完毕
+2021-04-18 22:26:41,310 - TrainModel.py[line:38] - INFO: epoch %d 训练开始。。。
+2021-04-18 22:28:56,166 - TrainModel.py[line:76] - INFO: epoch 3 训练结束
+2021-04-18 22:28:56,166 - TrainModel.py[line:80] - INFO: epoch 3 valid 开始。。。
+2021-04-18 22:28:57,623 - TrainModel.py[line:109] - INFO: UPDATE!!!
+2021-04-18 22:28:57,624 - TrainModel.py[line:115] - INFO: Epoch: 3 (136.3s)  LR: 0.00086 Train Loss: 4.08  Valid Loss: 4.94  Valid NDCG: 0.3895
+2021-04-18 22:28:57,624 - TrainModel.py[line:124] - INFO: epoch 3 valid 结束。
+2021-04-18 22:28:57,631 - main_train_test.py[line:127] - INFO: epoch 4 训练数据生成开始。。。
+2021-04-18 22:28:57,631 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 22:30:39,387 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 22:30:39,497 - main_train_test.py[line:139] - INFO: epoch 4 训练数据生成完毕
+2021-04-18 22:30:39,497 - main_train_test.py[line:140] - INFO: epoch 4 验证数据生成开始。。。
+2021-04-18 22:30:39,497 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 22:31:18,711 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 22:31:18,722 - main_train_test.py[line:152] - INFO: epoch 4 验证数据生成完毕
+2021-04-18 22:31:18,722 - TrainModel.py[line:38] - INFO: epoch %d 训练开始。。。
+2021-04-18 22:33:32,008 - TrainModel.py[line:76] - INFO: epoch 4 训练结束
+2021-04-18 22:33:32,009 - TrainModel.py[line:80] - INFO: epoch 4 valid 开始。。。
+2021-04-18 22:33:33,472 - TrainModel.py[line:109] - INFO: UPDATE!!!
+2021-04-18 22:33:33,474 - TrainModel.py[line:115] - INFO: Epoch: 4 (134.8s)  LR: 0.00092 Train Loss: 3.71  Valid Loss: 4.72  Valid NDCG: 0.4654
+2021-04-18 22:33:33,474 - TrainModel.py[line:124] - INFO: epoch 4 valid 结束。
+2021-04-18 22:33:33,479 - main_train_test.py[line:127] - INFO: epoch 5 训练数据生成开始。。。
+2021-04-18 22:33:33,480 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 22:35:01,774 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 22:35:01,895 - main_train_test.py[line:139] - INFO: epoch 5 训练数据生成完毕
+2021-04-18 22:35:01,896 - main_train_test.py[line:140] - INFO: epoch 5 验证数据生成开始。。。
+2021-04-18 22:35:01,896 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 22:35:59,311 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 22:35:59,316 - main_train_test.py[line:152] - INFO: epoch 5 验证数据生成完毕
+2021-04-18 22:35:59,316 - TrainModel.py[line:38] - INFO: epoch %d 训练开始。。。
+2021-04-18 22:38:16,132 - TrainModel.py[line:76] - INFO: epoch 5 训练结束
+2021-04-18 22:38:16,133 - TrainModel.py[line:80] - INFO: epoch 5 valid 开始。。。
+2021-04-18 22:38:17,416 - TrainModel.py[line:109] - INFO: UPDATE!!!
+2021-04-18 22:38:17,416 - TrainModel.py[line:115] - INFO: Epoch: 5 (138.1s)  LR: 0.00097 Train Loss: 3.32  Valid Loss: 4.04  Valid NDCG: 0.5396
+2021-04-18 22:38:17,416 - TrainModel.py[line:124] - INFO: epoch 5 valid 结束。
+2021-04-18 22:38:17,419 - main_train_test.py[line:127] - INFO: epoch 6 训练数据生成开始。。。
+2021-04-18 22:38:17,419 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 22:39:39,070 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 22:39:39,169 - main_train_test.py[line:139] - INFO: epoch 6 训练数据生成完毕
+2021-04-18 22:39:39,169 - main_train_test.py[line:140] - INFO: epoch 6 验证数据生成开始。。。
+2021-04-18 22:39:39,169 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 22:40:44,824 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 22:40:44,834 - main_train_test.py[line:152] - INFO: epoch 6 验证数据生成完毕
+2021-04-18 22:40:44,835 - TrainModel.py[line:38] - INFO: epoch %d 训练开始。。。
+2021-04-18 22:43:00,883 - TrainModel.py[line:76] - INFO: epoch 6 训练结束
+2021-04-18 22:43:00,883 - TrainModel.py[line:80] - INFO: epoch 6 valid 开始。。。
+2021-04-18 22:43:02,581 - TrainModel.py[line:109] - INFO: UPDATE!!!
+2021-04-18 22:43:02,582 - TrainModel.py[line:115] - INFO: Epoch: 6 (137.7s)  LR: 0.00099 Train Loss: 2.99  Valid Loss: 3.26  Valid NDCG: 0.6438
+2021-04-18 22:43:02,582 - TrainModel.py[line:124] - INFO: epoch 6 valid 结束。
+2021-04-18 22:43:02,584 - main_train_test.py[line:127] - INFO: epoch 7 训练数据生成开始。。。
+2021-04-18 22:43:02,585 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 22:44:31,660 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 22:44:31,769 - main_train_test.py[line:139] - INFO: epoch 7 训练数据生成完毕
+2021-04-18 22:44:31,770 - main_train_test.py[line:140] - INFO: epoch 7 验证数据生成开始。。。
+2021-04-18 22:44:31,770 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 22:45:16,579 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 22:45:16,583 - main_train_test.py[line:152] - INFO: epoch 7 验证数据生成完毕
+2021-04-18 22:45:16,584 - TrainModel.py[line:38] - INFO: epoch %d 训练开始。。。
+2021-04-18 22:47:31,534 - TrainModel.py[line:76] - INFO: epoch 7 训练结束
+2021-04-18 22:47:31,534 - TrainModel.py[line:80] - INFO: epoch 7 valid 开始。。。
+2021-04-18 22:47:32,638 - TrainModel.py[line:115] - INFO: Epoch: 7 (136.1s)  LR: 0.00100 Train Loss: 2.80  Valid Loss: 3.23  Valid NDCG: 0.6301
+2021-04-18 22:47:32,638 - TrainModel.py[line:124] - INFO: epoch 7 valid 结束。
+2021-04-18 22:47:32,640 - main_train_test.py[line:127] - INFO: epoch 8 训练数据生成开始。。。
+2021-04-18 22:47:32,641 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 22:49:11,198 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 22:49:11,288 - main_train_test.py[line:139] - INFO: epoch 8 训练数据生成完毕
+2021-04-18 22:49:11,289 - main_train_test.py[line:140] - INFO: epoch 8 验证数据生成开始。。。
+2021-04-18 22:49:11,289 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 22:49:53,136 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 22:49:53,140 - main_train_test.py[line:152] - INFO: epoch 8 验证数据生成完毕
+2021-04-18 22:49:53,140 - TrainModel.py[line:38] - INFO: epoch %d 训练开始。。。
+2021-04-18 22:52:09,121 - TrainModel.py[line:76] - INFO: epoch 8 训练结束
+2021-04-18 22:52:09,122 - TrainModel.py[line:80] - INFO: epoch 8 valid 开始。。。
+2021-04-18 22:52:10,619 - TrainModel.py[line:109] - INFO: UPDATE!!!
+2021-04-18 22:52:10,620 - TrainModel.py[line:115] - INFO: Epoch: 8 (137.5s)  LR: 0.00099 Train Loss: 2.38  Valid Loss: 3.24  Valid NDCG: 0.6493
+2021-04-18 22:52:10,620 - TrainModel.py[line:124] - INFO: epoch 8 valid 结束。
+2021-04-18 22:52:10,623 - main_train_test.py[line:127] - INFO: epoch 9 训练数据生成开始。。。
+2021-04-18 22:52:10,623 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 22:53:34,664 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 22:53:34,779 - main_train_test.py[line:139] - INFO: epoch 9 训练数据生成完毕
+2021-04-18 22:53:34,780 - main_train_test.py[line:140] - INFO: epoch 9 验证数据生成开始。。。
+2021-04-18 22:53:34,780 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 22:54:25,906 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 22:54:25,911 - main_train_test.py[line:152] - INFO: epoch 9 验证数据生成完毕
+2021-04-18 22:54:25,911 - TrainModel.py[line:38] - INFO: epoch %d 训练开始。。。
+2021-04-18 22:56:43,673 - TrainModel.py[line:76] - INFO: epoch 9 训练结束
+2021-04-18 22:56:43,673 - TrainModel.py[line:80] - INFO: epoch 9 valid 开始。。。
+2021-04-18 22:56:45,052 - TrainModel.py[line:109] - INFO: UPDATE!!!
+2021-04-18 22:56:45,053 - TrainModel.py[line:115] - INFO: Epoch: 9 (139.1s)  LR: 0.00095 Train Loss: 2.17  Valid Loss: 2.47  Valid NDCG: 0.7415
+2021-04-18 22:56:45,053 - TrainModel.py[line:124] - INFO: epoch 9 valid 结束。
+2021-04-18 22:56:45,056 - main_train_test.py[line:127] - INFO: epoch 10 训练数据生成开始。。。
+2021-04-18 22:56:45,056 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 22:58:10,160 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 22:58:10,271 - main_train_test.py[line:139] - INFO: epoch 10 训练数据生成完毕
+2021-04-18 22:58:10,271 - main_train_test.py[line:140] - INFO: epoch 10 验证数据生成开始。。。
+2021-04-18 22:58:10,271 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 22:58:55,504 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 22:58:55,510 - main_train_test.py[line:152] - INFO: epoch 10 验证数据生成完毕
+2021-04-18 22:58:55,511 - TrainModel.py[line:38] - INFO: epoch %d 训练开始。。。
+2021-04-18 23:01:11,252 - TrainModel.py[line:76] - INFO: epoch 10 训练结束
+2021-04-18 23:01:11,252 - TrainModel.py[line:80] - INFO: epoch 10 valid 开始。。。
+2021-04-18 23:01:12,686 - TrainModel.py[line:115] - INFO: Epoch: 10 (137.2s)  LR: 0.00090 Train Loss: 2.20  Valid Loss: 2.77  Valid NDCG: 0.7020
+2021-04-18 23:01:12,687 - TrainModel.py[line:124] - INFO: epoch 10 valid 结束。
+2021-04-18 23:01:12,689 - main_train_test.py[line:127] - INFO: epoch 11 训练数据生成开始。。。
+2021-04-18 23:01:12,689 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 23:02:38,411 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 23:02:38,487 - main_train_test.py[line:139] - INFO: epoch 11 训练数据生成完毕
+2021-04-18 23:02:38,487 - main_train_test.py[line:140] - INFO: epoch 11 验证数据生成开始。。。
+2021-04-18 23:02:38,487 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 23:03:30,756 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 23:03:30,766 - main_train_test.py[line:152] - INFO: epoch 11 验证数据生成完毕
+2021-04-18 23:03:30,766 - TrainModel.py[line:38] - INFO: epoch %d 训练开始。。。
+2021-04-18 23:05:46,752 - TrainModel.py[line:76] - INFO: epoch 11 训练结束
+2021-04-18 23:05:46,753 - TrainModel.py[line:80] - INFO: epoch 11 valid 开始。。。
+2021-04-18 23:05:48,267 - TrainModel.py[line:109] - INFO: UPDATE!!!
+2021-04-18 23:05:48,268 - TrainModel.py[line:115] - INFO: Epoch: 11 (137.5s)  LR: 0.00083 Train Loss: 1.88  Valid Loss: 2.23  Valid NDCG: 0.7647
+2021-04-18 23:05:48,268 - TrainModel.py[line:124] - INFO: epoch 11 valid 结束。
+2021-04-18 23:05:48,273 - main_train_test.py[line:127] - INFO: epoch 12 训练数据生成开始。。。
+2021-04-18 23:05:48,274 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 23:07:26,928 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 23:07:27,044 - main_train_test.py[line:139] - INFO: epoch 12 训练数据生成完毕
+2021-04-18 23:07:27,044 - main_train_test.py[line:140] - INFO: epoch 12 验证数据生成开始。。。
+2021-04-18 23:07:27,044 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 23:08:05,202 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 23:08:05,212 - main_train_test.py[line:152] - INFO: epoch 12 验证数据生成完毕
+2021-04-18 23:08:05,212 - TrainModel.py[line:38] - INFO: epoch %d 训练开始。。。
+2021-04-18 23:10:19,072 - TrainModel.py[line:76] - INFO: epoch 12 训练结束
+2021-04-18 23:10:19,072 - TrainModel.py[line:80] - INFO: epoch 12 valid 开始。。。
+2021-04-18 23:10:20,288 - TrainModel.py[line:115] - INFO: Epoch: 12 (135.1s)  LR: 0.00075 Train Loss: 1.77  Valid Loss: 2.22  Valid NDCG: 0.7636
+2021-04-18 23:10:20,288 - TrainModel.py[line:124] - INFO: epoch 12 valid 结束。
+2021-04-18 23:10:20,291 - main_train_test.py[line:127] - INFO: epoch 13 训练数据生成开始。。。
+2021-04-18 23:10:20,291 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 23:11:40,209 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 23:11:40,298 - main_train_test.py[line:139] - INFO: epoch 13 训练数据生成完毕
+2021-04-18 23:11:40,299 - main_train_test.py[line:140] - INFO: epoch 13 验证数据生成开始。。。
+2021-04-18 23:11:40,299 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 23:12:46,109 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 23:12:46,116 - main_train_test.py[line:152] - INFO: epoch 13 验证数据生成完毕
+2021-04-18 23:12:46,117 - TrainModel.py[line:38] - INFO: epoch %d 训练开始。。。
+2021-04-18 23:15:04,454 - TrainModel.py[line:76] - INFO: epoch 13 训练结束
+2021-04-18 23:15:04,455 - TrainModel.py[line:80] - INFO: epoch 13 valid 开始。。。
+2021-04-18 23:15:05,814 - TrainModel.py[line:109] - INFO: UPDATE!!!
+2021-04-18 23:15:05,814 - TrainModel.py[line:115] - INFO: Epoch: 13 (139.7s)  LR: 0.00066 Train Loss: 1.57  Valid Loss: 2.06  Valid NDCG: 0.7727
+2021-04-18 23:15:05,815 - TrainModel.py[line:124] - INFO: epoch 13 valid 结束。
+2021-04-18 23:15:05,817 - main_train_test.py[line:127] - INFO: epoch 14 训练数据生成开始。。。
+2021-04-18 23:15:05,817 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 23:16:27,387 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 23:16:27,491 - main_train_test.py[line:139] - INFO: epoch 14 训练数据生成完毕
+2021-04-18 23:16:27,491 - main_train_test.py[line:140] - INFO: epoch 14 验证数据生成开始。。。
+2021-04-18 23:16:27,491 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 23:17:08,978 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 23:17:08,984 - main_train_test.py[line:152] - INFO: epoch 14 验证数据生成完毕
+2021-04-18 23:17:08,984 - TrainModel.py[line:38] - INFO: epoch %d 训练开始。。。
+2021-04-18 23:19:23,466 - TrainModel.py[line:76] - INFO: epoch 14 训练结束
+2021-04-18 23:19:23,466 - TrainModel.py[line:80] - INFO: epoch 14 valid 开始。。。
+2021-04-18 23:19:24,807 - TrainModel.py[line:109] - INFO: UPDATE!!!
+2021-04-18 23:19:24,807 - TrainModel.py[line:115] - INFO: Epoch: 14 (135.8s)  LR: 0.00056 Train Loss: 1.40  Valid Loss: 1.92  Valid NDCG: 0.7934
+2021-04-18 23:19:24,808 - TrainModel.py[line:124] - INFO: epoch 14 valid 结束。
+2021-04-18 23:19:24,813 - main_train_test.py[line:127] - INFO: epoch 15 训练数据生成开始。。。
+2021-04-18 23:19:24,813 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 23:20:43,610 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 23:20:43,693 - main_train_test.py[line:139] - INFO: epoch 15 训练数据生成完毕
+2021-04-18 23:20:43,694 - main_train_test.py[line:140] - INFO: epoch 15 验证数据生成开始。。。
+2021-04-18 23:20:43,694 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 23:21:36,285 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 23:21:36,292 - main_train_test.py[line:152] - INFO: epoch 15 验证数据生成完毕
+2021-04-18 23:21:36,293 - TrainModel.py[line:38] - INFO: epoch %d 训练开始。。。
+2021-04-18 23:23:50,341 - TrainModel.py[line:76] - INFO: epoch 15 训练结束
+2021-04-18 23:23:50,342 - TrainModel.py[line:80] - INFO: epoch 15 valid 开始。。。
+2021-04-18 23:23:51,712 - TrainModel.py[line:109] - INFO: UPDATE!!!
+2021-04-18 23:23:51,713 - TrainModel.py[line:115] - INFO: Epoch: 15 (135.4s)  LR: 0.00046 Train Loss: 1.34  Valid Loss: 1.52  Valid NDCG: 0.8597
+2021-04-18 23:23:51,713 - TrainModel.py[line:124] - INFO: epoch 15 valid 结束。
+2021-04-18 23:23:51,715 - main_train_test.py[line:127] - INFO: epoch 16 训练数据生成开始。。。
+2021-04-18 23:23:51,715 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 23:25:13,840 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 23:25:13,960 - main_train_test.py[line:139] - INFO: epoch 16 训练数据生成完毕
+2021-04-18 23:25:13,960 - main_train_test.py[line:140] - INFO: epoch 16 验证数据生成开始。。。
+2021-04-18 23:25:13,960 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 23:26:07,823 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 23:26:07,833 - main_train_test.py[line:152] - INFO: epoch 16 验证数据生成完毕
+2021-04-18 23:26:07,834 - TrainModel.py[line:38] - INFO: epoch %d 训练开始。。。
+2021-04-18 23:28:22,417 - TrainModel.py[line:76] - INFO: epoch 16 训练结束
+2021-04-18 23:28:22,417 - TrainModel.py[line:80] - INFO: epoch 16 valid 开始。。。
+2021-04-18 23:28:23,878 - TrainModel.py[line:109] - INFO: UPDATE!!!
+2021-04-18 23:28:23,879 - TrainModel.py[line:115] - INFO: Epoch: 16 (136.0s)  LR: 0.00036 Train Loss: 1.15  Valid Loss: 1.31  Valid NDCG: 0.8608
+2021-04-18 23:28:23,879 - TrainModel.py[line:124] - INFO: epoch 16 valid 结束。
+2021-04-18 23:28:23,884 - main_train_test.py[line:127] - INFO: epoch 17 训练数据生成开始。。。
+2021-04-18 23:28:23,884 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 23:29:56,417 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 23:29:56,498 - main_train_test.py[line:139] - INFO: epoch 17 训练数据生成完毕
+2021-04-18 23:29:56,498 - main_train_test.py[line:140] - INFO: epoch 17 验证数据生成开始。。。
+2021-04-18 23:29:56,499 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 23:30:39,403 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 23:30:39,413 - main_train_test.py[line:152] - INFO: epoch 17 验证数据生成完毕
+2021-04-18 23:30:39,413 - TrainModel.py[line:38] - INFO: epoch %d 训练开始。。。
+2021-04-18 23:32:51,790 - TrainModel.py[line:76] - INFO: epoch 17 训练结束
+2021-04-18 23:32:51,790 - TrainModel.py[line:80] - INFO: epoch 17 valid 开始。。。
+2021-04-18 23:32:53,251 - TrainModel.py[line:109] - INFO: UPDATE!!!
+2021-04-18 23:32:53,251 - TrainModel.py[line:115] - INFO: Epoch: 17 (133.8s)  LR: 0.00027 Train Loss: 1.04  Valid Loss: 1.20  Valid NDCG: 0.8922
+2021-04-18 23:32:53,251 - TrainModel.py[line:124] - INFO: epoch 17 valid 结束。
+2021-04-18 23:32:53,254 - main_train_test.py[line:127] - INFO: epoch 18 训练数据生成开始。。。
+2021-04-18 23:32:53,254 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 23:34:14,819 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 23:34:14,931 - main_train_test.py[line:139] - INFO: epoch 18 训练数据生成完毕
+2021-04-18 23:34:14,931 - main_train_test.py[line:140] - INFO: epoch 18 验证数据生成开始。。。
+2021-04-18 23:34:14,931 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 23:35:03,645 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 23:35:03,655 - main_train_test.py[line:152] - INFO: epoch 18 验证数据生成完毕
+2021-04-18 23:35:03,655 - TrainModel.py[line:38] - INFO: epoch %d 训练开始。。。
+2021-04-18 23:37:17,697 - TrainModel.py[line:76] - INFO: epoch 18 训练结束
+2021-04-18 23:37:17,698 - TrainModel.py[line:80] - INFO: epoch 18 valid 开始。。。
+2021-04-18 23:37:18,977 - TrainModel.py[line:115] - INFO: Epoch: 18 (135.3s)  LR: 0.00019 Train Loss: 0.90  Valid Loss: 1.14  Valid NDCG: 0.8834
+2021-04-18 23:37:18,977 - TrainModel.py[line:124] - INFO: epoch 18 valid 结束。
+2021-04-18 23:37:18,979 - main_train_test.py[line:127] - INFO: epoch 19 训练数据生成开始。。。
+2021-04-18 23:37:18,980 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 23:38:47,379 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 23:38:47,491 - main_train_test.py[line:139] - INFO: epoch 19 训练数据生成完毕
+2021-04-18 23:38:47,491 - main_train_test.py[line:140] - INFO: epoch 19 验证数据生成开始。。。
+2021-04-18 23:38:47,491 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 23:39:25,334 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 23:39:25,338 - main_train_test.py[line:152] - INFO: epoch 19 验证数据生成完毕
+2021-04-18 23:39:25,338 - TrainModel.py[line:38] - INFO: epoch %d 训练开始。。。
+2021-04-18 23:41:39,483 - TrainModel.py[line:76] - INFO: epoch 19 训练结束
+2021-04-18 23:41:39,483 - TrainModel.py[line:80] - INFO: epoch 19 valid 开始。。。
+2021-04-18 23:41:40,783 - TrainModel.py[line:109] - INFO: UPDATE!!!
+2021-04-18 23:41:40,784 - TrainModel.py[line:115] - INFO: Epoch: 19 (135.4s)  LR: 0.00012 Train Loss: 0.76  Valid Loss: 1.07  Valid NDCG: 0.8957
+2021-04-18 23:41:40,784 - TrainModel.py[line:124] - INFO: epoch 19 valid 结束。
+2021-04-18 23:41:40,786 - main_train_test.py[line:127] - INFO: epoch 20 训练数据生成开始。。。
+2021-04-18 23:41:40,786 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 23:43:03,699 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 23:43:03,796 - main_train_test.py[line:139] - INFO: epoch 20 训练数据生成完毕
+2021-04-18 23:43:03,796 - main_train_test.py[line:140] - INFO: epoch 20 验证数据生成开始。。。
+2021-04-18 23:43:03,796 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 23:43:51,665 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 23:43:51,673 - main_train_test.py[line:152] - INFO: epoch 20 验证数据生成完毕
+2021-04-18 23:43:51,674 - TrainModel.py[line:38] - INFO: epoch %d 训练开始。。。
+2021-04-18 23:46:05,541 - TrainModel.py[line:76] - INFO: epoch 20 训练结束
+2021-04-18 23:46:05,542 - TrainModel.py[line:80] - INFO: epoch 20 valid 开始。。。
+2021-04-18 23:46:06,664 - TrainModel.py[line:115] - INFO: Epoch: 20 (135.0s)  LR: 0.00006 Train Loss: 0.78  Valid Loss: 1.18  Valid NDCG: 0.8952
+2021-04-18 23:46:06,664 - TrainModel.py[line:124] - INFO: epoch 20 valid 结束。
+2021-04-18 23:46:06,666 - main_train_test.py[line:127] - INFO: epoch 21 训练数据生成开始。。。
+2021-04-18 23:46:06,667 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 23:47:26,093 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 23:47:26,186 - main_train_test.py[line:139] - INFO: epoch 21 训练数据生成完毕
+2021-04-18 23:47:26,186 - main_train_test.py[line:140] - INFO: epoch 21 验证数据生成开始。。。
+2021-04-18 23:47:26,186 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 23:48:14,615 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 23:48:14,626 - main_train_test.py[line:152] - INFO: epoch 21 验证数据生成完毕
+2021-04-18 23:48:14,627 - TrainModel.py[line:38] - INFO: epoch %d 训练开始。。。
+2021-04-18 23:50:28,129 - TrainModel.py[line:76] - INFO: epoch 21 训练结束
+2021-04-18 23:50:28,129 - TrainModel.py[line:80] - INFO: epoch 21 valid 开始。。。
+2021-04-18 23:50:29,271 - TrainModel.py[line:115] - INFO: Epoch: 21 (134.6s)  LR: 0.00002 Train Loss: 0.71  Valid Loss: 1.10  Valid NDCG: 0.8943
+2021-04-18 23:50:29,271 - TrainModel.py[line:124] - INFO: epoch 21 valid 结束。
+2021-04-18 23:50:29,274 - main_train_test.py[line:127] - INFO: epoch 22 训练数据生成开始。。。
+2021-04-18 23:50:29,274 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 23:52:02,218 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 23:52:02,340 - main_train_test.py[line:139] - INFO: epoch 22 训练数据生成完毕
+2021-04-18 23:52:02,340 - main_train_test.py[line:140] - INFO: epoch 22 验证数据生成开始。。。
+2021-04-18 23:52:02,340 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 23:52:47,082 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 23:52:47,089 - main_train_test.py[line:152] - INFO: epoch 22 验证数据生成完毕
+2021-04-18 23:52:47,089 - TrainModel.py[line:38] - INFO: epoch %d 训练开始。。。
+2021-04-18 23:55:01,259 - TrainModel.py[line:76] - INFO: epoch 22 训练结束
+2021-04-18 23:55:01,259 - TrainModel.py[line:80] - INFO: epoch 22 valid 开始。。。
+2021-04-18 23:55:02,719 - TrainModel.py[line:109] - INFO: UPDATE!!!
+2021-04-18 23:55:02,720 - TrainModel.py[line:115] - INFO: Epoch: 22 (135.6s)  LR: 0.00000 Train Loss: 0.74  Valid Loss: 1.01  Valid NDCG: 0.9063
+2021-04-18 23:55:02,720 - TrainModel.py[line:124] - INFO: epoch 22 valid 结束。
+2021-04-18 23:55:02,722 - main_train_test.py[line:127] - INFO: epoch 23 训练数据生成开始。。。
+2021-04-18 23:55:02,723 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 23:56:24,448 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 23:56:24,555 - main_train_test.py[line:139] - INFO: epoch 23 训练数据生成完毕
+2021-04-18 23:56:24,555 - main_train_test.py[line:140] - INFO: epoch 23 验证数据生成开始。。。
+2021-04-18 23:56:24,555 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-18 23:57:23,769 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-18 23:57:23,778 - main_train_test.py[line:152] - INFO: epoch 23 验证数据生成完毕
+2021-04-18 23:57:23,778 - TrainModel.py[line:38] - INFO: epoch %d 训练开始。。。
+2021-04-18 23:59:41,178 - TrainModel.py[line:76] - INFO: epoch 23 训练结束
+2021-04-18 23:59:41,181 - TrainModel.py[line:80] - INFO: epoch 23 valid 开始。。。
+2021-04-18 23:59:42,511 - TrainModel.py[line:115] - INFO: Epoch: 23 (138.7s)  LR: 0.00000 Train Loss: 0.71  Valid Loss: 1.27  Valid NDCG: 0.8641
+2021-04-18 23:59:42,511 - TrainModel.py[line:124] - INFO: epoch 23 valid 结束。
+2021-04-18 23:59:42,513 - main_train_test.py[line:127] - INFO: epoch 24 训练数据生成开始。。。
+2021-04-18 23:59:42,513 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-19 00:01:10,123 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-19 00:01:10,233 - main_train_test.py[line:139] - INFO: epoch 24 训练数据生成完毕
+2021-04-19 00:01:10,233 - main_train_test.py[line:140] - INFO: epoch 24 验证数据生成开始。。。
+2021-04-19 00:01:10,233 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-19 00:01:53,822 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-19 00:01:53,828 - main_train_test.py[line:152] - INFO: epoch 24 验证数据生成完毕
+2021-04-19 00:01:53,829 - TrainModel.py[line:38] - INFO: epoch %d 训练开始。。。
+2021-04-19 00:04:06,908 - TrainModel.py[line:76] - INFO: epoch 24 训练结束
+2021-04-19 00:04:06,908 - TrainModel.py[line:80] - INFO: epoch 24 valid 开始。。。
+2021-04-19 00:04:08,001 - TrainModel.py[line:115] - INFO: Epoch: 24 (134.2s)  LR: 0.00003 Train Loss: 0.74  Valid Loss: 1.14  Valid NDCG: 0.9030
+2021-04-19 00:04:08,002 - TrainModel.py[line:124] - INFO: epoch 24 valid 结束。
+2021-04-19 00:04:08,004 - main_train_test.py[line:127] - INFO: epoch 25 训练数据生成开始。。。
+2021-04-19 00:04:08,004 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-19 00:05:38,941 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-19 00:05:39,020 - main_train_test.py[line:139] - INFO: epoch 25 训练数据生成完毕
+2021-04-19 00:05:39,020 - main_train_test.py[line:140] - INFO: epoch 25 验证数据生成开始。。。
+2021-04-19 00:05:39,020 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-19 00:06:28,464 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-19 00:06:28,470 - main_train_test.py[line:152] - INFO: epoch 25 验证数据生成完毕
+2021-04-19 00:06:28,470 - TrainModel.py[line:38] - INFO: epoch %d 训练开始。。。
+2021-04-19 00:08:44,192 - TrainModel.py[line:76] - INFO: epoch 25 训练结束
+2021-04-19 00:08:44,192 - TrainModel.py[line:80] - INFO: epoch 25 valid 开始。。。
+2021-04-19 00:08:45,371 - TrainModel.py[line:115] - INFO: Epoch: 25 (136.9s)  LR: 0.00007 Train Loss: 0.71  Valid Loss: 1.29  Valid NDCG: 0.8710
+2021-04-19 00:08:45,372 - TrainModel.py[line:124] - INFO: epoch 25 valid 结束。
+2021-04-19 00:08:45,374 - main_train_test.py[line:127] - INFO: epoch 26 训练数据生成开始。。。
+2021-04-19 00:08:45,374 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-19 00:10:20,269 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-19 00:10:20,389 - main_train_test.py[line:139] - INFO: epoch 26 训练数据生成完毕
+2021-04-19 00:10:20,389 - main_train_test.py[line:140] - INFO: epoch 26 验证数据生成开始。。。
+2021-04-19 00:10:20,389 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-19 00:11:06,321 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-19 00:11:06,328 - main_train_test.py[line:152] - INFO: epoch 26 验证数据生成完毕
+2021-04-19 00:11:06,328 - TrainModel.py[line:38] - INFO: epoch %d 训练开始。。。
+2021-04-19 00:13:23,339 - TrainModel.py[line:76] - INFO: epoch 26 训练结束
+2021-04-19 00:13:23,339 - TrainModel.py[line:80] - INFO: epoch 26 valid 开始。。。
+2021-04-19 00:13:24,573 - TrainModel.py[line:115] - INFO: Epoch: 26 (138.2s)  LR: 0.00012 Train Loss: 0.68  Valid Loss: 1.24  Valid NDCG: 0.8741
+2021-04-19 00:13:24,574 - TrainModel.py[line:124] - INFO: epoch 26 valid 结束。
+2021-04-19 00:13:24,576 - main_train_test.py[line:127] - INFO: epoch 27 训练数据生成开始。。。
+2021-04-19 00:13:24,576 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-19 00:14:54,182 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-19 00:14:54,291 - main_train_test.py[line:139] - INFO: epoch 27 训练数据生成完毕
+2021-04-19 00:14:54,292 - main_train_test.py[line:140] - INFO: epoch 27 验证数据生成开始。。。
+2021-04-19 00:14:54,292 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-19 00:15:41,117 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-19 00:15:41,122 - main_train_test.py[line:152] - INFO: epoch 27 验证数据生成完毕
+2021-04-19 00:15:41,122 - TrainModel.py[line:38] - INFO: epoch %d 训练开始。。。
+2021-04-19 00:17:55,984 - TrainModel.py[line:76] - INFO: epoch 27 训练结束
+2021-04-19 00:17:55,985 - TrainModel.py[line:80] - INFO: epoch 27 valid 开始。。。
+2021-04-19 00:17:57,277 - TrainModel.py[line:115] - INFO: Epoch: 27 (136.2s)  LR: 0.00020 Train Loss: 0.67  Valid Loss: 1.23  Valid NDCG: 0.8764
+2021-04-19 00:17:57,277 - TrainModel.py[line:124] - INFO: epoch 27 valid 结束。
+2021-04-19 00:17:57,279 - main_train_test.py[line:127] - INFO: epoch 28 训练数据生成开始。。。
+2021-04-19 00:17:57,279 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-19 00:19:21,470 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-19 00:19:21,582 - main_train_test.py[line:139] - INFO: epoch 28 训练数据生成完毕
+2021-04-19 00:19:21,582 - main_train_test.py[line:140] - INFO: epoch 28 验证数据生成开始。。。
+2021-04-19 00:19:21,582 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-19 00:20:06,033 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-19 00:20:06,039 - main_train_test.py[line:152] - INFO: epoch 28 验证数据生成完毕
+2021-04-19 00:20:06,039 - TrainModel.py[line:38] - INFO: epoch %d 训练开始。。。
+2021-04-19 00:22:19,193 - TrainModel.py[line:76] - INFO: epoch 28 训练结束
+2021-04-19 00:22:19,193 - TrainModel.py[line:80] - INFO: epoch 28 valid 开始。。。
+2021-04-19 00:22:20,565 - TrainModel.py[line:109] - INFO: UPDATE!!!
+2021-04-19 00:22:20,566 - TrainModel.py[line:115] - INFO: Epoch: 28 (134.5s)  LR: 0.00028 Train Loss: 0.62  Valid Loss: 0.79  Valid NDCG: 0.9289
+2021-04-19 00:22:20,566 - TrainModel.py[line:124] - INFO: epoch 28 valid 结束。
+2021-04-19 00:22:20,568 - main_train_test.py[line:127] - INFO: epoch 29 训练数据生成开始。。。
+2021-04-19 00:22:20,568 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-19 00:23:42,394 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-19 00:23:42,488 - main_train_test.py[line:139] - INFO: epoch 29 训练数据生成完毕
+2021-04-19 00:23:42,488 - main_train_test.py[line:140] - INFO: epoch 29 验证数据生成开始。。。
+2021-04-19 00:23:42,488 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-19 00:24:28,255 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-19 00:24:28,265 - main_train_test.py[line:152] - INFO: epoch 29 验证数据生成完毕
+2021-04-19 00:24:28,265 - TrainModel.py[line:38] - INFO: epoch %d 训练开始。。。
+2021-04-19 00:26:43,408 - TrainModel.py[line:76] - INFO: epoch 29 训练结束
+2021-04-19 00:26:43,409 - TrainModel.py[line:80] - INFO: epoch 29 valid 开始。。。
+2021-04-19 00:26:44,618 - TrainModel.py[line:115] - INFO: Epoch: 29 (136.4s)  LR: 0.00038 Train Loss: 0.63  Valid Loss: 1.13  Valid NDCG: 0.8919
+2021-04-19 00:26:44,618 - TrainModel.py[line:124] - INFO: epoch 29 valid 结束。
+2021-04-19 00:26:44,620 - main_train_test.py[line:127] - INFO: epoch 30 训练数据生成开始。。。
+2021-04-19 00:26:44,620 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-19 00:28:09,782 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-19 00:28:09,878 - main_train_test.py[line:139] - INFO: epoch 30 训练数据生成完毕
+2021-04-19 00:28:09,878 - main_train_test.py[line:140] - INFO: epoch 30 验证数据生成开始。。。
+2021-04-19 00:28:09,878 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-19 00:28:49,850 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-19 00:28:49,857 - main_train_test.py[line:152] - INFO: epoch 30 验证数据生成完毕
+2021-04-19 00:28:49,857 - TrainModel.py[line:38] - INFO: epoch %d 训练开始。。。
+2021-04-19 00:31:03,768 - TrainModel.py[line:76] - INFO: epoch 30 训练结束
+2021-04-19 00:31:03,768 - TrainModel.py[line:80] - INFO: epoch 30 valid 开始。。。
+2021-04-19 00:31:04,928 - TrainModel.py[line:115] - INFO: Epoch: 30 (135.1s)  LR: 0.00048 Train Loss: 0.61  Valid Loss: 0.99  Valid NDCG: 0.9065
+2021-04-19 00:31:04,928 - TrainModel.py[line:124] - INFO: epoch 30 valid 结束。
+2021-04-19 00:31:04,930 - main_train_test.py[line:127] - INFO: epoch 31 训练数据生成开始。。。
+2021-04-19 00:31:04,930 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-19 00:32:26,602 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-19 00:32:26,672 - main_train_test.py[line:139] - INFO: epoch 31 训练数据生成完毕
+2021-04-19 00:32:26,673 - main_train_test.py[line:140] - INFO: epoch 31 验证数据生成开始。。。
+2021-04-19 00:32:26,673 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-19 00:33:10,803 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-19 00:33:10,812 - main_train_test.py[line:152] - INFO: epoch 31 验证数据生成完毕
+2021-04-19 00:33:10,812 - TrainModel.py[line:38] - INFO: epoch %d 训练开始。。。
+2021-04-19 00:35:24,993 - TrainModel.py[line:76] - INFO: epoch 31 训练结束
+2021-04-19 00:35:24,993 - TrainModel.py[line:80] - INFO: epoch 31 valid 开始。。。
+2021-04-19 00:35:26,204 - TrainModel.py[line:115] - INFO: Epoch: 31 (135.4s)  LR: 0.00058 Train Loss: 0.60  Valid Loss: 1.01  Valid NDCG: 0.9094
+2021-04-19 00:35:26,204 - TrainModel.py[line:124] - INFO: epoch 31 valid 结束。
+2021-04-19 00:35:26,286 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-19 00:37:09,649 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-19 00:37:09,656 - TestModel.py[line:19] - INFO: last 模型测试开始。。。
+2021-04-19 00:37:21,993 - TestModel.py[line:35] - INFO: last Test NDCG: 0.8489
+2021-04-19 00:37:22,622 - TestModel.py[line:37] - INFO: last Test MRR:  0.7973
+2021-04-19 00:37:22,622 - TestModel.py[line:38] - INFO: last 模型测试结束。
+2021-04-19 00:37:22,738 - main_train_test.py[line:88] - INFO: 多进程采样开始。。。
+2021-04-19 00:38:13,256 - main_train_test.py[line:115] - INFO: 多进程采样结束。
+2021-04-19 00:38:13,290 - TestModel.py[line:19] - INFO: best 模型测试开始。。。
+2021-04-19 00:38:26,066 - TestModel.py[line:35] - INFO: best Test NDCG: 0.8590
+2021-04-19 00:38:26,690 - TestModel.py[line:37] - INFO: best Test MRR:  0.8047
+2021-04-19 00:38:26,690 - TestModel.py[line:38] - INFO: best 模型测试结束。

@@ -1,0 +1,15 @@
+2021-03-29 14:24:33,991 - __init__.py[line:224] - DEBUG: CACHEDIR=/data1/huangzg/.cache/matplotlib
+2021-03-29 14:24:33,998 - font_manager.py[line:1435] - DEBUG: Using fontManager instance from /data1/huangzg/.cache/matplotlib/fontlist-v330.json
+2021-03-29 14:24:34,638 - pyplot.py[line:290] - DEBUG: Loaded backend module://backend_interagg version unknown.
+2021-03-29 14:24:35,035 - __init__.py[line:47] - DEBUG: Creating converter from 7 to 5
+2021-03-29 14:24:35,036 - __init__.py[line:47] - DEBUG: Creating converter from 5 to 7
+2021-03-29 14:24:35,036 - __init__.py[line:47] - DEBUG: Creating converter from 7 to 5
+2021-03-29 14:24:35,037 - __init__.py[line:47] - DEBUG: Creating converter from 5 to 7
+2021-03-29 14:24:36,192 - train_paper_venue_single_full.py[line:20] - INFO: 流程开始。。。
+2021-03-29 14:24:36,205 - train_paper_venue_single_full.py[line:96] - INFO: 读取数据开始。。。
+2021-03-29 14:25:26,878 - train_paper_venue_single_full.py[line:98] - INFO: 读取数据完毕。
+2021-03-29 14:25:32,529 - train_paper_venue_single_full.py[line:151] - INFO: 数据类型 train 共 256 个节点
+2021-03-29 14:25:32,530 - train_paper_venue_single_full.py[line:151] - INFO: 数据类型 val 共 256 个节点
+2021-03-29 14:25:32,532 - train_paper_venue_single_full.py[line:151] - INFO: 数据类型 test 共 256 个节点
+2021-03-29 14:25:32,533 - train_paper_venue_single_full.py[line:157] - INFO: 数据类型 train 子图采集开始。。。
+2021-03-29 14:25:32,533 - SubgraphToTorch.py[line:104] - INFO: 开始子图抽取与组装模块处理。。。

@@ -1,0 +1,18 @@
+2021-03-29 22:09:33,411 - __init__.py[line:224] - DEBUG: CACHEDIR=/data1/huangzg/.cache/matplotlib
+2021-03-29 22:09:33,415 - font_manager.py[line:1435] - DEBUG: Using fontManager instance from /data1/huangzg/.cache/matplotlib/fontlist-v330.json
+2021-03-29 22:09:33,876 - pyplot.py[line:290] - DEBUG: Loaded backend module://backend_interagg version unknown.
+2021-03-29 22:09:34,032 - __init__.py[line:47] - DEBUG: Creating converter from 7 to 5
+2021-03-29 22:09:34,033 - __init__.py[line:47] - DEBUG: Creating converter from 5 to 7
+2021-03-29 22:09:34,033 - __init__.py[line:47] - DEBUG: Creating converter from 7 to 5
+2021-03-29 22:09:34,033 - __init__.py[line:47] - DEBUG: Creating converter from 5 to 7
+2021-03-29 22:09:34,607 - __init__.py[line:29] - DEBUG: [ray] Forcing OMP_NUM_THREADS=1 to avoid performance degradation with many workers (issue #6998). You can override this by explicitly setting OMP_NUM_THREADS.
+2021-03-29 22:09:34,718 - train_paper_venue_single_full.py[line:20] - INFO: 流程开始。。。
+2021-03-29 22:09:34,721 - train_paper_venue_single_full.py[line:96] - INFO: 读取数据开始。。。
+2021-03-29 22:10:45,175 - train_paper_venue_single_full.py[line:98] - INFO: 读取数据完毕。
+2021-03-29 22:10:55,190 - train_paper_venue_single_full.py[line:151] - INFO: 数据类型 train 共 256 个节点
+2021-03-29 22:10:55,191 - train_paper_venue_single_full.py[line:151] - INFO: 数据类型 val 共 256 个节点
+2021-03-29 22:10:55,193 - train_paper_venue_single_full.py[line:151] - INFO: 数据类型 test 共 256 个节点
+2021-03-29 22:10:55,193 - train_paper_venue_single_full.py[line:157] - INFO: 数据类型 train 子图采集开始。。。
+2021-03-29 22:10:55,193 - SubgraphToTorch.py[line:104] - INFO: 开始子图抽取与组装模块处理。。。
+2021-03-29 22:11:06,836 - worker.py[line:619] - DEBUG: Automatically increasing RLIMIT_NOFILE to max value of 4096
+2021-03-29 22:12:37,696 - SubgraphToTorch.py[line:440] - INFO: 第 0 个节点处理开始。。。

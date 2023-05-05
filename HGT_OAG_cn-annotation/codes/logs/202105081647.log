@@ -1,0 +1,14 @@
+2021-05-08 16:48:03,403 - ReadData.py[line:23] - INFO: 读取数据开始。。。
+2021-05-08 16:48:56,220 - ReadData.py[line:25] - INFO: 读取数据完毕。
+2021-05-08 16:49:01,890 - ReadData.py[line:94] - INFO: 数据类型 train 共 148566 个节点
+2021-05-08 16:49:01,891 - ReadData.py[line:94] - INFO: 数据类型 val 共 33744 个节点
+2021-05-08 16:49:01,893 - ReadData.py[line:94] - INFO: 数据类型 test 共 46794 个节点
+2021-05-08 16:49:04,000 - main_train_test.py[line:144] - INFO: epoch 0 训练数据生成开始。。。
+2021-05-08 16:49:04,000 - main_train_test.py[line:105] - INFO: 多进程采样开始。。。
+2021-05-08 16:50:19,470 - main_train_test.py[line:132] - INFO: 多进程采样结束。
+2021-05-08 16:50:19,473 - main_train_test.py[line:156] - INFO: epoch 0 训练数据生成完毕
+2021-05-08 16:50:19,473 - main_train_test.py[line:157] - INFO: epoch 0 验证数据生成开始。。。
+2021-05-08 16:50:19,473 - main_train_test.py[line:105] - INFO: 多进程采样开始。。。
+2021-05-08 16:51:11,484 - main_train_test.py[line:132] - INFO: 多进程采样结束。
+2021-05-08 16:51:11,488 - main_train_test.py[line:169] - INFO: epoch 0 验证数据生成完毕
+2021-05-08 16:51:11,488 - TrainModel.py[line:38] - INFO: epoch 0 训练开始。。。

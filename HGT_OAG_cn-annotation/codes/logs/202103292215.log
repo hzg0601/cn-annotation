@@ -1,0 +1,10 @@
+2021-03-29 22:15:13,966 - __init__.py[line:224] - DEBUG: CACHEDIR=/data1/huangzg/.cache/matplotlib
+2021-03-29 22:15:13,971 - font_manager.py[line:1435] - DEBUG: Using fontManager instance from /data1/huangzg/.cache/matplotlib/fontlist-v330.json
+2021-03-29 22:15:14,403 - pyplot.py[line:290] - DEBUG: Loaded backend module://backend_interagg version unknown.
+2021-03-29 22:15:14,487 - __init__.py[line:47] - DEBUG: Creating converter from 7 to 5
+2021-03-29 22:15:14,487 - __init__.py[line:47] - DEBUG: Creating converter from 5 to 7
+2021-03-29 22:15:14,488 - __init__.py[line:47] - DEBUG: Creating converter from 7 to 5
+2021-03-29 22:15:14,488 - __init__.py[line:47] - DEBUG: Creating converter from 5 to 7
+2021-03-29 22:15:14,923 - __init__.py[line:29] - DEBUG: [ray] Forcing OMP_NUM_THREADS=1 to avoid performance degradation with many workers (issue #6998). You can override this by explicitly setting OMP_NUM_THREADS.
+2021-03-29 22:15:14,997 - train_paper_venue_single_full.py[line:20] - INFO: 流程开始。。。
+2021-03-29 22:15:14,999 - train_paper_venue_single_full.py[line:96] - INFO: 读取数据开始。。。

@@ -1,0 +1,12 @@
+.idea/* 
+__pycache__/*
+notebooks/.ipynb_checkpoints/*
+log/*
+data/node_classification/foodweb/.ipynb_checkpoints/*
+data/link_prediction/celegans_small/.ipynb_checkpoints/
+models/__pycache__/*
+*pyc
+/.idea
+*.log 
+/data
+

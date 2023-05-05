@@ -1,0 +1,7 @@
+2021-05-08 15:10:45,477 - ReadData.py[line:23] - INFO: 读取数据开始。。。
+2021-05-08 15:11:40,288 - ReadData.py[line:25] - INFO: 读取数据完毕。
+2021-05-08 15:11:46,284 - ReadData.py[line:94] - INFO: 数据类型 train 共 148566 个节点
+2021-05-08 15:11:46,285 - ReadData.py[line:94] - INFO: 数据类型 val 共 33744 个节点
+2021-05-08 15:11:46,286 - ReadData.py[line:94] - INFO: 数据类型 test 共 46794 个节点
+2021-05-08 15:34:18,307 - main_train_test.py[line:138] - INFO: epoch 0 训练数据生成开始。。。
+2021-05-08 15:34:18,308 - main_train_test.py[line:99] - INFO: 多进程采样开始。。。

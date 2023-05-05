@@ -1,0 +1,9 @@
+2021-03-29 16:15:03,013 - __init__.py[line:224] - DEBUG: CACHEDIR=/data1/huangzg/.cache/matplotlib
+2021-03-29 16:15:03,020 - font_manager.py[line:1435] - DEBUG: Using fontManager instance from /data1/huangzg/.cache/matplotlib/fontlist-v330.json
+2021-03-29 16:15:03,360 - pyplot.py[line:290] - DEBUG: Loaded backend module://backend_interagg version unknown.
+2021-03-29 16:15:03,441 - __init__.py[line:47] - DEBUG: Creating converter from 7 to 5
+2021-03-29 16:15:03,442 - __init__.py[line:47] - DEBUG: Creating converter from 5 to 7
+2021-03-29 16:15:03,442 - __init__.py[line:47] - DEBUG: Creating converter from 7 to 5
+2021-03-29 16:15:03,442 - __init__.py[line:47] - DEBUG: Creating converter from 5 to 7
+2021-03-29 16:15:03,908 - train_paper_venue_single_full.py[line:20] - INFO: 流程开始。。。
+2021-03-29 16:15:03,911 - train_paper_venue_single_full.py[line:96] - INFO: 读取数据开始。。。

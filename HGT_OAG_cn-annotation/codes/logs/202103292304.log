@@ -1,0 +1,3 @@
+2021-03-29 23:04:52,697 - __init__.py[line:224] - DEBUG: CACHEDIR=/data1/huangzg/.cache/matplotlib
+2021-03-29 23:04:52,701 - font_manager.py[line:1435] - DEBUG: Using fontManager instance from /data1/huangzg/.cache/matplotlib/fontlist-v330.json
+2021-03-29 23:04:53,006 - pyplot.py[line:290] - DEBUG: Loaded backend module://backend_interagg version unknown.

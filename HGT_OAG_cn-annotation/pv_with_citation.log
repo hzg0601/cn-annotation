@@ -1,0 +1,1223 @@
+nohup: ignoring input
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 134.6s
+UPDATE!!!
+Epoch: 1 (214.2s)  LR: 0.00060 Train Loss: 6.43  Valid Loss: 6.61  Valid NDCG: 0.2141
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.1s
+UPDATE!!!
+Epoch: 2 (187.9s)  LR: 0.00070 Train Loss: 5.74  Valid Loss: 5.86  Valid NDCG: 0.2989
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.1s
+UPDATE!!!
+Epoch: 3 (187.8s)  LR: 0.00078 Train Loss: 5.25  Valid Loss: 5.86  Valid NDCG: 0.3124
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 3.8s
+Epoch: 4 (185.7s)  LR: 0.00086 Train Loss: 4.91  Valid Loss: 5.79  Valid NDCG: 0.3068
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 3.6s
+UPDATE!!!
+Epoch: 5 (185.4s)  LR: 0.00092 Train Loss: 4.78  Valid Loss: 5.66  Valid NDCG: 0.3161
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 3.8s
+UPDATE!!!
+Epoch: 6 (181.4s)  LR: 0.00097 Train Loss: 4.60  Valid Loss: 5.67  Valid NDCG: 0.3405
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 3.8s
+UPDATE!!!
+Epoch: 7 (178.2s)  LR: 0.00099 Train Loss: 4.39  Valid Loss: 5.47  Valid NDCG: 0.3612
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.0s
+UPDATE!!!
+Epoch: 8 (180.1s)  LR: 0.00100 Train Loss: 4.22  Valid Loss: 5.27  Valid NDCG: 0.3675
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.0s
+UPDATE!!!
+Epoch: 9 (198.5s)  LR: 0.00099 Train Loss: 4.12  Valid Loss: 4.97  Valid NDCG: 0.4098
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 3.7s
+Epoch: 10 (181.1s)  LR: 0.00095 Train Loss: 4.01  Valid Loss: 5.33  Valid NDCG: 0.3943
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 3.6s
+Epoch: 11 (197.3s)  LR: 0.00090 Train Loss: 3.93  Valid Loss: 5.16  Valid NDCG: 0.3958
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 3.7s
+UPDATE!!!
+Epoch: 12 (183.6s)  LR: 0.00083 Train Loss: 3.81  Valid Loss: 4.97  Valid NDCG: 0.4153
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+UPDATE!!!
+Epoch: 13 (184.5s)  LR: 0.00075 Train Loss: 3.81  Valid Loss: 4.85  Valid NDCG: 0.4508
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+Epoch: 14 (186.9s)  LR: 0.00066 Train Loss: 3.66  Valid Loss: 4.79  Valid NDCG: 0.4397
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 3.9s
+Epoch: 15 (215.8s)  LR: 0.00056 Train Loss: 3.60  Valid Loss: 4.74  Valid NDCG: 0.4386
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.0s
+Epoch: 16 (193.9s)  LR: 0.00046 Train Loss: 3.49  Valid Loss: 4.80  Valid NDCG: 0.4405
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.1s
+UPDATE!!!
+Epoch: 17 (201.4s)  LR: 0.00036 Train Loss: 3.45  Valid Loss: 4.52  Valid NDCG: 0.4801
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+Epoch: 18 (189.2s)  LR: 0.00027 Train Loss: 3.43  Valid Loss: 4.98  Valid NDCG: 0.4163
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 19 (184.0s)  LR: 0.00019 Train Loss: 3.47  Valid Loss: 4.55  Valid NDCG: 0.4428
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 3.9s
+Epoch: 20 (231.2s)  LR: 0.00012 Train Loss: 3.40  Valid Loss: 4.70  Valid NDCG: 0.4664
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 7.4s
+UPDATE!!!
+Epoch: 21 (232.0s)  LR: 0.00006 Train Loss: 3.45  Valid Loss: 4.37  Valid NDCG: 0.4920
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 6.1s
+Epoch: 22 (222.8s)  LR: 0.00002 Train Loss: 3.46  Valid Loss: 4.27  Valid NDCG: 0.4821
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 23 (199.8s)  LR: 0.00000 Train Loss: 3.49  Valid Loss: 4.84  Valid NDCG: 0.4211
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.5s
+Epoch: 24 (199.6s)  LR: 0.00000 Train Loss: 3.46  Valid Loss: 4.48  Valid NDCG: 0.4874
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 25 (194.7s)  LR: 0.00003 Train Loss: 3.41  Valid Loss: 4.44  Valid NDCG: 0.4544
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+Epoch: 26 (204.0s)  LR: 0.00007 Train Loss: 3.42  Valid Loss: 4.50  Valid NDCG: 0.4764
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 27 (192.9s)  LR: 0.00012 Train Loss: 3.41  Valid Loss: 4.35  Valid NDCG: 0.4887
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 28 (192.4s)  LR: 0.00020 Train Loss: 3.35  Valid Loss: 4.55  Valid NDCG: 0.4490
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.5s
+Epoch: 29 (187.1s)  LR: 0.00028 Train Loss: 3.28  Valid Loss: 4.59  Valid NDCG: 0.4539
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+Epoch: 30 (192.0s)  LR: 0.00038 Train Loss: 3.29  Valid Loss: 4.71  Valid NDCG: 0.4622
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 31 (189.4s)  LR: 0.00048 Train Loss: 3.25  Valid Loss: 4.42  Valid NDCG: 0.4880
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 32 (199.2s)  LR: 0.00058 Train Loss: 3.22  Valid Loss: 4.77  Valid NDCG: 0.4488
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.5s
+Epoch: 33 (204.3s)  LR: 0.00067 Train Loss: 3.25  Valid Loss: 4.53  Valid NDCG: 0.4303
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+Epoch: 34 (194.3s)  LR: 0.00076 Train Loss: 3.17  Valid Loss: 4.44  Valid NDCG: 0.4690
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 35 (216.5s)  LR: 0.00084 Train Loss: 3.18  Valid Loss: 4.59  Valid NDCG: 0.4641
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 5.2s
+Epoch: 36 (194.7s)  LR: 0.00091 Train Loss: 3.22  Valid Loss: 4.59  Valid NDCG: 0.4802
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 37 (210.2s)  LR: 0.00096 Train Loss: 3.20  Valid Loss: 4.93  Valid NDCG: 0.4127
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 38 (200.3s)  LR: 0.00099 Train Loss: 3.19  Valid Loss: 4.54  Valid NDCG: 0.4653
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.5s
+Epoch: 39 (202.0s)  LR: 0.00100 Train Loss: 3.16  Valid Loss: 4.91  Valid NDCG: 0.4465
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.5s
+Epoch: 40 (196.7s)  LR: 0.00099 Train Loss: 3.24  Valid Loss: 4.84  Valid NDCG: 0.4272
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 41 (206.3s)  LR: 0.00096 Train Loss: 3.24  Valid Loss: 4.96  Valid NDCG: 0.4388
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.5s
+Epoch: 42 (205.7s)  LR: 0.00092 Train Loss: 3.10  Valid Loss: 4.44  Valid NDCG: 0.4665
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.5s
+Epoch: 43 (184.9s)  LR: 0.00085 Train Loss: 3.09  Valid Loss: 4.55  Valid NDCG: 0.4749
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 44 (196.7s)  LR: 0.00077 Train Loss: 3.04  Valid Loss: 4.60  Valid NDCG: 0.4702
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 45 (205.2s)  LR: 0.00068 Train Loss: 3.04  Valid Loss: 4.89  Valid NDCG: 0.4378
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 46 (204.9s)  LR: 0.00059 Train Loss: 3.00  Valid Loss: 4.42  Valid NDCG: 0.4817
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 5.2s
+UPDATE!!!
+Epoch: 47 (200.4s)  LR: 0.00049 Train Loss: 2.97  Valid Loss: 4.20  Valid NDCG: 0.4934
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.5s
+Epoch: 48 (201.3s)  LR: 0.00039 Train Loss: 2.90  Valid Loss: 4.69  Valid NDCG: 0.4805
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.5s
+Epoch: 49 (193.2s)  LR: 0.00029 Train Loss: 2.94  Valid Loss: 4.29  Valid NDCG: 0.4813
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.7s
+UPDATE!!!
+Epoch: 50 (200.1s)  LR: 0.00021 Train Loss: 2.96  Valid Loss: 4.08  Valid NDCG: 0.5239
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 51 (199.3s)  LR: 0.00013 Train Loss: 2.93  Valid Loss: 4.40  Valid NDCG: 0.4940
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 52 (205.8s)  LR: 0.00007 Train Loss: 2.97  Valid Loss: 4.66  Valid NDCG: 0.4734
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.1s
+Epoch: 53 (194.9s)  LR: 0.00003 Train Loss: 3.00  Valid Loss: 4.48  Valid NDCG: 0.4988
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+UPDATE!!!
+Epoch: 54 (196.4s)  LR: 0.00001 Train Loss: 3.00  Valid Loss: 3.90  Valid NDCG: 0.5330
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 55 (200.2s)  LR: 0.00000 Train Loss: 2.98  Valid Loss: 4.32  Valid NDCG: 0.4966
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 56 (193.8s)  LR: 0.00002 Train Loss: 2.98  Valid Loss: 4.22  Valid NDCG: 0.5216
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+UPDATE!!!
+Epoch: 57 (189.4s)  LR: 0.00005 Train Loss: 2.99  Valid Loss: 3.84  Valid NDCG: 0.5651
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 58 (190.0s)  LR: 0.00011 Train Loss: 2.93  Valid Loss: 3.79  Valid NDCG: 0.5284
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.5s
+Epoch: 59 (203.0s)  LR: 0.00018 Train Loss: 2.88  Valid Loss: 4.07  Valid NDCG: 0.5385
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 60 (196.5s)  LR: 0.00026 Train Loss: 2.87  Valid Loss: 3.97  Valid NDCG: 0.5498
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 61 (191.7s)  LR: 0.00035 Train Loss: 2.85  Valid Loss: 4.40  Valid NDCG: 0.4835
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 62 (192.6s)  LR: 0.00045 Train Loss: 2.78  Valid Loss: 4.35  Valid NDCG: 0.4855
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.5s
+Epoch: 63 (204.3s)  LR: 0.00055 Train Loss: 2.78  Valid Loss: 4.45  Valid NDCG: 0.5006
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.5s
+Epoch: 64 (204.8s)  LR: 0.00065 Train Loss: 2.80  Valid Loss: 4.25  Valid NDCG: 0.5122
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 65 (198.6s)  LR: 0.00074 Train Loss: 2.75  Valid Loss: 4.31  Valid NDCG: 0.4979
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 66 (205.7s)  LR: 0.00082 Train Loss: 2.75  Valid Loss: 4.42  Valid NDCG: 0.4876
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.8s
+Epoch: 67 (202.9s)  LR: 0.00089 Train Loss: 2.78  Valid Loss: 4.34  Valid NDCG: 0.5000
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 68 (209.9s)  LR: 0.00095 Train Loss: 2.78  Valid Loss: 5.22  Valid NDCG: 0.4423
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.9s
+Epoch: 69 (195.5s)  LR: 0.00098 Train Loss: 2.78  Valid Loss: 4.57  Valid NDCG: 0.4981
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 70 (192.9s)  LR: 0.00100 Train Loss: 2.83  Valid Loss: 4.47  Valid NDCG: 0.4729
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 71 (202.2s)  LR: 0.00100 Train Loss: 2.79  Valid Loss: 4.73  Valid NDCG: 0.4614
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+Epoch: 72 (180.7s)  LR: 0.00097 Train Loss: 2.77  Valid Loss: 4.62  Valid NDCG: 0.4762
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+Epoch: 73 (194.2s)  LR: 0.00093 Train Loss: 2.75  Valid Loss: 4.71  Valid NDCG: 0.4645
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 74 (196.2s)  LR: 0.00087 Train Loss: 2.76  Valid Loss: 4.44  Valid NDCG: 0.4695
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 75 (193.4s)  LR: 0.00079 Train Loss: 2.72  Valid Loss: 4.77  Valid NDCG: 0.4458
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+Epoch: 76 (190.7s)  LR: 0.00071 Train Loss: 2.68  Valid Loss: 4.69  Valid NDCG: 0.4926
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.1s
+Epoch: 77 (195.9s)  LR: 0.00061 Train Loss: 2.69  Valid Loss: 4.59  Valid NDCG: 0.4992
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 78 (199.3s)  LR: 0.00051 Train Loss: 2.69  Valid Loss: 4.76  Valid NDCG: 0.4694
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 79 (188.3s)  LR: 0.00041 Train Loss: 2.67  Valid Loss: 4.53  Valid NDCG: 0.4818
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+Epoch: 80 (195.2s)  LR: 0.00032 Train Loss: 2.62  Valid Loss: 4.32  Valid NDCG: 0.5071
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.5s
+Epoch: 81 (195.6s)  LR: 0.00023 Train Loss: 2.63  Valid Loss: 4.06  Valid NDCG: 0.5367
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 82 (196.8s)  LR: 0.00015 Train Loss: 2.64  Valid Loss: 4.29  Valid NDCG: 0.5061
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.1s
+Epoch: 83 (199.1s)  LR: 0.00009 Train Loss: 2.69  Valid Loss: 3.85  Valid NDCG: 0.5558
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+Epoch: 84 (191.8s)  LR: 0.00004 Train Loss: 2.69  Valid Loss: 4.27  Valid NDCG: 0.5302
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.1s
+Epoch: 85 (196.3s)  LR: 0.00001 Train Loss: 2.72  Valid Loss: 3.98  Valid NDCG: 0.5475
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+Epoch: 86 (200.5s)  LR: 0.00000 Train Loss: 2.71  Valid Loss: 4.19  Valid NDCG: 0.5100
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 87 (194.6s)  LR: 0.00001 Train Loss: 2.76  Valid Loss: 4.05  Valid NDCG: 0.5501
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 88 (193.3s)  LR: 0.00004 Train Loss: 2.71  Valid Loss: 4.37  Valid NDCG: 0.4907
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.6s
+Epoch: 89 (196.5s)  LR: 0.00009 Train Loss: 2.69  Valid Loss: 4.10  Valid NDCG: 0.5216
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.6s
+Epoch: 90 (185.7s)  LR: 0.00016 Train Loss: 2.67  Valid Loss: 4.18  Valid NDCG: 0.5189
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+UPDATE!!!
+Epoch: 91 (210.6s)  LR: 0.00024 Train Loss: 2.58  Valid Loss: 3.82  Valid NDCG: 0.5669
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+Epoch: 92 (248.9s)  LR: 0.00033 Train Loss: 2.55  Valid Loss: 4.01  Valid NDCG: 0.5154
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+Epoch: 93 (200.8s)  LR: 0.00043 Train Loss: 2.52  Valid Loss: 4.37  Valid NDCG: 0.5221
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.6s
+Epoch: 94 (193.6s)  LR: 0.00053 Train Loss: 2.48  Valid Loss: 4.07  Valid NDCG: 0.5035
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 95 (190.7s)  LR: 0.00062 Train Loss: 2.53  Valid Loss: 4.64  Valid NDCG: 0.4774
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+Epoch: 96 (196.9s)  LR: 0.00072 Train Loss: 2.50  Valid Loss: 4.25  Valid NDCG: 0.4889
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 97 (195.4s)  LR: 0.00080 Train Loss: 2.48  Valid Loss: 4.39  Valid NDCG: 0.5292
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 98 (196.5s)  LR: 0.00088 Train Loss: 2.47  Valid Loss: 4.54  Valid NDCG: 0.5025
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 99 (243.0s)  LR: 0.00094 Train Loss: 2.50  Valid Loss: 4.52  Valid NDCG: 0.4585
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 100 (196.9s)  LR: 0.00098 Train Loss: 2.52  Valid Loss: 4.45  Valid NDCG: 0.5021
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 101 (190.7s)  LR: 0.00100 Train Loss: 2.49  Valid Loss: 4.87  Valid NDCG: 0.5007
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+Epoch: 102 (197.3s)  LR: 0.00100 Train Loss: 2.52  Valid Loss: 5.04  Valid NDCG: 0.4718
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 103 (195.5s)  LR: 0.00098 Train Loss: 2.51  Valid Loss: 4.97  Valid NDCG: 0.4274
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 104 (194.7s)  LR: 0.00094 Train Loss: 2.50  Valid Loss: 4.27  Valid NDCG: 0.5248
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 105 (195.8s)  LR: 0.00089 Train Loss: 2.55  Valid Loss: 4.56  Valid NDCG: 0.5031
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 106 (197.9s)  LR: 0.00081 Train Loss: 2.48  Valid Loss: 4.58  Valid NDCG: 0.4632
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 107 (192.6s)  LR: 0.00073 Train Loss: 2.44  Valid Loss: 4.36  Valid NDCG: 0.5120
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.1s
+Epoch: 108 (186.0s)  LR: 0.00064 Train Loss: 2.47  Valid Loss: 4.31  Valid NDCG: 0.5392
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.6s
+Epoch: 109 (184.3s)  LR: 0.00054 Train Loss: 2.48  Valid Loss: 4.54  Valid NDCG: 0.4992
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+Epoch: 110 (187.2s)  LR: 0.00044 Train Loss: 2.50  Valid Loss: 4.41  Valid NDCG: 0.5191
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.5s
+Epoch: 111 (192.3s)  LR: 0.00034 Train Loss: 2.47  Valid Loss: 4.58  Valid NDCG: 0.5099
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 112 (184.8s)  LR: 0.00025 Train Loss: 2.46  Valid Loss: 4.42  Valid NDCG: 0.5407
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.5s
+UPDATE!!!
+Epoch: 113 (183.0s)  LR: 0.00017 Train Loss: 2.44  Valid Loss: 4.05  Valid NDCG: 0.5751
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.1s
+Epoch: 114 (184.5s)  LR: 0.00010 Train Loss: 2.44  Valid Loss: 4.03  Valid NDCG: 0.5309
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 115 (196.3s)  LR: 0.00005 Train Loss: 2.49  Valid Loss: 4.10  Valid NDCG: 0.5235
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.0s
+Epoch: 116 (184.6s)  LR: 0.00002 Train Loss: 2.53  Valid Loss: 4.32  Valid NDCG: 0.5252
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+Epoch: 117 (194.5s)  LR: 0.00000 Train Loss: 2.54  Valid Loss: 4.55  Valid NDCG: 0.4861
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.5s
+Epoch: 118 (195.7s)  LR: 0.00001 Train Loss: 2.51  Valid Loss: 4.41  Valid NDCG: 0.5166
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 119 (189.2s)  LR: 0.00003 Train Loss: 2.55  Valid Loss: 4.91  Valid NDCG: 0.4780
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 120 (186.9s)  LR: 0.00008 Train Loss: 2.49  Valid Loss: 4.07  Valid NDCG: 0.5316
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+Epoch: 121 (186.3s)  LR: 0.00014 Train Loss: 2.43  Valid Loss: 4.49  Valid NDCG: 0.5191
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+Epoch: 122 (198.3s)  LR: 0.00022 Train Loss: 2.39  Valid Loss: 4.30  Valid NDCG: 0.5322
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.0s
+Epoch: 123 (191.0s)  LR: 0.00031 Train Loss: 2.38  Valid Loss: 4.16  Valid NDCG: 0.5251
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.1s
+Epoch: 124 (200.3s)  LR: 0.00040 Train Loss: 2.31  Valid Loss: 4.55  Valid NDCG: 0.5092
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 125 (185.0s)  LR: 0.00050 Train Loss: 2.32  Valid Loss: 4.52  Valid NDCG: 0.5043
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 126 (188.7s)  LR: 0.00060 Train Loss: 2.27  Valid Loss: 4.60  Valid NDCG: 0.4930
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 127 (196.7s)  LR: 0.00070 Train Loss: 2.28  Valid Loss: 4.58  Valid NDCG: 0.4838
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 128 (195.7s)  LR: 0.00078 Train Loss: 2.29  Valid Loss: 4.88  Valid NDCG: 0.4963
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.1s
+Epoch: 129 (184.3s)  LR: 0.00086 Train Loss: 2.27  Valid Loss: 4.51  Valid NDCG: 0.5267
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.0s
+Epoch: 130 (180.6s)  LR: 0.00092 Train Loss: 2.35  Valid Loss: 5.00  Valid NDCG: 0.4535
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+Epoch: 131 (191.2s)  LR: 0.00097 Train Loss: 2.29  Valid Loss: 4.74  Valid NDCG: 0.4921
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 132 (184.5s)  LR: 0.00099 Train Loss: 2.30  Valid Loss: 4.70  Valid NDCG: 0.4902
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 133 (200.0s)  LR: 0.00100 Train Loss: 2.31  Valid Loss: 4.32  Valid NDCG: 0.5312
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 134 (203.0s)  LR: 0.00099 Train Loss: 2.38  Valid Loss: 4.50  Valid NDCG: 0.5010
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.7s
+Epoch: 135 (202.7s)  LR: 0.00095 Train Loss: 2.35  Valid Loss: 4.52  Valid NDCG: 0.5124
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.7s
+Epoch: 136 (186.8s)  LR: 0.00090 Train Loss: 2.35  Valid Loss: 4.62  Valid NDCG: 0.4810
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.0s
+Epoch: 137 (182.3s)  LR: 0.00083 Train Loss: 2.34  Valid Loss: 4.41  Valid NDCG: 0.4872
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.0s
+Epoch: 138 (184.2s)  LR: 0.00075 Train Loss: 2.32  Valid Loss: 4.80  Valid NDCG: 0.4747
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 3.8s
+Epoch: 139 (187.3s)  LR: 0.00066 Train Loss: 2.32  Valid Loss: 5.00  Valid NDCG: 0.4708
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+Epoch: 140 (178.3s)  LR: 0.00056 Train Loss: 2.28  Valid Loss: 4.87  Valid NDCG: 0.4786
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.6s
+Epoch: 141 (183.4s)  LR: 0.00046 Train Loss: 2.30  Valid Loss: 4.49  Valid NDCG: 0.5275
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+Epoch: 142 (176.6s)  LR: 0.00036 Train Loss: 2.24  Valid Loss: 4.34  Valid NDCG: 0.5496
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 3.8s
+Epoch: 143 (193.5s)  LR: 0.00027 Train Loss: 2.24  Valid Loss: 4.48  Valid NDCG: 0.5133
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+Epoch: 144 (183.4s)  LR: 0.00019 Train Loss: 2.22  Valid Loss: 4.36  Valid NDCG: 0.5227
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 3.8s
+Epoch: 145 (184.0s)  LR: 0.00012 Train Loss: 2.32  Valid Loss: 4.22  Valid NDCG: 0.5372
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 146 (207.7s)  LR: 0.00006 Train Loss: 2.33  Valid Loss: 4.24  Valid NDCG: 0.5310
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 147 (185.9s)  LR: 0.00002 Train Loss: 2.33  Valid Loss: 4.13  Valid NDCG: 0.5401
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 3.9s
+Epoch: 148 (245.2s)  LR: 0.00000 Train Loss: 2.36  Valid Loss: 4.68  Valid NDCG: 0.4881
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 3.9s
+Epoch: 149 (272.5s)  LR: 0.00000 Train Loss: 2.37  Valid Loss: 4.52  Valid NDCG: 0.5013
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+Epoch: 150 (282.8s)  LR: 0.00003 Train Loss: 2.38  Valid Loss: 4.16  Valid NDCG: 0.5370
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 151 (226.7s)  LR: 0.00007 Train Loss: 2.36  Valid Loss: 4.47  Valid NDCG: 0.4953
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+Epoch: 152 (209.2s)  LR: 0.00012 Train Loss: 2.31  Valid Loss: 4.30  Valid NDCG: 0.5205
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 153 (215.5s)  LR: 0.00020 Train Loss: 2.23  Valid Loss: 4.21  Valid NDCG: 0.5473
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.1s
+Epoch: 154 (207.8s)  LR: 0.00028 Train Loss: 2.22  Valid Loss: 4.39  Valid NDCG: 0.5245
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.1s
+Epoch: 155 (208.6s)  LR: 0.00038 Train Loss: 2.19  Valid Loss: 4.82  Valid NDCG: 0.4907
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.1s
+Epoch: 156 (199.1s)  LR: 0.00048 Train Loss: 2.15  Valid Loss: 4.54  Valid NDCG: 0.4970
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.0s
+Epoch: 157 (186.7s)  LR: 0.00058 Train Loss: 2.08  Valid Loss: 4.55  Valid NDCG: 0.5071
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 158 (192.9s)  LR: 0.00067 Train Loss: 2.10  Valid Loss: 4.73  Valid NDCG: 0.4717
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 159 (197.6s)  LR: 0.00076 Train Loss: 2.10  Valid Loss: 4.49  Valid NDCG: 0.5327
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 160 (187.4s)  LR: 0.00084 Train Loss: 2.09  Valid Loss: 4.75  Valid NDCG: 0.5056
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.1s
+Epoch: 161 (186.9s)  LR: 0.00091 Train Loss: 2.14  Valid Loss: 4.84  Valid NDCG: 0.4776
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 162 (184.3s)  LR: 0.00096 Train Loss: 2.16  Valid Loss: 4.78  Valid NDCG: 0.5002
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 163 (184.0s)  LR: 0.00099 Train Loss: 2.16  Valid Loss: 5.01  Valid NDCG: 0.4762
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+Epoch: 164 (196.0s)  LR: 0.00100 Train Loss: 2.15  Valid Loss: 5.31  Valid NDCG: 0.4563
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 165 (190.7s)  LR: 0.00099 Train Loss: 2.20  Valid Loss: 5.03  Valid NDCG: 0.4427
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.0s
+Epoch: 166 (187.7s)  LR: 0.00096 Train Loss: 2.21  Valid Loss: 4.42  Valid NDCG: 0.5202
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 167 (180.3s)  LR: 0.00092 Train Loss: 2.18  Valid Loss: 4.74  Valid NDCG: 0.5005
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.0s
+Epoch: 168 (190.8s)  LR: 0.00085 Train Loss: 2.23  Valid Loss: 4.91  Valid NDCG: 0.4863
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+Epoch: 169 (203.7s)  LR: 0.00077 Train Loss: 2.14  Valid Loss: 5.11  Valid NDCG: 0.4827
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.5s
+Epoch: 170 (181.8s)  LR: 0.00068 Train Loss: 2.15  Valid Loss: 4.43  Valid NDCG: 0.5311
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.1s
+Epoch: 171 (189.3s)  LR: 0.00059 Train Loss: 2.13  Valid Loss: 4.78  Valid NDCG: 0.5001
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 172 (184.0s)  LR: 0.00049 Train Loss: 2.15  Valid Loss: 5.03  Valid NDCG: 0.4705
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 3.9s
+Epoch: 173 (187.8s)  LR: 0.00039 Train Loss: 2.13  Valid Loss: 4.98  Valid NDCG: 0.4790
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.1s
+Epoch: 174 (189.8s)  LR: 0.00029 Train Loss: 2.12  Valid Loss: 4.44  Valid NDCG: 0.5169
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 175 (194.6s)  LR: 0.00021 Train Loss: 2.13  Valid Loss: 4.86  Valid NDCG: 0.4940
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 176 (184.0s)  LR: 0.00013 Train Loss: 2.15  Valid Loss: 4.60  Valid NDCG: 0.5194
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.0s
+Epoch: 177 (177.2s)  LR: 0.00007 Train Loss: 2.21  Valid Loss: 4.67  Valid NDCG: 0.5113
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 178 (191.9s)  LR: 0.00003 Train Loss: 2.19  Valid Loss: 4.74  Valid NDCG: 0.4968
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.0s
+Epoch: 179 (173.4s)  LR: 0.00001 Train Loss: 2.26  Valid Loss: 4.83  Valid NDCG: 0.4982
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.5s
+Epoch: 180 (181.0s)  LR: 0.00000 Train Loss: 2.25  Valid Loss: 4.53  Valid NDCG: 0.5153
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 3.9s
+Epoch: 181 (189.7s)  LR: 0.00002 Train Loss: 2.21  Valid Loss: 4.49  Valid NDCG: 0.5708
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.5s
+Epoch: 182 (196.6s)  LR: 0.00005 Train Loss: 2.22  Valid Loss: 4.52  Valid NDCG: 0.5155
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 183 (194.8s)  LR: 0.00011 Train Loss: 2.16  Valid Loss: 4.77  Valid NDCG: 0.4776
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.1s
+Epoch: 184 (186.2s)  LR: 0.00018 Train Loss: 2.10  Valid Loss: 4.41  Valid NDCG: 0.5131
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.1s
+Epoch: 185 (180.4s)  LR: 0.00026 Train Loss: 2.07  Valid Loss: 4.93  Valid NDCG: 0.4859
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 186 (185.2s)  LR: 0.00035 Train Loss: 2.03  Valid Loss: 4.55  Valid NDCG: 0.5037
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 187 (184.9s)  LR: 0.00045 Train Loss: 2.00  Valid Loss: 4.46  Valid NDCG: 0.5151
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.4s
+Epoch: 188 (187.3s)  LR: 0.00055 Train Loss: 1.98  Valid Loss: 4.21  Valid NDCG: 0.5280
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.5s
+Epoch: 189 (196.2s)  LR: 0.00065 Train Loss: 1.93  Valid Loss: 4.64  Valid NDCG: 0.5237
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.0s
+Epoch: 190 (188.8s)  LR: 0.00074 Train Loss: 1.98  Valid Loss: 4.45  Valid NDCG: 0.5150
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+Epoch: 191 (182.0s)  LR: 0.00082 Train Loss: 1.98  Valid Loss: 4.65  Valid NDCG: 0.4843
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.1s
+Epoch: 192 (186.8s)  LR: 0.00089 Train Loss: 1.98  Valid Loss: 5.35  Valid NDCG: 0.4294
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.1s
+Epoch: 193 (184.6s)  LR: 0.00095 Train Loss: 1.98  Valid Loss: 5.06  Valid NDCG: 0.4809
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.6s
+Epoch: 194 (190.7s)  LR: 0.00098 Train Loss: 1.96  Valid Loss: 5.16  Valid NDCG: 0.5033
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.3s
+Epoch: 195 (187.9s)  LR: 0.00100 Train Loss: 2.04  Valid Loss: 4.71  Valid NDCG: 0.5107
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.0s
+Epoch: 196 (194.5s)  LR: 0.00100 Train Loss: 2.04  Valid Loss: 5.20  Valid NDCG: 0.4668
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+Epoch: 197 (189.6s)  LR: 0.00097 Train Loss: 2.08  Valid Loss: 4.68  Valid NDCG: 0.5067
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+Epoch: 198 (195.2s)  LR: 0.00093 Train Loss: 2.01  Valid Loss: 4.68  Valid NDCG: 0.5161
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+Epoch: 199 (185.2s)  LR: 0.00087 Train Loss: 2.07  Valid Loss: 5.18  Valid NDCG: 0.4943
+the size of n_batch is:
+336
+the size of one batch is:
+96
+Data Preparation: 4.2s
+Epoch: 200 (181.4s)  LR: 0.00079 Train Loss: 1.97  Valid Loss: 5.12  Valid NDCG: 0.4971
+Last Test NDCG: 0.4309
+Last Test MRR:  0.2595
+Best Test NDCG: 0.4601
+Best Test MRR:  0.2781

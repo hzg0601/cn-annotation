@@ -1,0 +1,437 @@
+nohup: ignoring input
+Data Preparation: 171.5s
+UPDATE!!!
+Epoch: 1 (194.8s)  LR: 0.00060 Train Loss: 6.24  Valid Loss: 6.33  Valid NDCG: 0.2514
+Data Preparation: 2.7s
+UPDATE!!!
+Epoch: 2 (185.9s)  LR: 0.00070 Train Loss: 5.41  Valid Loss: 5.54  Valid NDCG: 0.3453
+Data Preparation: 3.2s
+Epoch: 3 (186.1s)  LR: 0.00078 Train Loss: 4.97  Valid Loss: 5.76  Valid NDCG: 0.3135
+Data Preparation: 2.8s
+Epoch: 4 (185.9s)  LR: 0.00086 Train Loss: 4.76  Valid Loss: 5.94  Valid NDCG: 0.3102
+Data Preparation: 2.8s
+Epoch: 5 (182.8s)  LR: 0.00092 Train Loss: 4.65  Valid Loss: 5.66  Valid NDCG: 0.3201
+Data Preparation: 2.8s
+Epoch: 6 (191.3s)  LR: 0.00097 Train Loss: 4.73  Valid Loss: 5.95  Valid NDCG: 0.3006
+Data Preparation: 3.0s
+UPDATE!!!
+Epoch: 7 (193.6s)  LR: 0.00099 Train Loss: 4.52  Valid Loss: 5.49  Valid NDCG: 0.3571
+Data Preparation: 2.9s
+UPDATE!!!
+Epoch: 8 (190.4s)  LR: 0.00100 Train Loss: 4.36  Valid Loss: 5.30  Valid NDCG: 0.3612
+Data Preparation: 2.8s
+UPDATE!!!
+Epoch: 9 (193.5s)  LR: 0.00099 Train Loss: 4.29  Valid Loss: 5.11  Valid NDCG: 0.3865
+Data Preparation: 2.9s
+Epoch: 10 (191.5s)  LR: 0.00095 Train Loss: 4.15  Valid Loss: 5.34  Valid NDCG: 0.3736
+Data Preparation: 3.1s
+Epoch: 11 (189.6s)  LR: 0.00090 Train Loss: 4.07  Valid Loss: 5.32  Valid NDCG: 0.3620
+Data Preparation: 2.8s
+UPDATE!!!
+Epoch: 12 (197.0s)  LR: 0.00083 Train Loss: 3.97  Valid Loss: 5.05  Valid NDCG: 0.4083
+Data Preparation: 3.0s
+Epoch: 13 (208.8s)  LR: 0.00075 Train Loss: 3.97  Valid Loss: 4.97  Valid NDCG: 0.4080
+Data Preparation: 34.9s
+UPDATE!!!
+Epoch: 14 (189.3s)  LR: 0.00066 Train Loss: 3.80  Valid Loss: 4.91  Valid NDCG: 0.4305
+Data Preparation: 46.6s
+UPDATE!!!
+Epoch: 15 (191.6s)  LR: 0.00056 Train Loss: 3.82  Valid Loss: 4.77  Valid NDCG: 0.4376
+Data Preparation: 8.8s
+Epoch: 16 (183.7s)  LR: 0.00046 Train Loss: 3.74  Valid Loss: 4.95  Valid NDCG: 0.4290
+Data Preparation: 3.2s
+UPDATE!!!
+Epoch: 17 (186.1s)  LR: 0.00036 Train Loss: 3.68  Valid Loss: 4.61  Valid NDCG: 0.4622
+Data Preparation: 8.4s
+Epoch: 18 (190.1s)  LR: 0.00027 Train Loss: 3.63  Valid Loss: 5.04  Valid NDCG: 0.4042
+Data Preparation: 3.2s
+Epoch: 19 (204.7s)  LR: 0.00019 Train Loss: 3.67  Valid Loss: 4.62  Valid NDCG: 0.4266
+Data Preparation: 3.2s
+Epoch: 20 (189.2s)  LR: 0.00012 Train Loss: 3.62  Valid Loss: 4.90  Valid NDCG: 0.4443
+Data Preparation: 3.2s
+Epoch: 21 (178.4s)  LR: 0.00006 Train Loss: 3.66  Valid Loss: 4.58  Valid NDCG: 0.4555
+Data Preparation: 3.2s
+Epoch: 22 (185.5s)  LR: 0.00002 Train Loss: 3.68  Valid Loss: 4.48  Valid NDCG: 0.4607
+Data Preparation: 3.3s
+Epoch: 23 (197.1s)  LR: 0.00000 Train Loss: 3.69  Valid Loss: 4.95  Valid NDCG: 0.4103
+Data Preparation: 3.2s
+UPDATE!!!
+Epoch: 24 (181.5s)  LR: 0.00000 Train Loss: 3.67  Valid Loss: 4.47  Valid NDCG: 0.4711
+Data Preparation: 3.3s
+Epoch: 25 (191.9s)  LR: 0.00003 Train Loss: 3.61  Valid Loss: 4.66  Valid NDCG: 0.4349
+Data Preparation: 3.6s
+UPDATE!!!
+Epoch: 26 (184.3s)  LR: 0.00007 Train Loss: 3.63  Valid Loss: 4.51  Valid NDCG: 0.4808
+Data Preparation: 3.3s
+Epoch: 27 (188.2s)  LR: 0.00012 Train Loss: 3.63  Valid Loss: 4.39  Valid NDCG: 0.4774
+Data Preparation: 3.2s
+Epoch: 28 (194.6s)  LR: 0.00020 Train Loss: 3.57  Valid Loss: 4.59  Valid NDCG: 0.4380
+Data Preparation: 3.2s
+Epoch: 29 (186.7s)  LR: 0.00028 Train Loss: 3.53  Valid Loss: 4.65  Valid NDCG: 0.4421
+Data Preparation: 3.3s
+Epoch: 30 (178.3s)  LR: 0.00038 Train Loss: 3.54  Valid Loss: 4.87  Valid NDCG: 0.4418
+Data Preparation: 3.2s
+Epoch: 31 (190.8s)  LR: 0.00048 Train Loss: 3.49  Valid Loss: 4.50  Valid NDCG: 0.4589
+Data Preparation: 4.0s
+Epoch: 32 (180.7s)  LR: 0.00058 Train Loss: 3.47  Valid Loss: 5.07  Valid NDCG: 0.4247
+Data Preparation: 3.2s
+Epoch: 33 (180.9s)  LR: 0.00067 Train Loss: 3.50  Valid Loss: 4.66  Valid NDCG: 0.4351
+Data Preparation: 3.2s
+Epoch: 34 (184.7s)  LR: 0.00076 Train Loss: 3.40  Valid Loss: 4.41  Valid NDCG: 0.4573
+Data Preparation: 3.3s
+Epoch: 35 (187.1s)  LR: 0.00084 Train Loss: 3.45  Valid Loss: 4.53  Valid NDCG: 0.4681
+Data Preparation: 3.3s
+Epoch: 36 (183.5s)  LR: 0.00091 Train Loss: 3.50  Valid Loss: 4.65  Valid NDCG: 0.4647
+Data Preparation: 3.3s
+Epoch: 37 (186.9s)  LR: 0.00096 Train Loss: 3.53  Valid Loss: 5.02  Valid NDCG: 0.4152
+Data Preparation: 3.2s
+Epoch: 38 (181.2s)  LR: 0.00099 Train Loss: 3.52  Valid Loss: 4.59  Valid NDCG: 0.4498
+Data Preparation: 3.4s
+Epoch: 39 (183.0s)  LR: 0.00100 Train Loss: 3.37  Valid Loss: 4.98  Valid NDCG: 0.4470
+Data Preparation: 3.4s
+Epoch: 40 (186.5s)  LR: 0.00099 Train Loss: 3.43  Valid Loss: 4.44  Valid NDCG: 0.4472
+Data Preparation: 3.4s
+Epoch: 41 (191.9s)  LR: 0.00096 Train Loss: 3.39  Valid Loss: 5.09  Valid NDCG: 0.4190
+Data Preparation: 3.3s
+Epoch: 42 (192.1s)  LR: 0.00092 Train Loss: 3.33  Valid Loss: 4.52  Valid NDCG: 0.4649
+Data Preparation: 3.5s
+Epoch: 43 (185.7s)  LR: 0.00085 Train Loss: 3.32  Valid Loss: 4.72  Valid NDCG: 0.4414
+Data Preparation: 3.3s
+Epoch: 44 (192.1s)  LR: 0.00077 Train Loss: 3.27  Valid Loss: 4.64  Valid NDCG: 0.4544
+Data Preparation: 3.2s
+Epoch: 45 (180.9s)  LR: 0.00068 Train Loss: 3.29  Valid Loss: 4.83  Valid NDCG: 0.4264
+Data Preparation: 3.4s
+Epoch: 46 (184.7s)  LR: 0.00059 Train Loss: 3.24  Valid Loss: 4.63  Valid NDCG: 0.4677
+Data Preparation: 3.2s
+Epoch: 47 (179.7s)  LR: 0.00049 Train Loss: 3.26  Valid Loss: 4.48  Valid NDCG: 0.4639
+Data Preparation: 3.1s
+Epoch: 48 (173.3s)  LR: 0.00039 Train Loss: 3.19  Valid Loss: 4.89  Valid NDCG: 0.4585
+Data Preparation: 3.2s
+Epoch: 49 (185.0s)  LR: 0.00029 Train Loss: 3.21  Valid Loss: 4.42  Valid NDCG: 0.4596
+Data Preparation: 3.3s
+Epoch: 50 (189.2s)  LR: 0.00021 Train Loss: 3.23  Valid Loss: 4.22  Valid NDCG: 0.4801
+Data Preparation: 3.3s
+Epoch: 51 (173.5s)  LR: 0.00013 Train Loss: 3.16  Valid Loss: 4.58  Valid NDCG: 0.4721
+Data Preparation: 3.3s
+Epoch: 52 (179.9s)  LR: 0.00007 Train Loss: 3.23  Valid Loss: 4.70  Valid NDCG: 0.4593
+Data Preparation: 3.1s
+UPDATE!!!
+Epoch: 53 (189.9s)  LR: 0.00003 Train Loss: 3.27  Valid Loss: 4.50  Valid NDCG: 0.4980
+Data Preparation: 3.1s
+UPDATE!!!
+Epoch: 54 (184.7s)  LR: 0.00001 Train Loss: 3.26  Valid Loss: 3.93  Valid NDCG: 0.5248
+Data Preparation: 3.2s
+Epoch: 55 (187.3s)  LR: 0.00000 Train Loss: 3.24  Valid Loss: 4.46  Valid NDCG: 0.4822
+Data Preparation: 3.3s
+Epoch: 56 (188.6s)  LR: 0.00002 Train Loss: 3.23  Valid Loss: 4.38  Valid NDCG: 0.4954
+Data Preparation: 3.2s
+Epoch: 57 (194.1s)  LR: 0.00005 Train Loss: 3.26  Valid Loss: 4.05  Valid NDCG: 0.5212
+Data Preparation: 3.3s
+Epoch: 58 (184.5s)  LR: 0.00011 Train Loss: 3.20  Valid Loss: 3.98  Valid NDCG: 0.5238
+Data Preparation: 3.0s
+Epoch: 59 (180.6s)  LR: 0.00018 Train Loss: 3.13  Valid Loss: 4.24  Valid NDCG: 0.5112
+Data Preparation: 3.2s
+Epoch: 60 (182.4s)  LR: 0.00026 Train Loss: 3.13  Valid Loss: 4.10  Valid NDCG: 0.5129
+Data Preparation: 3.2s
+Epoch: 61 (181.2s)  LR: 0.00035 Train Loss: 3.13  Valid Loss: 4.65  Valid NDCG: 0.4569
+Data Preparation: 3.2s
+Epoch: 62 (193.3s)  LR: 0.00045 Train Loss: 3.08  Valid Loss: 4.47  Valid NDCG: 0.4753
+Data Preparation: 3.3s
+Epoch: 63 (198.5s)  LR: 0.00055 Train Loss: 3.10  Valid Loss: 4.68  Valid NDCG: 0.4881
+Data Preparation: 3.2s
+Epoch: 64 (224.7s)  LR: 0.00065 Train Loss: 3.13  Valid Loss: 4.31  Valid NDCG: 0.4974
+Data Preparation: 3.1s
+Epoch: 65 (198.4s)  LR: 0.00074 Train Loss: 3.08  Valid Loss: 4.24  Valid NDCG: 0.4996
+Data Preparation: 3.2s
+Epoch: 66 (209.2s)  LR: 0.00082 Train Loss: 3.05  Valid Loss: 4.59  Valid NDCG: 0.4806
+Data Preparation: 3.1s
+Epoch: 67 (241.9s)  LR: 0.00089 Train Loss: 3.11  Valid Loss: 4.55  Valid NDCG: 0.4663
+Data Preparation: 3.2s
+Epoch: 68 (224.0s)  LR: 0.00095 Train Loss: 3.11  Valid Loss: 4.98  Valid NDCG: 0.4519
+Data Preparation: 3.4s
+Epoch: 69 (190.5s)  LR: 0.00098 Train Loss: 3.10  Valid Loss: 4.69  Valid NDCG: 0.4799
+Data Preparation: 3.2s
+Epoch: 70 (234.3s)  LR: 0.00100 Train Loss: 3.16  Valid Loss: 5.21  Valid NDCG: 0.3971
+Data Preparation: 3.4s
+Epoch: 71 (229.7s)  LR: 0.00100 Train Loss: 3.12  Valid Loss: 4.60  Valid NDCG: 0.4692
+Data Preparation: 3.4s
+Epoch: 72 (229.2s)  LR: 0.00097 Train Loss: 3.09  Valid Loss: 4.56  Valid NDCG: 0.4650
+Data Preparation: 3.2s
+Epoch: 73 (227.8s)  LR: 0.00093 Train Loss: 3.09  Valid Loss: 4.73  Valid NDCG: 0.4560
+Data Preparation: 3.2s
+Epoch: 74 (200.0s)  LR: 0.00087 Train Loss: 3.09  Valid Loss: 4.77  Valid NDCG: 0.4366
+Data Preparation: 3.3s
+Epoch: 75 (181.3s)  LR: 0.00079 Train Loss: 3.04  Valid Loss: 4.91  Valid NDCG: 0.4303
+Data Preparation: 3.0s
+Epoch: 76 (185.5s)  LR: 0.00071 Train Loss: 3.06  Valid Loss: 4.78  Valid NDCG: 0.4852
+Data Preparation: 3.3s
+Epoch: 77 (182.5s)  LR: 0.00061 Train Loss: 3.06  Valid Loss: 4.65  Valid NDCG: 0.4893
+Data Preparation: 3.3s
+Epoch: 78 (185.4s)  LR: 0.00051 Train Loss: 3.02  Valid Loss: 4.83  Valid NDCG: 0.4673
+Data Preparation: 3.2s
+Epoch: 79 (188.9s)  LR: 0.00041 Train Loss: 3.00  Valid Loss: 4.58  Valid NDCG: 0.4664
+Data Preparation: 3.1s
+Epoch: 80 (185.6s)  LR: 0.00032 Train Loss: 2.98  Valid Loss: 4.55  Valid NDCG: 0.4797
+Data Preparation: 3.3s
+Epoch: 81 (188.5s)  LR: 0.00023 Train Loss: 2.96  Valid Loss: 4.20  Valid NDCG: 0.5080
+Data Preparation: 3.0s
+Epoch: 82 (186.5s)  LR: 0.00015 Train Loss: 2.99  Valid Loss: 4.25  Valid NDCG: 0.5075
+Data Preparation: 3.3s
+UPDATE!!!
+Epoch: 83 (183.7s)  LR: 0.00009 Train Loss: 3.06  Valid Loss: 3.88  Valid NDCG: 0.5415
+Data Preparation: 2.9s
+Epoch: 84 (185.8s)  LR: 0.00004 Train Loss: 3.00  Valid Loss: 4.28  Valid NDCG: 0.5080
+Data Preparation: 3.2s
+UPDATE!!!
+Epoch: 85 (181.4s)  LR: 0.00001 Train Loss: 3.05  Valid Loss: 4.07  Valid NDCG: 0.5466
+Data Preparation: 2.9s
+Epoch: 86 (183.9s)  LR: 0.00000 Train Loss: 3.03  Valid Loss: 4.26  Valid NDCG: 0.5003
+Data Preparation: 3.1s
+Epoch: 87 (194.8s)  LR: 0.00001 Train Loss: 3.06  Valid Loss: 4.16  Valid NDCG: 0.5200
+Data Preparation: 3.2s
+Epoch: 88 (177.0s)  LR: 0.00004 Train Loss: 3.04  Valid Loss: 4.48  Valid NDCG: 0.4965
+Data Preparation: 2.8s
+Epoch: 89 (185.3s)  LR: 0.00009 Train Loss: 3.02  Valid Loss: 4.16  Valid NDCG: 0.5025
+Data Preparation: 3.5s
+Epoch: 90 (195.8s)  LR: 0.00016 Train Loss: 2.99  Valid Loss: 4.19  Valid NDCG: 0.5219
+Data Preparation: 3.3s
+UPDATE!!!
+Epoch: 91 (191.8s)  LR: 0.00024 Train Loss: 2.92  Valid Loss: 3.84  Valid NDCG: 0.5738
+Data Preparation: 3.9s
+Epoch: 92 (198.7s)  LR: 0.00033 Train Loss: 2.91  Valid Loss: 4.00  Valid NDCG: 0.5127
+Data Preparation: 3.5s
+Epoch: 93 (181.1s)  LR: 0.00043 Train Loss: 2.89  Valid Loss: 4.50  Valid NDCG: 0.4926
+Data Preparation: 3.2s
+Epoch: 94 (192.0s)  LR: 0.00053 Train Loss: 2.87  Valid Loss: 4.09  Valid NDCG: 0.5033
+Data Preparation: 3.4s
+Epoch: 95 (189.4s)  LR: 0.00062 Train Loss: 2.93  Valid Loss: 4.63  Valid NDCG: 0.4735
+Data Preparation: 3.3s
+Epoch: 96 (183.4s)  LR: 0.00072 Train Loss: 2.88  Valid Loss: 4.38  Valid NDCG: 0.4876
+Data Preparation: 3.4s
+Epoch: 97 (197.5s)  LR: 0.00080 Train Loss: 2.85  Valid Loss: 4.40  Valid NDCG: 0.5191
+Data Preparation: 3.2s
+Epoch: 98 (185.2s)  LR: 0.00088 Train Loss: 2.86  Valid Loss: 4.38  Valid NDCG: 0.5090
+Data Preparation: 3.3s
+Epoch: 99 (186.8s)  LR: 0.00094 Train Loss: 2.90  Valid Loss: 4.45  Valid NDCG: 0.4734
+Data Preparation: 3.8s
+Epoch: 100 (182.5s)  LR: 0.00098 Train Loss: 2.91  Valid Loss: 4.60  Valid NDCG: 0.4730
+Data Preparation: 3.1s
+Epoch: 101 (185.7s)  LR: 0.00100 Train Loss: 2.85  Valid Loss: 4.94  Valid NDCG: 0.4657
+Data Preparation: 3.2s
+Epoch: 102 (183.5s)  LR: 0.00100 Train Loss: 2.90  Valid Loss: 5.15  Valid NDCG: 0.4620
+Data Preparation: 3.0s
+Epoch: 103 (179.5s)  LR: 0.00098 Train Loss: 2.90  Valid Loss: 5.77  Valid NDCG: 0.3554
+Data Preparation: 3.2s
+Epoch: 104 (185.5s)  LR: 0.00094 Train Loss: 2.87  Valid Loss: 4.55  Valid NDCG: 0.4869
+Data Preparation: 3.4s
+Epoch: 105 (182.2s)  LR: 0.00089 Train Loss: 2.88  Valid Loss: 4.52  Valid NDCG: 0.4918
+Data Preparation: 3.4s
+Epoch: 106 (186.4s)  LR: 0.00081 Train Loss: 2.84  Valid Loss: 4.58  Valid NDCG: 0.4642
+Data Preparation: 2.9s
+Epoch: 107 (189.6s)  LR: 0.00073 Train Loss: 2.82  Valid Loss: 4.15  Valid NDCG: 0.5061
+Data Preparation: 3.1s
+Epoch: 108 (188.8s)  LR: 0.00064 Train Loss: 2.84  Valid Loss: 4.38  Valid NDCG: 0.5102
+Data Preparation: 3.1s
+Epoch: 109 (193.8s)  LR: 0.00054 Train Loss: 2.84  Valid Loss: 4.43  Valid NDCG: 0.5051
+Data Preparation: 3.3s
+Epoch: 110 (184.5s)  LR: 0.00044 Train Loss: 2.84  Valid Loss: 4.29  Valid NDCG: 0.5300
+Data Preparation: 3.2s
+Epoch: 111 (191.1s)  LR: 0.00034 Train Loss: 2.84  Valid Loss: 4.59  Valid NDCG: 0.4956
+Data Preparation: 2.8s
+Epoch: 112 (189.6s)  LR: 0.00025 Train Loss: 2.86  Valid Loss: 4.56  Valid NDCG: 0.5016
+Data Preparation: 3.5s
+UPDATE!!!
+Epoch: 113 (193.2s)  LR: 0.00017 Train Loss: 2.80  Valid Loss: 4.03  Valid NDCG: 0.5760
+Data Preparation: 3.3s
+Epoch: 114 (182.0s)  LR: 0.00010 Train Loss: 2.83  Valid Loss: 3.94  Valid NDCG: 0.5456
+Data Preparation: 3.1s
+Epoch: 115 (184.0s)  LR: 0.00005 Train Loss: 2.87  Valid Loss: 4.07  Valid NDCG: 0.5139
+Data Preparation: 3.0s
+Epoch: 116 (220.4s)  LR: 0.00002 Train Loss: 2.92  Valid Loss: 4.38  Valid NDCG: 0.5137
+Data Preparation: 3.0s
+Epoch: 117 (216.9s)  LR: 0.00000 Train Loss: 2.91  Valid Loss: 4.39  Valid NDCG: 0.4738
+Data Preparation: 3.1s
+Epoch: 118 (185.0s)  LR: 0.00001 Train Loss: 2.90  Valid Loss: 4.28  Valid NDCG: 0.5255
+Data Preparation: 3.2s
+Epoch: 119 (186.7s)  LR: 0.00003 Train Loss: 2.90  Valid Loss: 4.85  Valid NDCG: 0.4591
+Data Preparation: 3.2s
+Epoch: 120 (183.2s)  LR: 0.00008 Train Loss: 2.86  Valid Loss: 4.07  Valid NDCG: 0.5434
+Data Preparation: 3.4s
+Epoch: 121 (185.0s)  LR: 0.00014 Train Loss: 2.81  Valid Loss: 4.59  Valid NDCG: 0.4985
+Data Preparation: 2.9s
+Epoch: 122 (195.9s)  LR: 0.00022 Train Loss: 2.78  Valid Loss: 4.40  Valid NDCG: 0.5034
+Data Preparation: 3.1s
+Epoch: 123 (214.5s)  LR: 0.00031 Train Loss: 2.79  Valid Loss: 4.07  Valid NDCG: 0.5193
+Data Preparation: 3.2s
+Epoch: 124 (222.6s)  LR: 0.00040 Train Loss: 2.73  Valid Loss: 4.49  Valid NDCG: 0.4933
+Data Preparation: 3.1s
+Epoch: 125 (202.9s)  LR: 0.00050 Train Loss: 2.75  Valid Loss: 4.54  Valid NDCG: 0.4727
+Data Preparation: 3.1s
+Epoch: 126 (186.8s)  LR: 0.00060 Train Loss: 2.68  Valid Loss: 4.71  Valid NDCG: 0.4812
+Data Preparation: 3.6s
+Epoch: 127 (186.1s)  LR: 0.00070 Train Loss: 2.69  Valid Loss: 4.59  Valid NDCG: 0.4781
+Data Preparation: 3.1s
+Epoch: 128 (188.1s)  LR: 0.00078 Train Loss: 2.74  Valid Loss: 4.83  Valid NDCG: 0.5049
+Data Preparation: 3.2s
+Epoch: 129 (184.7s)  LR: 0.00086 Train Loss: 2.72  Valid Loss: 4.25  Valid NDCG: 0.5336
+Data Preparation: 3.0s
+Epoch: 130 (191.2s)  LR: 0.00092 Train Loss: 2.74  Valid Loss: 4.96  Valid NDCG: 0.4686
+Data Preparation: 3.5s
+Epoch: 131 (188.4s)  LR: 0.00097 Train Loss: 2.72  Valid Loss: 4.51  Valid NDCG: 0.5014
+Data Preparation: 2.9s
+Epoch: 132 (190.8s)  LR: 0.00099 Train Loss: 2.70  Valid Loss: 4.39  Valid NDCG: 0.4928
+Data Preparation: 2.9s
+Epoch: 133 (183.5s)  LR: 0.00100 Train Loss: 2.74  Valid Loss: 4.25  Valid NDCG: 0.5189
+Data Preparation: 3.0s
+Epoch: 134 (182.9s)  LR: 0.00099 Train Loss: 2.73  Valid Loss: 4.39  Valid NDCG: 0.5124
+Data Preparation: 3.2s
+Epoch: 135 (187.2s)  LR: 0.00095 Train Loss: 2.75  Valid Loss: 4.53  Valid NDCG: 0.5055
+Data Preparation: 3.1s
+Epoch: 136 (184.6s)  LR: 0.00090 Train Loss: 2.77  Valid Loss: 4.67  Valid NDCG: 0.4646
+Data Preparation: 3.1s
+Epoch: 137 (183.1s)  LR: 0.00083 Train Loss: 2.75  Valid Loss: 4.99  Valid NDCG: 0.4349
+Data Preparation: 3.2s
+Epoch: 138 (190.7s)  LR: 0.00075 Train Loss: 2.74  Valid Loss: 4.63  Valid NDCG: 0.4792
+Data Preparation: 3.0s
+Epoch: 139 (182.8s)  LR: 0.00066 Train Loss: 2.73  Valid Loss: 4.82  Valid NDCG: 0.4774
+Data Preparation: 3.1s
+Epoch: 140 (182.5s)  LR: 0.00056 Train Loss: 2.69  Valid Loss: 4.57  Valid NDCG: 0.5024
+Data Preparation: 3.4s
+Epoch: 141 (183.2s)  LR: 0.00046 Train Loss: 2.73  Valid Loss: 4.39  Valid NDCG: 0.5083
+Data Preparation: 2.9s
+Epoch: 142 (187.8s)  LR: 0.00036 Train Loss: 2.69  Valid Loss: 4.43  Valid NDCG: 0.5080
+Data Preparation: 3.1s
+Epoch: 143 (186.9s)  LR: 0.00027 Train Loss: 2.69  Valid Loss: 4.34  Valid NDCG: 0.5224
+Data Preparation: 3.1s
+Epoch: 144 (181.5s)  LR: 0.00019 Train Loss: 2.66  Valid Loss: 4.08  Valid NDCG: 0.5269
+Data Preparation: 3.1s
+Epoch: 145 (190.4s)  LR: 0.00012 Train Loss: 2.74  Valid Loss: 4.00  Valid NDCG: 0.5621
+Data Preparation: 3.2s
+Epoch: 146 (190.1s)  LR: 0.00006 Train Loss: 2.76  Valid Loss: 4.19  Valid NDCG: 0.5288
+Data Preparation: 3.3s
+Epoch: 147 (185.3s)  LR: 0.00002 Train Loss: 2.75  Valid Loss: 4.22  Valid NDCG: 0.5215
+Data Preparation: 3.3s
+Epoch: 148 (186.4s)  LR: 0.00000 Train Loss: 2.78  Valid Loss: 4.40  Valid NDCG: 0.4980
+Data Preparation: 3.0s
+Epoch: 149 (186.4s)  LR: 0.00000 Train Loss: 2.77  Valid Loss: 4.30  Valid NDCG: 0.5210
+Data Preparation: 3.3s
+Epoch: 150 (193.6s)  LR: 0.00003 Train Loss: 2.79  Valid Loss: 4.05  Valid NDCG: 0.5352
+Data Preparation: 3.1s
+Epoch: 151 (191.9s)  LR: 0.00007 Train Loss: 2.77  Valid Loss: 4.37  Valid NDCG: 0.5099
+Data Preparation: 3.3s
+Epoch: 152 (186.6s)  LR: 0.00012 Train Loss: 2.74  Valid Loss: 4.28  Valid NDCG: 0.5241
+Data Preparation: 3.1s
+Epoch: 153 (185.9s)  LR: 0.00020 Train Loss: 2.65  Valid Loss: 4.19  Valid NDCG: 0.5281
+Data Preparation: 3.0s
+Epoch: 154 (177.5s)  LR: 0.00028 Train Loss: 2.65  Valid Loss: 4.08  Valid NDCG: 0.5461
+Data Preparation: 3.1s
+Epoch: 155 (179.1s)  LR: 0.00038 Train Loss: 2.66  Valid Loss: 4.43  Valid NDCG: 0.4936
+Data Preparation: 2.9s
+Epoch: 156 (184.6s)  LR: 0.00048 Train Loss: 2.61  Valid Loss: 4.26  Valid NDCG: 0.5181
+Data Preparation: 3.2s
+Epoch: 157 (183.6s)  LR: 0.00058 Train Loss: 2.56  Valid Loss: 4.38  Valid NDCG: 0.5143
+Data Preparation: 3.1s
+Epoch: 158 (184.2s)  LR: 0.00067 Train Loss: 2.57  Valid Loss: 4.40  Valid NDCG: 0.5088
+Data Preparation: 3.4s
+Epoch: 159 (184.0s)  LR: 0.00076 Train Loss: 2.56  Valid Loss: 4.31  Valid NDCG: 0.5208
+Data Preparation: 3.0s
+Epoch: 160 (180.4s)  LR: 0.00084 Train Loss: 2.61  Valid Loss: 4.57  Valid NDCG: 0.5178
+Data Preparation: 3.0s
+Epoch: 161 (190.2s)  LR: 0.00091 Train Loss: 2.63  Valid Loss: 4.58  Valid NDCG: 0.5106
+Data Preparation: 3.3s
+Epoch: 162 (197.6s)  LR: 0.00096 Train Loss: 2.63  Valid Loss: 4.51  Valid NDCG: 0.4917
+Data Preparation: 3.2s
+Epoch: 163 (189.5s)  LR: 0.00099 Train Loss: 2.60  Valid Loss: 4.71  Valid NDCG: 0.4751
+Data Preparation: 2.9s
+Epoch: 164 (187.1s)  LR: 0.00100 Train Loss: 2.63  Valid Loss: 5.06  Valid NDCG: 0.4529
+Data Preparation: 3.1s
+Epoch: 165 (181.8s)  LR: 0.00099 Train Loss: 2.63  Valid Loss: 4.66  Valid NDCG: 0.4807
+Data Preparation: 3.0s
+Epoch: 166 (184.5s)  LR: 0.00096 Train Loss: 2.62  Valid Loss: 4.14  Valid NDCG: 0.5226
+Data Preparation: 3.2s
+Epoch: 167 (184.1s)  LR: 0.00092 Train Loss: 2.65  Valid Loss: 4.50  Valid NDCG: 0.4834
+Data Preparation: 3.1s
+Epoch: 168 (186.8s)  LR: 0.00085 Train Loss: 2.59  Valid Loss: 4.75  Valid NDCG: 0.4812
+Data Preparation: 3.0s
+Epoch: 169 (182.5s)  LR: 0.00077 Train Loss: 2.60  Valid Loss: 5.01  Valid NDCG: 0.4613
+Data Preparation: 3.1s
+Epoch: 170 (182.7s)  LR: 0.00068 Train Loss: 2.61  Valid Loss: 4.27  Valid NDCG: 0.5263
+Data Preparation: 2.9s
+Epoch: 171 (191.0s)  LR: 0.00059 Train Loss: 2.57  Valid Loss: 4.33  Valid NDCG: 0.5099
+Data Preparation: 3.0s
+Epoch: 172 (186.9s)  LR: 0.00049 Train Loss: 2.64  Valid Loss: 4.90  Valid NDCG: 0.4639
+Data Preparation: 3.1s
+Epoch: 173 (186.4s)  LR: 0.00039 Train Loss: 2.59  Valid Loss: 4.55  Valid NDCG: 0.5125
+Data Preparation: 3.3s
+Epoch: 174 (186.4s)  LR: 0.00029 Train Loss: 2.58  Valid Loss: 4.15  Valid NDCG: 0.5428
+Data Preparation: 2.9s
+Epoch: 175 (186.7s)  LR: 0.00021 Train Loss: 2.60  Valid Loss: 4.49  Valid NDCG: 0.5124
+Data Preparation: 3.3s
+Epoch: 176 (183.6s)  LR: 0.00013 Train Loss: 2.59  Valid Loss: 4.33  Valid NDCG: 0.5125
+Data Preparation: 3.2s
+Epoch: 177 (191.0s)  LR: 0.00007 Train Loss: 2.65  Valid Loss: 4.45  Valid NDCG: 0.5001
+Data Preparation: 3.0s
+Epoch: 178 (190.3s)  LR: 0.00003 Train Loss: 2.65  Valid Loss: 4.30  Valid NDCG: 0.5138
+Data Preparation: 3.3s
+Epoch: 179 (191.7s)  LR: 0.00001 Train Loss: 2.70  Valid Loss: 4.34  Valid NDCG: 0.5100
+Data Preparation: 3.3s
+Epoch: 180 (191.3s)  LR: 0.00000 Train Loss: 2.70  Valid Loss: 4.34  Valid NDCG: 0.5105
+Data Preparation: 3.2s
+Epoch: 181 (188.9s)  LR: 0.00002 Train Loss: 2.65  Valid Loss: 4.33  Valid NDCG: 0.5665
+Data Preparation: 3.1s
+Epoch: 182 (196.5s)  LR: 0.00005 Train Loss: 2.67  Valid Loss: 4.05  Valid NDCG: 0.5329
+Data Preparation: 4.0s
+Epoch: 183 (188.5s)  LR: 0.00011 Train Loss: 2.60  Valid Loss: 4.47  Valid NDCG: 0.4882
+Data Preparation: 3.0s
+Epoch: 184 (188.9s)  LR: 0.00018 Train Loss: 2.61  Valid Loss: 4.06  Valid NDCG: 0.5504
+Data Preparation: 3.3s
+Epoch: 185 (189.9s)  LR: 0.00026 Train Loss: 2.58  Valid Loss: 4.70  Valid NDCG: 0.4948
+Data Preparation: 2.8s
+Epoch: 186 (192.3s)  LR: 0.00035 Train Loss: 2.52  Valid Loss: 4.24  Valid NDCG: 0.5234
+Data Preparation: 3.1s
+Epoch: 187 (189.9s)  LR: 0.00045 Train Loss: 2.49  Valid Loss: 4.04  Valid NDCG: 0.5339
+Data Preparation: 3.0s
+Epoch: 188 (183.5s)  LR: 0.00055 Train Loss: 2.50  Valid Loss: 3.92  Valid NDCG: 0.5409
+Data Preparation: 3.3s
+Epoch: 189 (184.7s)  LR: 0.00065 Train Loss: 2.45  Valid Loss: 4.47  Valid NDCG: 0.5080
+Data Preparation: 3.3s
+Epoch: 190 (183.1s)  LR: 0.00074 Train Loss: 2.51  Valid Loss: 4.26  Valid NDCG: 0.5103
+Data Preparation: 2.8s
+Epoch: 191 (179.3s)  LR: 0.00082 Train Loss: 2.50  Valid Loss: 4.33  Valid NDCG: 0.4998
+Data Preparation: 2.9s
+Epoch: 192 (185.9s)  LR: 0.00089 Train Loss: 2.50  Valid Loss: 4.78  Valid NDCG: 0.4902
+Data Preparation: 3.0s
+Epoch: 193 (180.4s)  LR: 0.00095 Train Loss: 2.47  Valid Loss: 5.15  Valid NDCG: 0.4240
+Data Preparation: 3.2s
+Epoch: 194 (190.2s)  LR: 0.00098 Train Loss: 2.45  Valid Loss: 4.97  Valid NDCG: 0.4656
+Data Preparation: 3.4s
+Epoch: 195 (191.0s)  LR: 0.00100 Train Loss: 2.51  Valid Loss: 4.42  Valid NDCG: 0.5248
+Data Preparation: 3.3s
+Epoch: 196 (179.5s)  LR: 0.00100 Train Loss: 2.52  Valid Loss: 5.01  Valid NDCG: 0.4443
+Data Preparation: 2.9s
+Epoch: 197 (178.1s)  LR: 0.00097 Train Loss: 2.58  Valid Loss: 4.27  Valid NDCG: 0.5272
+Data Preparation: 3.1s
+Epoch: 198 (188.5s)  LR: 0.00093 Train Loss: 2.52  Valid Loss: 4.34  Valid NDCG: 0.5207
+Data Preparation: 3.0s
+Epoch: 199 (188.9s)  LR: 0.00087 Train Loss: 2.49  Valid Loss: 4.80  Valid NDCG: 0.4905
+Data Preparation: 3.1s
+Epoch: 200 (175.1s)  LR: 0.00079 Train Loss: 2.47  Valid Loss: 4.65  Valid NDCG: 0.5073
+Last Test NDCG: 0.4479
+Last Test MRR:  0.2696
+Traceback (most recent call last):
+  File "train_paper_venue.py", line 335, in <module>
+    paper_rep = gnn.forward(node_feature.to(device), node_type.to(device), \
+  File "/data1/huangzg/research/pyHGT_OAG/pyHGT/model.py", line 79, in forward
+    res[idx] = torch.tanh(self.adapt_ws[t_id](node_feature[idx]))
+  File "/data1/huangzg/anaconda3/envs/PY38_HGT/lib/python3.8/site-packages/torch/nn/modules/module.py", line 532, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/data1/huangzg/anaconda3/envs/PY38_HGT/lib/python3.8/site-packages/torch/nn/modules/linear.py", line 87, in forward
+    return F.linear(input, self.weight, self.bias)
+  File "/data1/huangzg/anaconda3/envs/PY38_HGT/lib/python3.8/site-packages/torch/nn/functional.py", line 1370, in linear
+    ret = torch.addmm(bias, input, weight.t())
+RuntimeError: size mismatch, m1: [1024 x 1180], m2: [1169 x 400] at /opt/conda/conda-bld/pytorch_1579061855666/work/aten/src/THC/generic/THCTensorMathBlas.cu:290
+Exception ignored in: <function Pool.__del__ at 0x7f31559571f0>
+Traceback (most recent call last):
+  File "/data1/huangzg/anaconda3/envs/PY38_HGT/lib/python3.8/multiprocessing/pool.py", line 268, in __del__
+  File "/data1/huangzg/anaconda3/envs/PY38_HGT/lib/python3.8/multiprocessing/queues.py", line 362, in put
+AttributeError: 'NoneType' object has no attribute 'dumps'
